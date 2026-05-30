@@ -1,0 +1,7 @@
+data/raw/_tmp*
+data/downloads/
+__pycache__/
+*.pyc
+data/base/DATA_01-2013_03-2018.tar.gz
+data/raw/progress_*.json
+run_all.bat
