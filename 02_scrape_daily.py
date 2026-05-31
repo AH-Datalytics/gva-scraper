@@ -182,7 +182,8 @@ def scrape_day(page, query_date):
     return all_rows
 
 def launch_browser(pw):
-    browser = pw.chromium.launch(headless=False)
+    headless = os.environ.get("DISPLAY") is None  # headless if no display (VPS)
+    browser = pw.chromium.launch(headless=headless)
     context = browser.new_context(
         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
     )
