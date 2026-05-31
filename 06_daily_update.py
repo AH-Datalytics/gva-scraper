@@ -91,7 +91,7 @@ def git_push(message):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--days", type=int, default=30, help="Days to look back")
+    parser.add_argument("--days", type=int, default=60, help="Days to look back")
     parser.add_argument("--no-push", action="store_true", help="Skip git push")
     args = parser.parse_args()
 
