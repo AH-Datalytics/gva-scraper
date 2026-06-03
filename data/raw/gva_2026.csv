@@ -11646,3 +11646,67 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3479829,"June 1, 2026",Kentucky,Louisville,100 block of W Oak St,2,1,0,0,0
 3479811,"June 1, 2026",Kentucky,Louisville,Oleanda Ave and 7th Street Rd,0,1,0,0,0
 3479792,"June 1, 2026",Iowa,Johnston,5700 block of Linden Ct,0,1,1,0,0
+3480051,"May 26, 2026",Louisiana,Baton Rouge,9829 Airline Hwy,0,1,0,0,1
+3480148,"May 27, 2026",Washington,Oroville,N/A,1,0,0,0,0
+3480215,"May 30, 2026",Ohio,Cleveland (Cleveland Heights),1000 block of Allston Rd,1,0,0,0,0
+3480090,"May 30, 2026",Louisiana,Monroe,4204 Ponder St,1,0,0,0,0
+3480537,"May 30, 2026",Indiana,Gary,4700 block of Adams St,0,1,0,0,1
+3480532,"May 30, 2026",New Jersey,Elizabeth,Caldwell Pl,1,0,0,0,0
+3480524,"May 31, 2026",Massachusetts,Taunton,Adams St,0,2,0,0,1
+3480227,"May 31, 2026",Ohio,Sandusky,1500 block of Pearl St,1,0,0,0,1
+3480238,"May 31, 2026",Alabama,Talladega,600 block of Mc Alpine St,1,0,0,0,0
+3479968,"May 31, 2026",Oklahoma,Tulsa,6728 S Utica Ave,0,0,1,0,0
+3480102,"May 31, 2026",Illinois,Oak Park,Harrison St and Austin Blvd,0,0,1,0,0
+3479963,"May 31, 2026",Tennessee,Memphis,I-240 and Lamar Ave,0,1,0,0,1
+3480593,"May 31, 2026",Kentucky,Radcliff,2300 S Dixie Blvd,0,1,0,0,0
+3480548,"May 31, 2026",South Carolina,Myrtle Beach,1011 Osceola St,0,2,0,0,1
+3480439,"June 1, 2026",New York,Bronx,Fulton Ave and E 170th St,0,1,0,0,0
+3480363,"June 1, 2026",Washington,Federal Way,2400 block of S Star Lake Rd,1,0,0,0,0
+3480300,"June 1, 2026",Iowa,Ames,200 block of Franklin Ave,0,2,0,0,0
+3480289,"June 1, 2026",Ohio,Cleveland,Lakeshore Blvd and Neff Rd,1,0,0,0,0
+3480198,"June 1, 2026",Michigan,Detroit,11946 Gratiot Ave,1,1,0,0,0
+3480217,"June 1, 2026",Oklahoma,Bartlesville,1441 S Santa Fe Ave,0,1,0,0,1
+3480172,"June 1, 2026",Georgia,Macon,1000 block of Fort Hill St,0,1,0,0,0
+3480163,"June 1, 2026",Georgia,Atlanta,76 Stafford St SW,1,0,0,0,1
+3480160,"June 1, 2026",Georgia,Atlanta,2070 Alison Ct SW,0,1,0,0,0
+3480157,"June 1, 2026",Georgia,Lagrange,300 block of Dix St,1,0,0,0,1
+3480132,"June 1, 2026",Mississippi,Purvis,101 Weems St,1,0,0,0,1
+3480004,"June 1, 2026",Texas,Katy,1002 Katy Gap Rd,1,0,1,0,0
+3480122,"June 1, 2026",Maryland,Baltimore,1800 block of Clifton Ave,0,1,0,0,0
+3480119,"June 1, 2026",Florida,Miami,3298 NW 79th St,0,1,0,0,1
+3480012,"June 1, 2026",Nevada,Fernley,1600 block of Burger Rd,1,0,0,0,2
+3480020,"June 1, 2026",Texas,Beaumont,2250 W Virginia St,0,2,0,0,1
+3479966,"June 1, 2026",Tennessee,Memphis,I-240 and Union Ave,0,1,0,0,0
+3480560,"June 1, 2026",South Carolina,Orangeburg,Baugh St,0,1,0,0,0
+3480520,"June 2, 2026",Connecticut,Waterbury,N/A,0,1,0,0,0
+3480501,"June 2, 2026",Connecticut,New Britain,Arch St,0,1,0,0,0
+3480489,"June 2, 2026",Washington,Tacoma,800 block of Martin Luther King Jr Way,1,0,0,0,0
+3480469,"June 2, 2026",South Carolina,Fort Mill,1555 Paddock Club Ln,0,0,0,1,0
+3480466,"June 2, 2026",Colorado,Denver,620 N Santa Fe Dr,0,0,0,1,1
+3480448,"June 2, 2026",North Carolina,Raleigh,100 block of Summit Ave,0,0,0,1,0
+3480437,"June 2, 2026",North Carolina,Charlotte,5100 block of Equipment Dr,0,1,0,0,0
+3480417,"June 2, 2026",Maryland,Upper Marlboro,10400 block of Birdie Ln,0,1,0,0,0
+3479986,"June 2, 2026",Missouri,Saint Louis,1300 block of Howard St,0,1,0,0,0
+3480411,"June 2, 2026",Missouri,Saint Louis,11600 block of Petite Chalet Dr,0,2,0,0,0
+3480396,"June 2, 2026",California,Mountain Center,CA-74 and Ribbonwood Dr,0,1,0,0,1
+3480356,"June 2, 2026",Indiana,Logansport,1400 block of E Broadway,0,1,0,0,0
+3480326,"June 2, 2026",Louisiana,Shreveport,Via St,0,1,0,0,0
+3480263,"June 2, 2026",California,Huntington Beach,Warner Ave and Lynn Ln,0,2,0,0,1
+3480249,"June 2, 2026",California,Fresno,3919 E Belmont Ave,0,1,0,0,0
+3480242,"June 2, 2026",Kansas,Kansas City,3400 block of Bell Crossing Dr,0,0,0,1,1
+3480195,"June 2, 2026",Wisconsin,Milwaukee,N 25th St and W Hope Ave,0,1,0,0,0
+3480111,"June 2, 2026",Florida,Jacksonville,6237 Arlington Expy,0,2,0,0,0
+3480066,"June 2, 2026",Texas,Dallas,1805 Sylvan Ave,1,0,0,0,0
+3480049,"June 2, 2026",Texas,Dallas,1800 block of Sylvan Ave,1,0,0,0,0
+3480632,"June 2, 2026",Illinois,Chicago,6400 block of S King Dr,0,2,0,0,3
+3480625,"June 2, 2026",Illinois,Chicago,1200 block of W 98th St,1,1,0,0,0
+3480618,"June 2, 2026",Illinois,Kewanee,200 block of N Boss St,0,1,0,0,1
+3480596,"June 2, 2026",Michigan,Detroit,Woodward Ave and Mack Ave,0,1,0,0,0
+3480608,"June 2, 2026",Tennessee,Memphis,4600 block of Cotton Ln,0,1,0,0,0
+3480575,"June 2, 2026",Illinois,Urbana,1600 block of Ivanhoe Way,0,1,0,0,0
+3480567,"June 2, 2026",Illinois,Rantoul,600 block of St Andrews Cir,0,1,0,0,0
+3480565,"June 2, 2026",West Virginia,Huntington,100 block of Baer St,0,1,0,0,0
+3480546,"June 2, 2026",Indiana,Fort Wayne,1800 block of Hale Ave,0,1,0,0,0
+3480552,"June 2, 2026",Indiana,Fort Wayne,Lafayette St and E Oakdale Dr,0,1,0,0,1
+3480528,"June 2, 2026",New Jersey,Atlantic City,100 block of North Florida Ave,1,2,0,0,0
+3479785,"June 2, 2026",Pennsylvania,Pittsburgh,500 block of Holmes St,1,0,0,0,0
