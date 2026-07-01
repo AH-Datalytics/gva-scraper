@@ -14081,3 +14081,84 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3498325,"June 29, 2026",Mississippi,Meridian,Grand Oak Dr,0,1,0,0,0
 3498314,"June 29, 2026",Kentucky,Louisville,8800 block of 3rd Street Rd,0,2,0,0,0
 3498252,"June 29, 2026",Kentucky,Hopkinsville,4000 Fort Campbell Blvd,0,1,0,0,1
+3498809,"June 17, 2026",Oregon,Portland,6200 block of NE Columbia Blvd,0,1,0,0,1
+3498695,"June 20, 2026",Indiana,Terre Haute,3900 block of Riley Ave,1,0,1,0,0
+3498516,"June 23, 2026",Texas,Paradise,800 block of County Rd 3592,0,1,0,0,1
+3498698,"June 24, 2026",Virginia,Woodbridge,2900 block of Shumard Oak Dr,0,0,0,1,0
+3498849,"June 26, 2026",West Virginia,Bluefield,140 Brushfork School Rd,1,0,0,0,1
+3498752,"June 27, 2026",South Dakota,Kyle,N/A,1,0,0,0,0
+3498585,"June 27, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3498458,"June 27, 2026",Arizona,Phoenix,N 35th Ave and W Greenway Rd,0,0,1,0,0
+3498365,"June 27, 2026",Georgia,Valdosta,200 block of S Lee St,1,0,1,0,0
+3498732,"June 28, 2026",North Carolina,Kinston,S Davis St,0,1,0,0,1
+3498686,"June 28, 2026",North Carolina,Wilmington,500 block of Camway Dr,0,0,0,1,0
+3498505,"June 28, 2026",New Mexico,Artesia,1000 block of S 2nd St,0,1,0,0,0
+3498451,"June 28, 2026",Idaho,Rexburg,4021 N 5725 E,1,0,0,0,0
+3498899,"June 28, 2026",Tennessee,Covington,1800 block of Wooten St,0,1,0,0,1
+3498745,"June 29, 2026",Missouri,Saint Louis,S Broadway St and Lemp Ave,0,1,0,0,0
+3498740,"June 29, 2026",North Carolina,Murfreesboro,200 block of Spring Ave,0,1,0,0,0
+3498726,"June 29, 2026",Massachusetts,Boston,216 Tremont St,0,3,0,0,0
+3498723,"June 29, 2026",Missouri,Kansas City,6300 block of N Oak St,0,2,0,0,0
+3498706,"June 29, 2026",Virginia,Richmond,100 block of S Pine St,1,0,0,0,0
+3498688,"June 29, 2026",Virginia,Roanoke,36th St and Shenandoah Ave NW,0,1,0,0,0
+3498656,"June 29, 2026",Alabama,Atmore,Atmosphere Rd,0,0,1,0,0
+3498647,"June 29, 2026",Texas,Joshua,Dragon Rd,0,1,0,0,0
+3498614,"June 29, 2026",Texas,Jefferson,FM 248,1,0,0,0,1
+3498605,"June 29, 2026",New York,Yonkers,Palisade Ave,0,1,0,0,0
+3498593,"June 29, 2026",Texas,San Antonio,12000 block of Culebra Rd,1,0,1,0,0
+3498580,"June 29, 2026",California,Visalia,W Ferguson Ave and W Babcock Ave,0,1,0,0,0
+3498573,"June 29, 2026",Delaware,Magnolia,100 block of E Cherry Dr,0,0,1,0,0
+3498577,"June 29, 2026",California,Richmond,2500 block of Duke Ave,0,1,0,0,0
+3498569,"June 29, 2026",New Mexico,Crouch Mesa,Rd 3145,0,0,0,1,0
+3498565,"June 29, 2026",California,Los Angeles,1700 block of E 114th St,0,1,0,0,0
+3498472,"June 29, 2026",New Mexico,Clovis,100 block of E Christopher Dr,1,0,0,0,0
+3498530,"June 29, 2026",Texas,League City,2751 FM Rd 518 E,1,0,0,0,1
+3498525,"June 29, 2026",Louisiana,Baton Rouge,12254 La Margie Ave,0,1,0,0,0
+3498523,"June 29, 2026",Louisiana,Baton Rouge,3200 block of Victoria Dr,0,1,0,0,0
+3498519,"June 29, 2026",Georgia,Jonesboro,40 block of Darwin Dr,1,0,0,0,0
+3498512,"June 29, 2026",Louisiana,Lecompte,St Charles Ave,0,1,0,0,0
+3498497,"June 29, 2026",Arizona,Tucson,S 6th Ave and E Aviation Dr,1,0,0,0,0
+3498489,"June 29, 2026",Wisconsin,Milwaukee,E Knapp St and N Jefferson St,0,1,0,0,0
+3498486,"June 29, 2026",Arkansas,Forrest City,Robinson St,0,2,0,0,0
+3498478,"June 29, 2026",Wisconsin,Milwaukee,N 29th St and W Clarke St,0,2,0,0,0
+3498467,"June 29, 2026",Texas,Amarillo,1200 block of Jasmine St,0,1,0,0,1
+3498460,"June 29, 2026",Arizona,Tucson,8250 E Golf Links Rd,1,0,0,0,1
+3498442,"June 29, 2026",Pennsylvania,Philadelphia,4500 block of Salmon St,0,1,0,0,1
+3498438,"June 29, 2026",Pennsylvania,Williamsport,Lloyd St and Memorial Ave,1,2,0,0,0
+3498403,"June 29, 2026",District of Columbia,Washington,700 block of 18th St NE,0,2,0,0,0
+3498370,"June 29, 2026",Virginia,Richmond,100 block of S Pine St,1,0,0,0,0
+3498368,"June 29, 2026",Georgia,Bainbridge,N Sims St and Martin Luther King Junior Dr,0,1,0,0,0
+3498363,"June 29, 2026",Florida,Winter Haven,9th Ct NE and Ware Ave NE,0,1,0,0,0
+3498356,"June 29, 2026",Florida,Hollywood,4295 Davie Rd Ext,0,0,1,0,0
+3498354,"June 29, 2026",Washington,Spokane,4100 block of N Calispel St,0,1,0,0,0
+3498820,"June 29, 2026",Illinois,Chicago,8200 block of S Cottage Grove Ave,1,2,0,0,0
+3498858,"June 29, 2026",Illinois,Chicago,E 74th St and S South Chicago Ave,0,1,0,0,0
+3498830,"June 29, 2026",Texas,Fredericksburg,750 Hahn Rd,1,0,1,0,0
+3498818,"June 29, 2026",New Jersey,Jersey City,154 Bayview Ave,0,1,0,0,0
+3498704,"June 30, 2026",Wisconsin,Milwaukee,N 2nd St and W North Ave,0,1,0,0,0
+3498653,"June 30, 2026",Alabama,Mobile,Government St and Seminole St,0,2,0,0,0
+3498684,"June 30, 2026",Mississippi,Greenville,Legion Dr,0,1,0,0,0
+3498677,"June 30, 2026",Louisiana,Shreveport,6725 Buncombe Rd,0,1,0,0,0
+3498660,"June 30, 2026",Maryland,Baltimore,1300 block of Stockton St,1,0,0,0,0
+3498651,"June 30, 2026",Alabama,Huntsville,Slaughter Rd,0,1,0,0,0
+3498502,"June 30, 2026",Texas,College Station,134 Luther St,0,2,0,0,0
+3498628,"June 30, 2026",Mississippi,Vicksburg,574 US-61,0,1,0,0,0
+3498626,"June 30, 2026",Mississippi,Jackson,4414 Medgar Evers Blvd,1,0,0,0,0
+3498612,"June 30, 2026",Ohio,Dayton,N/A,0,1,0,0,0
+3498600,"June 30, 2026",Michigan,Flint,1800 block of Whittlesey St,0,1,0,0,0
+3498582,"June 30, 2026",Texas,San Antonio,4000 block of Comanche Sunrise,0,2,0,0,0
+3498571,"June 30, 2026",California,Hawthorne,W El Segundo Blvd and Doty Ave,0,1,0,0,0
+3498567,"June 30, 2026",California,Los Angeles,3500 block of Cahuenga Blvd,0,1,0,0,0
+3498539,"June 30, 2026",Louisiana,Lafayette,Madeline Ave and N St Antoine St,0,2,0,0,0
+3498509,"June 30, 2026",Texas,Robstown,15906 Northwest Blvd,0,1,0,0,1
+3498465,"June 30, 2026",Ohio,Cincinnati,2500 Kemper Ln,1,0,0,0,1
+3498483,"June 30, 2026",Ohio,Cincinnati (Springdale),320 Glensprings Dr,1,0,0,0,1
+3498445,"June 30, 2026",Pennsylvania,Philadelphia,1600 block of Newkirk St,0,3,0,0,0
+3498372,"June 30, 2026",Missouri,Saint Louis,3600 block of S Broadway St,0,1,0,0,0
+3498361,"June 30, 2026",Florida,Saint Petersburg,870 117th Terrace N,0,1,0,0,0
+3498915,"June 30, 2026",Tennessee,Memphis,Prescott Rd and Sharpe Ave,0,1,0,0,0
+3498890,"June 30, 2026",Georgia,Albany,1000 block of Whitney Ave,0,1,0,0,0
+3498835,"June 30, 2026",Indiana,Indianapolis,6850 E 21st St,0,1,0,0,0
+3498814,"June 30, 2026",New Jersey,Linden,1300 block of Roselle St,0,0,0,1,0
+3498791,"June 30, 2026",Missouri,Saint Louis,4700 block of S Spring Ave,1,0,0,0,0
+3498715,"June 30, 2026",Massachusetts,Hudson,48 Highland Cmns E,1,0,1,0,0
