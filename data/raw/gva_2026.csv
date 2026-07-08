@@ -14762,3 +14762,96 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3502409,"July 6, 2026",Rhode Island,Providence,10 Tingley St,0,5,0,0,0
 3502563,"July 6, 2026",Michigan,Detroit,19900 block of Pinehurst St,0,1,0,0,0
 3502698,"July 6, 2026",Minnesota,Minneapolis,1300 block of Water St,0,4,0,0,0
+3503662,"May 9, 2026",North Carolina,Garysburg,Lowes Ct and Circle Dr,0,1,0,0,2
+3503078,"June 27, 2026",Louisiana,Baton Rouge,3500 block of Alliquippa st,0,1,0,0,0
+3502970,"June 29, 2026",Alabama,Brent,N Scottsville Rd,0,2,0,0,0
+3503150,"June 30, 2026",New Mexico,Albuquerque,2015 Menaul Blvd NE,0,1,0,0,0
+3503447,"July 1, 2026",Washington,Stanwood,18800 block of 93rd Dr NW,2,0,0,0,0
+3503134,"July 1, 2026",Mississippi,Union,MS-15 S,0,1,0,0,0
+3503467,"July 2, 2026",Missouri,Washington County (county),N/A,0,1,0,0,1
+3503216,"July 2, 2026",California,San Diego,4400 block of Nimitz Blvd,1,0,0,0,0
+3502959,"July 3, 2026",Texas,San Antonio,Escalante Pass,1,0,1,0,0
+3503295,"July 4, 2026",Connecticut,Canterbury,Hansen Rd,0,1,0,0,1
+3503273,"July 4, 2026",California,West Covina,2100 S Azusa Ave,0,1,0,0,0
+3503114,"July 4, 2026",Texas,Grand Prairie,5000 block of Red River Trl,1,0,0,0,1
+3502977,"July 4, 2026",Illinois,Aurora,200 block of N Loucks St,0,2,0,0,0
+3502919,"July 4, 2026",New York,Binghamton,Gerard Ave and Walnut St,0,1,0,0,0
+3503672,"July 4, 2026",Oregon,Salem,Mill St SE,0,1,0,0,0
+3503476,"July 5, 2026",Missouri,Kansas City,E Willow Dr and S Scarborough St,1,0,0,0,0
+3503474,"July 5, 2026",Ohio,Springfield,1600 block of Cypress St,0,1,0,0,0
+3503464,"July 5, 2026",Ohio,Toledo,1400 block of N Erie St,0,2,0,0,0
+3503400,"July 5, 2026",Washington,Seattle,500 block of S Lander St,0,1,0,0,0
+3503368,"July 5, 2026",North Carolina,Asheville,Lee Garden Ln,0,1,0,0,0
+3503354,"July 5, 2026",North Carolina,High Point,200 block of Brentwood St,0,1,0,0,0
+3503283,"July 5, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3503277,"July 5, 2026",California,Long Beach,500 block of Rhea St,0,1,0,0,0
+3503070,"July 5, 2026",Arizona,Avondale,N/A,0,1,0,0,1
+3503042,"July 5, 2026",Virginia,Woodbridge,1905 Stevens Rd,0,1,0,0,1
+3502949,"July 5, 2026",New York,Buffalo,N/A,0,1,0,0,0
+3502947,"July 5, 2026",New York,Buffalo,41 Humber Ave,0,1,0,0,0
+3502945,"July 5, 2026",New York,Buffalo,630 Moselle St,0,1,0,0,0
+3502902,"July 5, 2026",New York,Schenectady,Mumford St and Strong St,0,1,0,0,0
+3502896,"July 5, 2026",Missouri,Saint Louis,1551 S 7th St,1,0,0,0,0
+3503552,"July 5, 2026",Oregon,Beaverton,8705 SW Hall Blvd,0,0,1,0,0
+3503510,"July 6, 2026",Ohio,Dayton,4300 block of Fair Oaks Rd,0,1,0,0,1
+3503502,"July 6, 2026",Ohio,Dayton,N Dixie Dr and E Siebenthaler Ave,0,1,0,0,0
+3503454,"July 6, 2026",Washington,Tacoma,1000 block of S Tacoma Way,1,0,0,0,0
+3503422,"July 6, 2026",Washington,Seattle,24th Ave S and S Walker St,0,1,0,0,0
+3503413,"July 6, 2026",Washington,Seattle,Swift Ave S and S Eddy S,0,4,0,0,0
+3503352,"July 6, 2026",Pennsylvania,Wilkes Barre,E Beatty St,0,0,0,1,1
+3503275,"July 6, 2026",Minnesota,Duluth,400 block of Canal Park Dr,0,1,0,0,0
+3503271,"July 6, 2026",California,Los Angeles,N Main St and Sichel St,0,1,0,0,0
+3503229,"July 6, 2026",Michigan,Dearborn Heights,Cherry Hill Rd and John Daly St,0,0,0,1,1
+3503152,"July 6, 2026",District of Columbia,Washington,1429 H St NE,0,1,0,1,2
+3503222,"July 6, 2026",California,Ramona,617 11th St,2,0,0,0,1
+3503194,"July 6, 2026",California,Redding,2795 West St,0,1,0,0,0
+3503163,"July 6, 2026",Alabama,Dothan,700 block of Hutchins St,0,1,0,1,1
+3502953,"July 6, 2026",Texas,Houston,Westheimer Rd and Suffolk Dr,0,0,0,1,1
+3503037,"July 6, 2026",Arkansas,Jonesboro,3503 Fairview Dr,1,0,0,0,1
+3503008,"July 6, 2026",Arizona,Page,100 block of S 9th Ave,2,0,0,0,1
+3502999,"July 6, 2026",District of Columbia,Washington,2500 block of Pennsylvania Ave SE,1,0,0,0,0
+3502980,"July 6, 2026",Texas,San Antonio,3000 block of W Loop 1604,1,0,0,0,1
+3502964,"July 6, 2026",Alabama,Brookwood,12900 block of Alabama Junction Rd,2,0,0,0,1
+3502962,"July 6, 2026",Texas,San Antonio,1101 Iowa St,0,1,0,0,0
+3502899,"July 6, 2026",New York,Albany,Hudson Ave and Quail St,0,2,0,0,0
+3503690,"July 6, 2026",Kentucky,Mc Roberts,Sheas Fork Rd,0,1,0,0,1
+3503559,"July 6, 2026",Ohio,Cincinnati,9th St and Walnut St,0,1,0,0,0
+3503555,"July 6, 2026",Illinois,Rock Island,500 block of 30th St,0,1,0,0,1
+3503526,"July 6, 2026",Illinois,Harvey,160th St and Ashland Ave,1,2,0,0,0
+3503531,"July 7, 2026",Ohio,Columbus,E 17th Ave and Dora Dr,1,0,0,0,0
+3503524,"July 7, 2026",Ohio,Euclid,24453 Lakeshore Blvd,0,0,0,1,0
+3503507,"July 7, 2026",Michigan,Detroit,Oakfield Ave and Trojan Ave,0,1,0,0,0
+3503521,"July 7, 2026",Minnesota,Minneapolis,2035 W River Rd N,0,1,0,0,0
+3503478,"July 7, 2026",Illinois,Mundelein,500 block of Deepwoods Dr,1,1,0,0,2
+3503285,"July 7, 2026",Michigan,Detroit,Vassar Dr and Archer St,0,1,0,0,1
+3503504,"July 7, 2026",Ohio,Cincinnati,Liberty St and Linn St,1,0,0,0,1
+3503487,"July 7, 2026",Ohio,Cincinnati,1864 E Seymour Ave,0,1,0,0,0
+3503471,"July 7, 2026",Indiana,Evansville,1300 block of Edgar St,1,0,0,0,1
+3503456,"July 7, 2026",Ohio,Republic,OH-67 and E Township Rd 8,0,0,1,0,0
+3503411,"July 7, 2026",Alaska,Fairbanks,100 block of 5th Ave S,0,0,1,0,0
+3503321,"July 7, 2026",New York,Brooklyn,5945 Shore Pkwy,0,1,0,0,0
+3503324,"July 7, 2026",North Carolina,Gastonia,1613 Greenview Dr,0,1,0,0,1
+3503302,"July 7, 2026",California,Salinas,Parsons Ave and Block Ave,0,0,0,1,1
+3503298,"July 7, 2026",North Carolina,Charlotte,Amity Pointe Rd,0,1,0,0,0
+3503293,"July 7, 2026",North Carolina,Charlotte,8205 University City Blvd,1,0,0,0,0
+3503289,"July 7, 2026",Michigan,Detroit,1000 block of Seyburn St,0,1,0,0,0
+3503287,"July 7, 2026",Michigan,Detroit,2200 block of Ferry Park St,0,1,0,0,0
+3503280,"July 7, 2026",Michigan,Detroit,16555 Schaefer Hwy,0,1,0,0,0
+3503244,"July 7, 2026",California,Oakland,800 block of International Blvd,0,2,0,1,1
+3503255,"July 7, 2026",California,Oakland,6261 Leona Dr,1,0,0,0,0
+3503212,"July 7, 2026",Michigan,Detroit,19100 block of Westphalia St,0,1,0,0,0
+3503185,"July 7, 2026",California,Fresno,W Nees Ave and N Blackstone Ave,0,2,0,0,0
+3503143,"July 7, 2026",Texas,Houston,6800 block of Canal St,0,0,1,0,0
+3503124,"July 7, 2026",Texas,Dallas,4600 block of S Malcolm X Blvd,0,2,0,0,0
+3503106,"July 7, 2026",Texas,Arlington,2500 block of E Abram St,0,1,0,0,1
+3503034,"July 7, 2026",Arizona,Mesa,E Warner Rd and S Eastmark Pkwy,0,2,0,0,0
+3503013,"July 7, 2026",Illinois,Chicago,400 block of W Evergreen Ave,1,0,0,0,0
+3502951,"July 7, 2026",New York,Buffalo,Norfolk Ave and E Delavan Ave,0,1,0,0,0
+3503701,"July 7, 2026",Tennessee,Chattanooga,7700 block of E Brainerd Rd,0,1,0,0,0
+3503696,"July 7, 2026",West Virginia,Huntington,2400 block of 9th Ave,1,0,0,0,0
+3503688,"July 7, 2026",Illinois,Chicago,W Polk St and S Independence Blvd,1,0,0,0,0
+3503682,"July 7, 2026",Illinois,Chicago,W 59th St and S Halsted St,0,1,0,0,0
+3503669,"July 7, 2026",Illinois,Rochelle,1200 block of Tilton Park Dr,0,1,1,0,0
+3503568,"July 7, 2026",Illinois,Olney,E Monroe St,2,0,0,0,1
+3503632,"July 7, 2026",Wisconsin,Milwaukee,N 62nd St and W Silver Spring Dr,0,1,0,0,0
+3503621,"July 7, 2026",South Carolina,Greer,Ponder Rd,0,1,1,0,0
