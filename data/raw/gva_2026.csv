@@ -14855,3 +14855,107 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3503568,"July 7, 2026",Illinois,Olney,E Monroe St,2,0,0,0,1
 3503632,"July 7, 2026",Wisconsin,Milwaukee,N 62nd St and W Silver Spring Dr,0,1,0,0,0
 3503621,"July 7, 2026",South Carolina,Greer,Ponder Rd,0,1,1,0,0
+3504271,"June 22, 2026",North Carolina,Rutherfordton,Pebblestone Ln,1,0,0,0,1
+3504401,"June 23, 2026",Oklahoma,El Reno,1400 W Elm St,0,1,0,0,0
+3504096,"June 27, 2026",Oregon,Selma,Upper Deer Creek Rd,1,0,0,0,1
+3504150,"June 29, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3503723,"July 1, 2026",Tennessee,College Grove,Wellsford Ln,1,0,0,0,1
+3503967,"July 2, 2026",New Jersey,Newark,15th Ave and Hayes St,0,0,0,1,1
+3504458,"July 2, 2026",West Virginia,Morgantown (Star City),5101 University Commons Dr,0,1,0,0,1
+3504291,"July 3, 2026",South Carolina,Greenwood,Osborne Ave,0,1,0,0,1
+3503957,"July 3, 2026",New Jersey,Parlin,16 Glynn Ct,1,0,1,0,0
+3504090,"July 4, 2026",California,Highland,27400 block of Stratford St,1,0,0,0,0
+3503881,"July 4, 2026",Iowa,Davenport,1200 block of Brown St,0,1,0,0,1
+3503789,"July 4, 2026",Georgia,Vidalia,500 block of E Jenkins St,1,0,0,0,0
+3503774,"July 4, 2026",Florida,Miami,N/A,1,0,0,0,1
+3503741,"July 4, 2026",Florida,Hollywood,1900 block of Funston St,1,0,0,0,1
+3503739,"July 4, 2026",Florida,Fort Pierce,N 27th St and Ave G,0,1,0,0,0
+3503730,"July 4, 2026",Alabama,Selma,1500 block of Mabry St,2,1,0,0,1
+3504148,"July 5, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3504093,"July 5, 2026",Texas,Lubbock,1821 136th St,0,1,0,0,1
+3504015,"July 5, 2026",North Carolina,Charlotte,3000 block of Marvin Rd,0,3,0,0,1
+3503735,"July 5, 2026",Florida,Fort Pierce,300 block of S 14th St,1,1,0,0,0
+3504284,"July 6, 2026",South Carolina,Kingstree,209 Thurgood Marshall Hwy,0,1,0,0,1
+3504264,"July 6, 2026",Indiana,Newburgh,2857 Hannah Ct,1,0,1,0,0
+3504041,"July 6, 2026",Georgia,Gainesville,2470 Limestone Pkwy NE,0,1,0,0,0
+3503822,"July 6, 2026",Georgia,Savannah,200 block of W Montgomery Cross Rd,0,1,0,0,0
+3503813,"July 6, 2026",Georgia,Atlanta,2637 Old Hapeville Rd SW,1,0,0,0,0
+3503808,"July 6, 2026",Louisiana,Alexandria,4700 block of Green St,0,1,0,0,1
+3503791,"July 6, 2026",Georgia,Vidalia,806 E 1st St,0,1,0,0,1
+3503766,"July 6, 2026",Florida,Jacksonville,5620 Collins Rd,0,1,0,0,0
+3503761,"July 6, 2026",Florida,Jacksonville,1111 Woodruff Ave,0,1,0,0,0
+3504315,"July 7, 2026",Pennsylvania,Erie,E 10th St and Hess Ave,1,0,0,0,1
+3504260,"July 7, 2026",North Carolina,Asheville,100 block of Atkinson St,0,1,0,0,0
+3504282,"July 7, 2026",South Carolina,Georgetown,Butts St,0,1,0,0,0
+3503895,"July 7, 2026",South Dakota,Sioux Falls,E 20th St and E Claudette Dr,0,1,1,0,0
+3503841,"July 7, 2026",Arizona,Tucson,4361 W Rae Cir,1,0,1,0,0
+3504109,"July 7, 2026",California,San Diego,3100 block of Webster Ave,1,0,0,0,1
+3504076,"July 7, 2026",Florida,Sarasota,15th St and Central Ave,1,0,0,0,1
+3504046,"July 7, 2026",Georgia,Savannah,1200 block of E 33rd St,0,1,0,0,0
+3504039,"July 7, 2026",North Carolina,Kernersville,S Main St and Old Winston Rd,0,0,0,1,1
+3504034,"July 7, 2026",Georgia,Avondale Estates,3300 block of Rammel Way,0,0,1,0,0
+3504031,"July 7, 2026",Maryland,Gwynn Oak,6100 block of Talles Rd,2,0,0,0,0
+3504025,"July 7, 2026",Georgia,Smyrna,Laurel Creek Trail,1,1,0,0,1
+3503900,"July 7, 2026",Mississippi,Hattiesburg,4400 Hardy St,0,0,0,1,0
+3504004,"July 7, 2026",North Carolina,Charlotte,16000 block of Elizabeth Joyce Dr,0,1,0,0,0
+3504001,"July 7, 2026",Mississippi,Greenville,500 block of Arnold Ave,0,1,0,0,0
+3503992,"July 7, 2026",Mississippi,Tupelo,Bienville St,0,1,0,0,0
+3503891,"July 7, 2026",Mississippi,Tupelo,George Ave and Lambard Dr,1,0,0,0,0
+3503960,"July 7, 2026",Maryland,Baltimore,100 block of N Poppleton St,0,2,0,0,0
+3503983,"July 7, 2026",New Jersey,Paterson,Rosa Parks Blvd and Godwin Ave,0,1,0,0,0
+3503974,"July 7, 2026",New Jersey,Passaic,Hughes St and Terhune Ave,0,1,0,0,0
+3503972,"July 7, 2026",Texas,Dallas,8200 block of Willoughby Blvd,0,1,0,0,0
+3503936,"July 7, 2026",Mississippi,Jackson,John R. Lynch St and Clifton St,0,1,0,0,0
+3503897,"July 7, 2026",Texas,Dallas,3000 block of Maryland Ave,1,0,0,0,0
+3503888,"July 7, 2026",Mississippi,Gulfport,4200 block of Ohio Ave,1,0,0,0,1
+3503931,"July 7, 2026",Mississippi,Jackson,Autumn St,0,1,0,0,0
+3503758,"July 7, 2026",Florida,Jacksonville,1100 block of Bridges Rd,1,0,0,0,0
+3503744,"July 7, 2026",Florida,Ocala,14900 block of SW 35th Ave Rd,0,0,1,0,0
+3503903,"July 7, 2026",Florida,Fort Pierce,2700 block of Essex Dr,1,0,0,0,1
+3503893,"July 7, 2026",Texas,Fort Worth,3600 block of N Crowley Cleburne Rd,0,1,0,0,0
+3503850,"July 7, 2026",Louisiana,New Orleans,2300 block of Allen St,1,0,0,0,0
+3503847,"July 7, 2026",Georgia,Decatur,3589 Memorial Dr,1,0,0,0,1
+3503835,"July 7, 2026",Massachusetts,Fall River,235 Hanover St,1,0,0,0,0
+3503825,"July 7, 2026",Colorado,Colorado Springs,2300 block of Reed Grass Way,1,0,0,0,0
+3503819,"July 7, 2026",Louisiana,Baton Rouge,9895 Florida Blvd,1,0,0,0,0
+3503752,"July 7, 2026",Arkansas,Fort Smith,I-540 and Kelley Hwy,1,0,0,0,0
+3503754,"July 7, 2026",Florida,Jacksonville,1200 block of Bretta St,1,0,0,0,0
+3503713,"July 7, 2026",Tennessee,Memphis,3475 Denver St,0,1,0,0,0
+3503706,"July 7, 2026",Illinois,Chicago,900 block of W 54th St,1,0,0,0,0
+3504366,"July 7, 2026",Tennessee,Nashville,200 block of S 4th St,0,1,0,0,0
+3504331,"July 8, 2026",Ohio,Columbus,3410 Homestead Dr,0,1,0,0,0
+3504326,"July 8, 2026",Ohio,Cleveland,1900 block of Mayview Ave,0,1,0,0,0
+3504280,"July 8, 2026",Minnesota,Minneapolis,1200 block of 36th Ave N,0,1,0,0,0
+3504313,"July 8, 2026",Pennsylvania,Philadelphia,60th St,1,0,0,0,0
+3504269,"July 8, 2026",Michigan,Detroit,20500 block of Motor Dr,1,0,0,0,0
+3504309,"July 8, 2026",South Carolina,Florence,1210 E National Cemetery Rd,0,1,0,0,0
+3504306,"July 8, 2026",South Carolina,Darlington,Chestnut St,0,1,0,0,0
+3503869,"July 8, 2026",Ohio,Greenville,1100 block of E Russ Rd,1,0,0,0,1
+3504296,"July 8, 2026",Alabama,Huntsville,1000 block of Hoover St,0,1,0,0,1
+3504289,"July 8, 2026",South Carolina,Warrenville,1897 Jefferson Davis Hwy,0,1,0,0,0
+3504230,"July 8, 2026",Oklahoma,Oklahoma City,S Walker Ave and SW 21st St,0,1,0,0,0
+3504197,"July 8, 2026",Washington,Puyallup,12500 block of Woodland Ave E,2,0,0,0,0
+3504213,"July 8, 2026",Washington,Seattle,Rainier Ave S and 51st Ave S,0,1,0,0,0
+3504191,"July 8, 2026",Washington,Spokane,800 block of E Everett Ave,0,3,0,0,0
+3504204,"July 8, 2026",Texas,Beaumont,3100 block of Eastex Fwy,0,1,0,0,0
+3504176,"July 8, 2026",California,Fairfield,2300 block of N Texas St,0,1,0,0,1
+3504152,"July 8, 2026",Texas,Palestine,100 block of Bent Tree Dr,0,0,1,0,0
+3504137,"July 8, 2026",California,Los Angeles,E 15th St and Velasco St,0,2,0,0,0
+3504133,"July 8, 2026",New York,Albany,Benson St and Erie St,0,1,0,0,0
+3504117,"July 8, 2026",Maryland,Gaithersburg,19300 block of Montgomery Village Ave,0,1,0,0,0
+3504099,"July 8, 2026",District of Columbia,Washington,700 block of 6th St NW,0,3,0,0,0
+3504065,"July 8, 2026",Florida,Orange Park,80 Blanding Blvd,0,0,0,1,0
+3504020,"July 8, 2026",North Carolina,Raleigh,2639 S Saunders St,0,1,0,0,0
+3504013,"July 8, 2026",Mississippi,Meridian,107 71st Pl,0,1,0,0,0
+3503950,"July 8, 2026",Arizona,Flagstaff,E Marketplace Dr and N Mall Way,1,0,0,0,0
+3503954,"July 8, 2026",Florida,Kissimmee,4700 block of Marcos Cir,0,0,0,1,0
+3503948,"July 8, 2026",Florida,Fort Lauderdale,1300 block of NW 13th Ct,1,0,0,0,0
+3503925,"July 8, 2026",Mississippi,Yazoo City,1st St,1,0,0,0,0
+3503921,"July 8, 2026",Arizona,Tucson,N Flowing Wells Rd and W Mohawk Dr,0,1,0,0,0
+3503918,"July 8, 2026",Florida,Jacksonville,100 block of W 16th St,0,2,0,0,0
+3503845,"July 8, 2026",Louisiana,New Orleans,4700 block of Laine Ave,1,0,0,0,0
+3503829,"July 8, 2026",Arizona,Phoenix,N 31st Ave and W Beardsley Rd,1,0,0,0,0
+3504456,"July 8, 2026",Alabama,Nauvoo,100 block of Posey Rd,0,0,1,0,0
+3504344,"July 8, 2026",Illinois,Chicago,6700 S Cottage Grove Ave,1,0,0,0,0
+3504434,"July 8, 2026",Tennessee,Memphis,6500 Poplar Ave,0,0,1,0,0
+3504416,"July 8, 2026",Tennessee,Memphis,4100 block of Barron Ave,1,0,0,0,0
