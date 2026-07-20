@@ -15776,3 +15776,78 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3510681,"July 18, 2026",California,Norwalk,14000 block of Shoemaker Ave,1,0,0,0,0
 3510679,"July 18, 2026",Indiana,Indianapolis,S Spencer Ave and E Washington St,1,0,0,0,0
 3510648,"July 18, 2026",Massachusetts,Boston,787 Shawmut Ave,0,1,0,0,0
+3511074,"July 10, 2026",California,Blythe,16870 W Hobsonway,0,0,1,0,0
+3510969,"July 14, 2026",New Mexico,Roswell,1337 McCall Loop,1,0,0,0,0
+3511110,"July 15, 2026",Indiana,Gary,4200 block of Marlyand St,1,0,0,0,0
+3511088,"July 16, 2026",California,Hillcrest,Mount Vernon Ave and Niles St,0,1,0,0,0
+3511143,"July 17, 2026",Indiana,Indianapolis (Lawrence),5300 block of Traditions Dr,1,0,0,0,0
+3511040,"July 17, 2026",California,La Mesa,10000 block of Challenge Blvd,0,1,0,0,0
+3510961,"July 17, 2026",Washington,Seattle (Tukwila),3600 block of S 152nd St,0,1,0,0,0
+3510889,"July 17, 2026",Ohio,Cleveland,Woodstock Ave,0,1,0,0,0
+3510814,"July 17, 2026",Washington,Sunnyside,Nicolai Ave and Carnation Dr,0,1,1,0,0
+3510716,"July 17, 2026",Alabama,Toney,100 block of Pulley Ln,0,0,0,1,0
+3510775,"July 17, 2026",Nebraska,Nebraska City,N/A,0,0,1,0,0
+3510732,"July 17, 2026",Alabama,Russellville,100 Mills Trailer Park,0,0,1,0,0
+3511152,"July 18, 2026",South Dakota,Rapid City,900 block of E Omaha St,0,2,0,0,0
+3511147,"July 18, 2026",Virginia,Richmond,800 block of Everett St,0,1,0,1,0
+3511125,"July 18, 2026",Maryland,Odenton,500 block of Williamsburg Ln,1,0,0,0,0
+3511014,"July 18, 2026",California,Westmont,Vermont Ave and W 110th St,0,1,0,0,0
+3510955,"July 18, 2026",Kentucky,Louisville,630 S 28th St,0,1,0,0,0
+3510965,"July 18, 2026",Ohio,Cleveland,N/A,0,1,0,0,0
+3510958,"July 18, 2026",Texas,San Antonio,12000 block of La Barca Dr,0,1,0,0,0
+3510951,"July 18, 2026",Michigan,Flint,3341 S Linden Rd,0,1,0,0,0
+3510949,"July 18, 2026",Texas,San Antonio,1101 Iowa St,0,1,0,0,0
+3510918,"July 18, 2026",Texas,Houston,11100 block of Maritime Dr,1,0,0,0,1
+3510900,"July 18, 2026",Ohio,Columbus,6000 block of Silverwood St,0,2,0,0,0
+3510895,"July 18, 2026",Ohio,Cleveland,W 25th St and Clark Ave,0,1,0,1,0
+3510800,"July 18, 2026",Illinois,Chicago,700 block of N Menard Ave,0,1,0,0,0
+3510791,"July 18, 2026",Mississippi,Meridian,4413 35th Ave,0,1,0,0,0
+3510787,"July 18, 2026",Mississippi,Jackson,1300 block of Collier Ave,1,0,0,0,0
+3510765,"July 18, 2026",Arkansas,Springdale,2900 block of Stagecoach Ave,1,0,0,0,1
+3510713,"July 18, 2026",Pennsylvania,Pittsburgh (Wilkinsburg),McNary Blvd and Paden St,0,1,0,0,1
+3511268,"July 19, 2026",Pennsylvania,Philadelphia,4400 block of Cleveland St,0,2,0,0,0
+3511255,"July 19, 2026",Minnesota,Minneapolis,1845 Nicollet Ave,0,4,0,0,0
+3511246,"July 19, 2026",Michigan,Detroit,N/A,0,1,0,0,0
+3511244,"July 19, 2026",Wisconsin,Milwaukee,5200 W Oklahoma Ave,1,0,0,0,0
+3511240,"July 19, 2026",Wisconsin,Milwaukee,5000 block of N 50th St,1,0,0,0,1
+3511215,"July 19, 2026",Indiana,Franklin,E 500 N and 575 E,0,1,0,0,0
+3511138,"July 19, 2026",Connecticut,New Haven,Valley St and Emerson St,0,1,0,0,0
+3511130,"July 19, 2026",Maryland,Baltimore,200 block of N Payson St,1,1,0,0,0
+3511107,"July 19, 2026",New York,Bronx,1526 Sedgwick Ave,0,1,0,0,0
+3511104,"July 19, 2026",Indiana,Mishawaka,1310 Blossom Dr,0,1,0,0,0
+3511102,"July 19, 2026",Indiana,Indianapolis,1000 block of Denison St,0,1,0,0,0
+3511099,"July 19, 2026",California,Fresno,3360 W Shields Ave,0,1,0,0,0
+3511090,"July 19, 2026",Indiana,Muncie,E 1st St and S Ebright St,0,3,0,0,0
+3511084,"July 19, 2026",California,Oakland,1400 block of Lakeside Dr,1,0,0,0,0
+3511069,"July 19, 2026",Wisconsin,Milwaukee,4500 block of W Burleigh St,0,1,0,0,0
+3511063,"July 19, 2026",Michigan,Detroit,15800 block of Flanders St,0,1,0,0,0
+3511047,"July 19, 2026",Michigan,Detroit,15800 block of Tuller St,1,0,0,0,0
+3510989,"July 19, 2026",Minnesota,Minneapolis,2901 Hennepin Ave,0,9,0,0,0
+3511029,"July 19, 2026",Connecticut,Meriden,Sagamore Rd,0,0,0,1,0
+3511018,"July 19, 2026",California,Los Angeles,400 block of W 103rd St,1,0,0,0,0
+3511016,"July 19, 2026",Illinois,Chicago,7900 block of S Manistee Ave,0,1,0,0,0
+3511012,"July 19, 2026",Illinois,Chicago,N/A,0,1,0,0,0
+3511010,"July 19, 2026",California,Los Angeles,Imperial Hwy and Compton Ave,0,1,0,0,0
+3510743,"July 19, 2026",Oklahoma,Oklahoma City,324 SW 25th St,2,3,0,0,3
+3510972,"July 19, 2026",Nevada,Las Vegas,5840 W. Sunset Rd,1,0,1,0,0
+3510941,"July 19, 2026",Kentucky,Louisville,600 block of S 3rd St,1,1,0,0,0
+3510953,"July 19, 2026",Ohio,Cleveland,18100 block of Fairfield Ave,0,1,0,0,0
+3510947,"July 19, 2026",Ohio,Cleveland,3700 block of Longwood Ave,0,1,0,0,0
+3510943,"July 19, 2026",Michigan,Grand Rapids,Center Ave NE and Ann St NE,0,1,0,0,1
+3510926,"July 19, 2026",Colorado,Denver,1100 block of N Columbine St,1,1,0,0,0
+3510923,"July 19, 2026",Colorado,Denver,8000 block of E 12th Ave,0,2,0,0,0
+3510914,"July 19, 2026",Texas,Houston,14901 N Fwy,1,1,0,0,1
+3510908,"July 19, 2026",Kentucky,Hopkinsville,6900 block of Madisonville Rd,0,1,0,0,0
+3510891,"July 19, 2026",Texas,Dallas,8098 Great Trinity Forest Way,1,0,0,0,0
+3510824,"July 19, 2026",Arizona,Tucson,100 block of E Congress St,0,9,0,1,1
+3510877,"July 19, 2026",Ohio,Toledo,1950 S Reynolds Rd,0,0,1,0,0
+3510854,"July 19, 2026",Ohio,Cincinnati,800 block of Dutch Colony Dr,1,0,0,0,0
+3510819,"July 19, 2026",Arkansas,Hot Springs National Park (Hot Springs),198 Irwin Point,0,2,0,0,0
+3510807,"July 19, 2026",Missouri,Kansas City,Woodland Ave and Dr Martin Luther King Jr Blvd,0,4,0,0,0
+3510797,"July 19, 2026",Missouri,Columbia,E Broadway and Old 63 S,0,1,0,0,1
+3510783,"July 19, 2026",Alabama,Montgomery,3600 block of Debby Dr,1,0,0,0,0
+3510781,"July 19, 2026",Alabama,Montgomery,1300 block of Dalraida Rd,0,1,0,0,0
+3510772,"July 19, 2026",Nebraska,Omaha,3209 N 90th St,0,1,0,0,1
+3510777,"July 19, 2026",Louisiana,New Orleans,Touro St & Marais St,0,1,0,0,0
+3510736,"July 19, 2026",Alabama,Russellville,500 block of Carroll Ave S,0,1,0,0,1
+3510833,"July 19, 2026",North Carolina,Asheville,251 Biltmore Ave,2,7,0,0,0
