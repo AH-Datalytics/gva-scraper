@@ -16417,3 +16417,102 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3516301,"July 26, 2026",Massachusetts,Holyoke,200 block of Maple St,0,1,0,0,0
 3516289,"July 26, 2026",Texas,Houston,200 block of W Canino Rd,2,0,0,0,1
 3516274,"July 26, 2026",Texas,Fort Worth,3570 W Seminary Dr,0,1,0,0,0
+3497188,"June 26, 2026",Maryland,Denton,500 High St,0,1,0,0,0
+3516632,"July 4, 2026",Louisiana,Baton Rouge,Plank Rd and Hollywood St,0,1,0,0,0
+3516377,"July 17, 2026",Texas,Irving,850 Lake Carolyn Pkwy,0,1,0,0,1
+3517195,"July 21, 2026",South Carolina,Myrtle Beach,Greens Blvd,1,0,0,0,0
+3516553,"July 23, 2026",Illinois,Normal,700 block of N Golfcrest Rd,0,1,0,0,1
+3516548,"July 23, 2026",Virginia,Portsmouth,2500 block of High St,1,0,0,0,0
+3517024,"July 24, 2026",North Carolina,Hamlet,Ridgeview Dr,0,1,0,0,1
+3516952,"July 24, 2026",Pennsylvania,Philadelphia,2800 block of Reese St,0,1,0,0,0
+3516491,"July 24, 2026",Illinois,Bloomington,1002 W Market St,0,1,0,0,1
+3517193,"July 24, 2026",Indiana,New Palestine,2400 block of S Carlota Dr,0,1,0,0,0
+3515214,"July 24, 2026",New Jersey,Hammonton,White Horse Pike and Snow Hill Rd,1,0,0,0,1
+3517030,"July 25, 2026",Washington,Olympia,Franklin St SE and 4th Ave,0,1,0,1,0
+3516987,"July 25, 2026",Texas,Midland,Trailhead Dr,0,2,0,0,1
+3516909,"July 25, 2026",Kentucky,Louisville,N/A,0,1,0,0,1
+3516873,"July 25, 2026",Indiana,Charlestown,100 block of Broadmoor Ave,0,1,1,0,0
+3516863,"July 25, 2026",South Dakota,Sioux Falls,4900 S Shamrock Cir,1,0,1,0,0
+3516775,"July 25, 2026",Oklahoma,Lawton,120 NW 44th St A4,2,0,1,0,0
+3516749,"July 25, 2026",Indiana,Indianapolis,40 block of N Addison St,0,1,0,0,0
+3516641,"July 25, 2026",Georgia,Augusta,2800 block of Richmond Hill Rd,0,1,0,0,0
+3516626,"July 25, 2026",Georgia,Valdosta,Robin St,0,1,0,0,1
+3516545,"July 25, 2026",Arkansas,North Little Rock,4300 block of Division St,0,1,0,0,1
+3516500,"July 25, 2026",Colorado,Columbine,Grant Ranch Blvd and W Bowles Ave,1,0,0,0,0
+3516504,"July 25, 2026",Alabama,Mobile,Cottage Hill Rd and Broadcast Dr,0,1,0,0,0
+3516494,"July 25, 2026",Utah,Salt Lake City (West Valley City),N/A,0,1,0,0,1
+3516445,"July 25, 2026",Massachusetts,Springfield,50 block of Fort Pleasant Ave,0,1,0,0,1
+3517221,"July 25, 2026",Tennessee,Memphis,Randle St,0,1,0,0,1
+3517174,"July 25, 2026",Texas,Houston,13200 Fondren Rd,1,0,0,0,0
+3517118,"July 26, 2026",Texas,Edinburg,602 S Pin Oak Rd,1,0,0,0,1
+3517104,"July 26, 2026",North Carolina,Greensboro,3927 Manila Rd,0,1,0,0,1
+3517072,"July 26, 2026",North Carolina,Charlotte,Eastway Dr and N Tryon St,0,1,0,0,0
+3517058,"July 26, 2026",North Carolina,Mooresville,I-77,0,2,0,0,0
+3517053,"July 26, 2026",North Carolina,Connelly Springs,6439 E Meadow Trl,0,1,0,0,1
+3517012,"July 26, 2026",North Carolina,Morganton,W Union St and Hillside Ln,1,0,0,0,1
+3516811,"July 26, 2026",New York,Port Jervis,158 Pike St,0,1,0,0,0
+3516944,"July 26, 2026",Pennsylvania,Philadelphia,3400 block of Red Lion Rd,0,1,0,0,0
+3516936,"July 26, 2026",New York,Brooklyn,5001 9th Ave,0,1,0,0,1
+3516933,"July 26, 2026",Pennsylvania,Philadelphia,N 33rd St and W Diamond St,0,1,0,0,0
+3516923,"July 26, 2026",New York,Bronx,Webster Ave and E 187th St,0,1,0,0,0
+3516893,"July 26, 2026",Texas,Gordonville,500 block of Oxford Dr,1,0,0,0,0
+3516891,"July 26, 2026",Pennsylvania,Indiana,Valley Rd,0,0,0,1,1
+3516881,"July 26, 2026",New York,Corona (Queens),Hancock St and Wyckoff Ave,0,1,0,0,0
+3516605,"July 26, 2026",Virginia,Rockville,11300 block of Pinhook Rd,1,0,0,0,0
+3516853,"July 26, 2026",North Dakota,Bismarck,3500 block of E Rosser Ave,1,0,0,0,0
+3516833,"July 26, 2026",Wisconsin,Milwaukee,W Greenfield Ave and W Bow St,0,1,0,0,0
+3516831,"July 26, 2026",New York,Buffalo,Ludington St,0,1,0,0,0
+3516818,"July 26, 2026",Indiana,Pekin,E Blankenbaker Rd,0,1,0,0,1
+3516813,"July 26, 2026",Indiana,Richmond,200 block of N 18th St,0,1,0,0,0
+3516756,"July 26, 2026",Minnesota,Minneapolis,N/A,0,1,0,0,0
+3516745,"July 26, 2026",Michigan,Detroit,Strasburg St and Bringard Dr,0,1,0,0,0
+3516735,"July 26, 2026",Oklahoma,Tulsa,444 S Mingo Rd,0,0,1,0,0
+3516723,"July 26, 2026",Indiana,Indianapolis,20 block of E Parkview Ave,0,1,0,0,0
+3516715,"July 26, 2026",Oklahoma,Fort Towson,N/A,0,0,0,1,0
+3516459,"July 26, 2026",Virginia,Ashburn,20000 block of Northpark Dr,0,1,0,0,1
+3516593,"July 26, 2026",California,Yuba City,929 Market St,2,1,0,0,0
+3516603,"July 26, 2026",Georgia,Macon,4200 block of Houston Ave,0,1,0,0,0
+3516585,"July 26, 2026",Virginia,Richmond,1800 E Broad St,0,1,0,0,0
+3516509,"July 26, 2026",Alabama,Montgomery,4200 block of Amherst Dr,1,0,0,0,0
+3516475,"July 26, 2026",Maine,Norway,N/A,0,1,0,0,1
+3516464,"July 26, 2026",Virginia,Alexandria,5380 Holmes Run Pkwy,1,0,0,0,0
+3516448,"July 26, 2026",District of Columbia,Washington,3500 block of 10th St NW,1,0,0,0,0
+3516441,"July 26, 2026",Hawaii,Honolulu,1224 Kona St,0,1,0,0,0
+3516430,"July 26, 2026",Illinois,Chicago,7700 block of N Paulina St,0,1,0,0,0
+3516426,"July 26, 2026",Florida,Miami,13785 NW 7th Ave,0,1,0,0,0
+3517217,"July 26, 2026",Tennessee,Memphis,2756 Getwell Rd,0,3,0,0,0
+3517138,"July 26, 2026",Kentucky,Owensboro,1100 block of W 9th St,0,1,0,0,1
+3517116,"July 26, 2026",Ohio,Columbus,2555 Petzinger Rd,0,1,0,0,0
+3516382,"July 26, 2026",Texas,San Antonio,11200 block of Sutton Pl,1,1,0,0,0
+3517108,"July 27, 2026",District of Columbia,Washington,600 block of Atlantic St SE,0,1,0,0,0
+3517080,"July 27, 2026",North Carolina,Mocksville,Jack Booe Rd and Liberty Church Rd,0,2,0,0,1
+3517075,"July 27, 2026",North Carolina,Charlotte,3600 block of Brookshire Blvd,0,1,0,0,0
+3516556,"July 27, 2026",Virginia,Danville,Newton St and Craghead St,0,1,0,0,1
+3516391,"July 27, 2026",Kentucky,Lexington,750 Newtown Ct,0,2,0,0,2
+3517008,"July 27, 2026",Michigan,Detroit,Harvard Rd and Frankfort St,0,1,0,0,0
+3516970,"July 27, 2026",Wisconsin,Madison,1800 block of E Washington Ave,1,1,0,0,0
+3516939,"July 27, 2026",Pennsylvania,Philadelphia,N 29th St and W Gordon St,0,2,0,0,0
+3516906,"July 27, 2026",New York,Bronx,2700 Jerome Ave,0,1,0,0,1
+3516898,"July 27, 2026",New York,Bronx,University Ave,0,2,0,0,0
+3516886,"July 27, 2026",Illinois,Chicago,5800 block of S Hermitage Ave,0,1,0,0,0
+3516829,"July 27, 2026",Ohio,Cincinnati,4700 block of Este Ave,0,1,0,0,0
+3516816,"July 27, 2026",Wisconsin,Milwaukee,N 70th St and W Bobolink Ave,0,1,0,0,0
+3516770,"July 27, 2026",Michigan,Grand Rapids,200 block of 79th St SE,1,0,0,0,1
+3516768,"July 27, 2026",Indiana,Indianapolis,5500 block of S Meridian St,0,1,0,0,0
+3516752,"July 27, 2026",Michigan,Detroit,Gratiot Ave and Lappin St,0,1,0,0,0
+3516706,"July 27, 2026",Mississippi,Morton (Polkville),N/A,0,0,1,0,0
+3516687,"July 27, 2026",California,Chatsworth,9456 Thompson Ave,0,0,1,0,0
+3516636,"July 27, 2026",California,Los Angeles,Hollywood Blvd and Ivar Ave,0,1,0,0,0
+3516569,"July 27, 2026",Georgia,Savannah,200 block of W Montgomery Cross Rd,0,1,0,0,0
+3516541,"July 27, 2026",Virginia,Portsmouth,3900 block of Victory Blvd,0,1,0,0,0
+3516497,"July 27, 2026",Florida,Jacksonville,8200 block of Susie St,0,1,0,0,0
+3516488,"July 27, 2026",Florida,Fort Myers,2875 Winkler Ave,1,0,0,0,1
+3516443,"July 27, 2026",Illinois,Chicago,900 block of S Kilpatrick Ave,0,1,0,0,0
+3517214,"July 27, 2026",Tennessee,Memphis,4302 Winchester Rd,0,1,0,0,0
+3517200,"July 27, 2026",Georgia,Athens,240 North Ave,0,0,0,1,0
+3517198,"July 27, 2026",Kentucky,Hopkinsville,N/A,0,1,0,0,0
+3517191,"July 27, 2026",South Carolina,Florence,3000 block of Sunny Point Rd,0,1,0,0,0
+3517188,"July 27, 2026",South Carolina,Anderson,171 W Whitner St,1,0,0,0,1
+3517176,"July 27, 2026",South Carolina,North Charleston,2500 block of Fassitt Rd,1,0,0,0,0
+3517149,"July 27, 2026",Kentucky,Horse Branch,15000 block of US-62,1,0,0,0,1
+3516821,"July 27, 2026",Wisconsin,Milwaukee,N Holton St and E Locust St,1,0,0,0,0
