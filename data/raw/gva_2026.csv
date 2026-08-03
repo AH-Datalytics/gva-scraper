@@ -16894,3 +16894,97 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3520421,"August 1, 2026",Colorado,Colorado Springs,700 block of Prospect Lake Dr,0,1,0,0,0
 3520225,"August 1, 2026",Idaho,Twin Falls,1965 Blue Lakes Blvd N,2,5,1,0,0
 3520365,"August 1, 2026",Oklahoma,Nicoma Park,NE 16th St and Westminster Rd,1,0,0,0,1
+3520587,"June 27, 2026",Minnesota,Minneapolis,45th Ave N and Lyndale Ave,0,1,0,0,1
+3520704,"July 24, 2026",Texas,Commerce,1100 block of Elm St,0,1,0,0,1
+3520924,"July 25, 2026",Texas,Brownfield,1600 block of E Tate St,0,1,0,0,2
+3520994,"July 26, 2026",Oregon,Portland,N/A,0,1,0,0,0
+3520441,"July 30, 2026",Colorado,Denver,E Evans Ave and S Newport St,0,1,0,0,0
+3520945,"July 31, 2026",Texas,West Odessa,16th St and FM 1936,0,1,0,0,4
+3520691,"July 31, 2026",Ohio,Cleveland,2885 Hampton Rd,0,1,0,0,1
+3520680,"July 31, 2026",Ohio,Willoughby,5100 block of Robinhood Dr,0,0,1,0,0
+3520607,"July 31, 2026",New Hampshire,Manchester,558 Silver St,0,1,0,0,0
+3520485,"July 31, 2026",Florida,Satsuma,Musket Dr,2,0,0,0,1
+3520448,"July 31, 2026",Alabama,Montgomery,3800 block of Eastern Blvd,0,1,0,0,0
+3520996,"August 1, 2026",New York,Brooklyn,E 57th St and Tilden Ave,0,1,0,0,0
+3520929,"August 1, 2026",Oregon,Gresham,224 SE 188th Ave,0,1,0,0,1
+3520875,"August 1, 2026",Texas,Fairfield,FM488,0,0,1,0,0
+3520840,"August 1, 2026",California,San Jacinto,100 block of N Brinton St,0,2,0,0,0
+3520818,"August 1, 2026",California,Vallejo,3200 block of Sonoma Blvd,1,0,0,0,1
+3520785,"August 1, 2026",Texas,San Antonio,Glen Fair St and Glen Echo St,0,1,0,0,0
+3520781,"August 1, 2026",California,Oakdale,14528 26 Mile Rd,0,2,0,0,1
+3520759,"August 1, 2026",Texas,San Antonio,600 Aurora Ave,0,0,1,0,0
+3520775,"August 1, 2026",Texas,San Antonio,800 block of Probandt St,0,1,0,0,0
+3520683,"August 1, 2026",Ohio,Cleveland,11900 block of Hazeldell Dr,0,1,0,0,0
+3520738,"August 1, 2026",Texas,Houston,14403 Ella Blvd,1,0,0,0,0
+3520712,"August 1, 2026",Ohio,Cleveland,4832 W Broad St,0,1,0,0,0
+3520707,"August 1, 2026",Texas,Dallas,100 block of W 7th St,0,1,0,0,0
+3520685,"August 1, 2026",Kentucky,Paintsville (Thealka),Main Camp Branch,1,0,0,0,1
+3520548,"August 1, 2026",New Mexico,Raton,400 N 3rd St,0,0,1,0,0
+3520590,"August 1, 2026",Nevada,Las Vegas,5000 block of Haystack Dr,1,0,1,0,0
+3520641,"August 1, 2026",Texas,Pampa,1100 block of Crane Rd,0,1,0,0,4
+3520634,"August 1, 2026",North Carolina,Raleigh,5416 Rock Quarry Rd,0,1,0,0,0
+3520627,"August 1, 2026",Wisconsin,Milwaukee,2500 block of W Melvina St,0,2,0,0,1
+3520609,"August 1, 2026",North Carolina,Thomasville,1300 block of Blair St,0,1,0,0,0
+3520598,"August 1, 2026",Mississippi,Meridian,N/A,0,1,0,0,0
+3520595,"August 1, 2026",North Carolina,Cornelius,19000 block of Meridian St,1,0,0,0,1
+3520489,"August 1, 2026",Louisiana,Shreveport,6212 N Windermere Dr,1,0,0,0,0
+3520462,"August 1, 2026",Illinois,Chicago,N/A,1,0,0,0,0
+3520559,"August 1, 2026",South Carolina,Hilton Head Island,8 Southwood Park Dr,0,1,0,0,1
+3520540,"August 1, 2026",Georgia,Stone Mountain,US-78,1,0,0,0,1
+3520524,"August 1, 2026",Colorado,Aurora,9800 block of E Alabama Dr,1,0,0,0,1
+3520517,"August 1, 2026",Maryland,Baltimore,900 block of E 20th St,1,0,0,0,0
+3520514,"August 1, 2026",Michigan,Portage,Jacamar Ct and Mallard Cir,1,1,0,0,0
+3520501,"August 1, 2026",Florida,Hillsborough County (county),N/A,0,1,0,0,0
+3520498,"August 1, 2026",Florida,Port Saint Lucie,2000 block of SE Oxmoor Terrace,1,0,1,0,0
+3520472,"August 1, 2026",Delaware,Wilmington,300 block of W 7th St,0,1,0,0,0
+3520495,"August 1, 2026",Florida,Crestview,Brock Ave and Church St,1,0,0,0,0
+3520492,"August 1, 2026",Arizona,Lake Havasu City,900 block of Coconut Grove Dr,1,0,1,0,0
+3520483,"August 1, 2026",Florida,Saint Augustine,Como Ct,1,0,0,0,0
+3520478,"August 1, 2026",Florida,Jacksonville,Ortega Woods Dr,0,4,0,0,0
+3520470,"August 1, 2026",Arizona,Gilbert,S Lindsay Rd and E Elliot Rd,0,0,1,0,0
+3520467,"August 1, 2026",Louisiana,New Orleans,2900 block of Freret St,1,0,0,0,0
+3520460,"August 1, 2026",Louisiana,Baton Rouge,Ryder Dr,1,0,0,0,0
+3520443,"August 1, 2026",Michigan,Detroit,Ward Ave and Midland St,0,1,0,0,0
+3521025,"August 1, 2026",Pennsylvania,Philadelphia,N 2nd St and W Spencer Ave,0,1,0,0,1
+3521021,"August 2, 2026",Massachusetts,Boston,464 Meridian St,1,0,0,0,0
+3521016,"August 2, 2026",Pennsylvania,Reading,1400 block of N 5th St,1,0,0,0,1
+3521014,"August 2, 2026",Pennsylvania,Philadelphia,3300 block of N Smedley St,0,1,0,0,0
+3521011,"August 2, 2026",Pennsylvania,Philadelphia,2900 block of W Clementine St,1,0,0,0,0
+3520909,"August 2, 2026",New York,Rochester,Clifford Ave and North St,1,5,0,0,0
+3520992,"August 2, 2026",New York,Bronx,Corona Pkwy and E 181 St,0,1,0,0,0
+3520990,"August 2, 2026",District of Columbia,Washington,1300 block of Saratoga Ave NE,0,1,0,0,0
+3520987,"August 2, 2026",Delaware,Wilmington,Linden St and S Van Buren St,0,1,0,0,0
+3520981,"August 2, 2026",New York,Syracuse,Oakwood Ave,0,1,0,0,0
+3520966,"August 2, 2026",Indiana,Indianapolis,3420 N Emerson Ave,1,0,0,0,0
+3520971,"August 2, 2026",Indiana,Indianapolis,6220 E 11th St,1,1,0,0,0
+3520956,"August 2, 2026",Illinois,Rockford,2300 block of Fremont St,0,1,0,0,0
+3520731,"August 2, 2026",Oregon,Portland,5800 block of NE Alberta St,1,5,0,0,0
+3520916,"August 2, 2026",Texas,Lubbock,300 block of I-27,0,1,0,0,0
+3520872,"August 2, 2026",New York,Brooklyn,W 23rd St and Neptune Ave,0,1,0,0,1
+3520877,"August 2, 2026",Alabama,Huntsville,2990 AL-53,1,4,0,0,0
+3520844,"August 2, 2026",Iowa,Waterloo,W Mullan Ave,1,0,0,0,0
+3520756,"August 2, 2026",California,Fresno,1500 block of S Hazelwood Blvd,0,1,0,0,0
+3520750,"August 2, 2026",Ohio,Cleveland,3216 E 93rd St,0,1,0,0,0
+3520748,"August 2, 2026",Texas,Houston,5625 Antoine Dr,1,0,0,0,0
+3520745,"August 2, 2026",Texas,Houston,15165 Vickery Dr,0,1,0,0,1
+3520741,"August 2, 2026",Texas,Katy,23400 Kingsland Blvd,0,1,0,0,0
+3520727,"August 2, 2026",Texas,Spring,444 E Cypresswood Dr,0,1,0,0,0
+3520710,"August 2, 2026",Texas,Dallas,S Walton St and Commerce St,0,1,0,0,0
+3520667,"August 2, 2026",Ohio,Cincinnati,3000 block of McHenry Ave,0,1,0,0,0
+3520665,"August 2, 2026",Michigan,Flint,Race St,0,1,0,0,0
+3520658,"August 2, 2026",Ohio,Cincinnati,3700 block of Borden St,0,3,0,0,0
+3520622,"August 2, 2026",North Carolina,Dunn,601 N Fayetteville Ave,2,2,0,0,0
+3520619,"August 2, 2026",Wisconsin,Milwaukee,S 14th St and W Greenfield Ave,0,2,0,0,0
+3520615,"August 2, 2026",North Carolina,Greensboro,3800 block of W Gate City Blvd,0,3,0,0,0
+3520613,"August 2, 2026",Wisconsin,Milwaukee,N 39th St and W Cherry St,0,1,0,0,0
+3520603,"August 2, 2026",North Carolina,Charlotte,E 5th St and N McDowell St,1,0,0,0,0
+3520600,"August 2, 2026",North Carolina,Charlotte,3600 block of Bardot Dr,1,1,0,0,0
+3520546,"August 2, 2026",Minnesota,Minneapolis,315 N Washington Ave,0,1,0,0,0
+3520543,"August 2, 2026",Georgia,Snellville,3541 Stone Mountain Hwy,1,0,0,0,0
+3520532,"August 2, 2026",Georgia,Macon,1212 Eisenhower Pkwy,0,1,0,0,0
+3520530,"August 2, 2026",Maryland,Hyattsville (Landover),2300 block of Beaver Rd,0,1,0,0,0
+3520527,"August 2, 2026",Georgia,Albany,507 Swift St,0,1,0,0,0
+3520521,"August 2, 2026",Mississippi,Shannon,Charles Dr,1,0,0,0,1
+3520504,"August 2, 2026",Florida,Tarpon Springs,200 block of E Martin Luther King Jr Dr,0,1,0,0,0
+3520464,"August 2, 2026",Illinois,Chicago,2500 block of W Van Buren St,0,1,0,0,0
+3521065,"August 2, 2026",New Jersey,Trenton,300 block of E State St,1,1,0,0,0
