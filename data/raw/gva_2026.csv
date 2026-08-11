@@ -17509,3 +17509,95 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3525279,"August 9, 2026",Texas,Fort Worth,5600 block of Talons Crest Cir,0,1,0,0,0
 3525272,"August 9, 2026",Texas,Denton,1900 block of N Bell Ave,2,0,0,0,0
 3525268,"August 9, 2026",Ohio,Toledo,1900 block of Cherry St,0,1,0,0,0
+3525399,"August 4, 2026",California,Ventura,Riverside St and W Ramona St,1,0,0,0,0
+3526026,"August 7, 2026",Pennsylvania,Allentown,700 block of Westminster St,0,1,0,0,0
+3525348,"August 7, 2026",Oklahoma,Atoka (county),N/A,1,0,0,0,1
+3526037,"August 8, 2026",Ohio,Warren,600 block of Ohio Ave NW,0,1,0,0,0
+3525999,"August 8, 2026",Michigan,Battle Creek,515 W Michigan Ave,0,1,0,0,0
+3525910,"August 8, 2026",South Carolina,Bishopville,Nash Rd,1,0,0,0,0
+3525698,"August 8, 2026",Illinois,Cahokia Heights,20 Delano Dr,1,0,1,0,0
+3525665,"August 8, 2026",North Carolina,Como,US-258 and Bowles Pl Dr,1,0,0,0,0
+3525625,"August 8, 2026",Florida,Boynton Beach,100 block of NW 8th Ave,1,0,0,0,0
+3525601,"August 8, 2026",New Mexico,Albuquerque,1100 Arizona St NE,1,0,0,0,1
+3525382,"August 8, 2026",Illinois,Chicago,2400 block of S Central Park Ave,0,1,0,0,0
+3526095,"August 8, 2026",Louisiana,Alexandria,100 block of Ball Powell St,0,1,0,0,0
+3526004,"August 9, 2026",Pennsylvania,Philadelphia,2700 block of N Hemberger St,0,1,0,0,0
+3526002,"August 9, 2026",Pennsylvania,Philadelphia,6200 block of Woodland Ave,0,1,0,0,0
+3525935,"August 9, 2026",Pennsylvania,Philadelphia,2800 block of N 24th St,1,1,0,0,0
+3525954,"August 9, 2026",Pennsylvania,Philadelphia,2000 block of E Lehigh Ave,1,0,0,0,0
+3525803,"August 9, 2026",New York,Albany,1st St and Judson St,0,1,0,0,0
+3525786,"August 9, 2026",California,West Hollywood,8490 Sunset Blvd,0,1,0,0,0
+3525779,"August 9, 2026",California,Los Angeles,E Olympic Blvd and Santee St,0,1,0,0,0
+3525769,"August 9, 2026",California,Long Beach,100 CA-1,0,3,0,0,0
+3525740,"August 9, 2026",California,Fresno,E Olive Ave and N Lucerne Ln,0,1,0,0,0
+3525663,"August 9, 2026",Michigan,Saginaw,Lyon St and S Harrison st,1,0,0,0,0
+3525659,"August 9, 2026",Florida,Palmetto,2100 block of 3rd Ave E,0,3,0,0,0
+3525656,"August 9, 2026",Michigan,Flint,Penbrook Ln and Windsor Ln,0,1,0,0,0
+3525650,"August 9, 2026",Florida,Leesburg,Highland Dr,0,0,1,0,0
+3525648,"August 9, 2026",Florida,Miami Gardens,NW 185th Terrace and NW 19th Ave,0,0,0,1,0
+3525640,"August 9, 2026",Florida,Jacksonville,9500 block of 103rd St,0,1,0,0,0
+3525619,"August 9, 2026",Florida,Boca Raton,1400 block of NE 2nd Ct,0,1,0,0,0
+3525608,"August 9, 2026",Virginia,Emporia,1147 Skippers Rd,1,0,0,0,1
+3525571,"August 9, 2026",Virginia,Roanoke,5800 block of Williamson Rd NW,0,1,0,0,0
+3525565,"August 9, 2026",Texas,Houston,I-45 and Airtex Blvd,0,1,0,0,0
+3525557,"August 9, 2026",Georgia,Lithonia,2795 Evans Mill Rd,1,0,0,0,0
+3525481,"August 9, 2026",Georgia,Sardis,Twin Lakes Rd,4,0,1,0,0
+3525510,"August 9, 2026",Georgia,Columbus,2800 block of 10th St,0,2,0,0,0
+3525507,"August 9, 2026",Georgia,Jonesboro,700 block of Dixon Rd,1,0,0,0,1
+3525451,"August 9, 2026",Texas,Dallas,3500 block of N Buckner Blvd,1,0,0,0,0
+3525423,"August 9, 2026",Missouri,Springfield,2500 block of W Water St,1,0,0,0,1
+3525409,"August 9, 2026",Missouri,Kansas City,2500 block of Jackson Ave,1,0,0,0,0
+3525240,"August 9, 2026",Illinois,Chicago,E 59th St and S Michigan Ave,0,2,0,0,0
+3525396,"August 9, 2026",California,Turlock,1100 block of Park St,1,0,0,0,1
+3525388,"August 9, 2026",Illinois,Chicago,300 block of W 64th St,0,1,0,0,0
+3525380,"August 9, 2026",Ohio,Akron,Manchester Rd and Lakemont Ave,1,0,0,0,0
+3525376,"August 9, 2026",Illinois,Dolton,200 block of E 141st St,1,0,0,0,0
+3525359,"August 9, 2026",Texas,Mexia,1200 block of E Palestine Ave,0,4,0,0,0
+3525355,"August 9, 2026",Texas,Dallas,400 block of Coxville Ln,0,1,0,0,0
+3526167,"August 9, 2026",Alabama,Montgomery,3500 block of Fairground Rd,0,1,0,0,0
+3526145,"August 9, 2026",Alabama,Enterprise,103 Apache Dr,1,0,0,0,1
+3526141,"August 9, 2026",Ohio,Columbus,Kenmore Rd,0,1,0,0,0
+3526126,"August 9, 2026",Alaska,Anchorage,300 block of Boniface Pkwy,0,2,0,0,0
+3526100,"August 9, 2026",New Jersey,Newark,772 Bergen St,0,2,1,0,0
+3526050,"August 9, 2026",Louisiana,Shreveport,7200 Jewella Ave,0,1,0,0,0
+3526044,"August 9, 2026",Louisiana,Baton Rouge,11544 N Harrells Ferry Rd,0,1,0,0,0
+3526030,"August 9, 2026",Ohio,Warren,1514 Parkman Rd NW,0,1,0,0,0
+3526035,"August 10, 2026",Pennsylvania,Harrisburg,1800 block of North St,0,1,0,0,0
+3526006,"August 10, 2026",Ohio,Findlay,1901 Broad Ave,0,0,1,0,0
+3525975,"August 10, 2026",Kentucky,Louisville,100 block of W Tenny Ave,0,1,0,0,1
+3525972,"August 10, 2026",Louisiana,Hahnville,300 block of Smith St,1,0,0,0,1
+3525963,"August 10, 2026",Pennsylvania,Philadelphia,Kershaw St and N 51st St,0,1,0,0,0
+3525959,"August 10, 2026",Kentucky,Hopkinsville,500 block of W 16th St,0,1,0,0,0
+3525950,"August 10, 2026",Georgia,Blairsville,1294 GA-515,0,1,0,0,0
+3525942,"August 10, 2026",Georgia,Atlanta,2245 Browns Mill Rd,0,2,0,0,0
+3525940,"August 10, 2026",Indiana,Indianapolis,9950 E 38th St,0,1,0,0,0
+3525929,"August 10, 2026",Georgia,Stockbridge,Hannover Pkwy N and Hwy 138 SE,0,1,0,0,0
+3525912,"August 10, 2026",South Carolina,Greenwood,Pearl St,0,2,0,0,1
+3525637,"August 10, 2026",Illinois,Chicago,5134 S Lotus Ave,2,0,0,0,0
+3525895,"August 10, 2026",Virginia,Richmond,4000 block of Dunston Ave,1,0,1,0,0
+3525875,"August 10, 2026",Indiana,Indianapolis,6850 E 21st St,1,0,0,0,0
+3525866,"August 10, 2026",Indiana,Indianapolis,5800 block of Village Plaza S Dr,0,1,0,0,0
+3525848,"August 10, 2026",New York,Rochester,Grover St,0,1,0,0,0
+3525813,"August 10, 2026",New York,Bronx,1340 Prospect Ave,1,0,0,0,0
+3525646,"August 10, 2026",Minnesota,Saint Paul,200 block of E 12th St,0,0,0,1,1
+3525632,"August 10, 2026",Florida,Jacksonville,9525 Philips Hwy,0,0,0,1,0
+3525630,"August 10, 2026",Wisconsin,Milwaukee,N 118th St and W Silver Spring Dr,0,1,0,0,0
+3525623,"August 10, 2026",Wisconsin,Milwaukee,N 60th St and W Keefe Ave,0,1,0,0,0
+3525378,"August 10, 2026",Washington,Seattle,3100 block of SW Graham St,1,0,0,0,0
+3525585,"August 10, 2026",Nevada,Las Vegas,4500 block of Pigeon Point Ct,1,2,1,0,0
+3525573,"August 10, 2026",Washington,Seattle,10th Ave E & E Miller St,0,3,0,0,0
+3525559,"August 10, 2026",Texas,Humble,3700 block of Liles Ln,0,1,0,0,1
+3525555,"August 10, 2026",Maryland,Essex,50 block of Bladen Rd,0,1,0,0,0
+3525548,"August 10, 2026",Georgia,Conyers,1602 GA-138,0,1,0,0,1
+3525454,"August 10, 2026",Maryland,Essex,50 block of Banyan Wood Ct,2,0,0,0,0
+3525416,"August 10, 2026",Texas,Austin,8200 block of Sam Rayburn Dr,0,1,0,0,0
+3526165,"August 10, 2026",Ohio,Cincinnati,Baymiller St and Charlotte St,0,1,0,0,0
+3526148,"August 10, 2026",Illinois,Chicago,243 W Pershing Rd,2,0,0,0,0
+3526136,"August 10, 2026",Illinois,Chicago,W Chicago Ave and N Dearborn St,0,2,0,0,0
+3526068,"August 10, 2026",Louisiana,Jeanerette,LA-318,0,1,0,0,1
+3526085,"August 10, 2026",Tennessee,Memphis,1700 block of Keltner Cir,0,1,0,0,0
+3526064,"August 10, 2026",Tennessee,Nashville,1600 block of Treutlan Pl,0,1,0,0,0
+3526047,"August 10, 2026",Ohio,Columbus,230 block of Betz R,1,0,0,0,1
+3526055,"August 10, 2026",Tennessee,Murfreesboro,2743 S Rutherford Blvd,0,2,0,0,0
+3526053,"August 10, 2026",Ohio,Columbus,1900 block of W Broad St,0,1,0,0,0
+3526040,"August 10, 2026",Maine,Lewiston,Bradley St,0,1,0,0,0
