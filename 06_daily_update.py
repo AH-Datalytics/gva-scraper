@@ -134,6 +134,11 @@ def main():
                         year_new += len(new)
                         elapsed = time.time() - t0
                         print(f"{len(new)} new ({elapsed:.0f}s)")
+                        # Save after every day that adds data. A long backlog run
+                        # otherwise holds everything in memory until the year
+                        # finishes and loses it all on a crash at day 70 of 78.
+                        if new:
+                            save_year_data(year, rows)
                     else:
                         print(f"FAILED ({time.time()-t0:.0f}s)")
                 except Exception as e:
