@@ -17894,3 +17894,82 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3528229,"August 14, 2026",Alabama,Mobile,3251 Dauphin St,0,1,1,0,0
 3528213,"August 14, 2026",Alabama,Birmingham,810 St Vincents Dr,0,0,1,0,0
 3528741,"August 14, 2026",Ohio,Delaware,N/A,1,0,0,0,2
+3528804,"August 5, 2026",Washington,Centralia,1200 block of Marion St,1,0,0,0,0
+3529117,"August 8, 2026",New York,Bronx,1470 Outlook Ave,0,2,0,0,0
+3528985,"August 11, 2026",Maryland,Baltimore,3100 block of Westwood Ave,0,1,0,0,0
+3528897,"August 12, 2026",Florida,Brandon,Landon Preserve Cir,0,1,0,0,1
+3528854,"August 12, 2026",Illinois,Homewood,1300 block of Jeffery Dr,0,1,0,0,2
+3529199,"August 13, 2026",Ohio,Cincinnati,3000 block of McFadden Ave,0,1,0,0,0
+3529056,"August 13, 2026",Colorado,Denver,W Vassar Ave and Federal Blvd,0,1,0,0,0
+3528924,"August 13, 2026",Louisiana,Baton Rouge,7500 Independence Blvd,1,0,0,0,1
+3528920,"August 13, 2026",Louisiana,Springhill,17 Camelot Dr,1,0,0,0,0
+3528851,"August 13, 2026",Arkansas,Sulphur Springs,23600 block of Honey Creek Rd,1,0,0,0,1
+3529123,"August 14, 2026",District of Columbia,Washington,700 block of O St NW,0,1,0,0,0
+3529138,"August 14, 2026",California,Sacramento,1300 block of C St,0,1,0,0,0
+3529082,"August 14, 2026",California,Long Beach,12th St and Lewis Ave,0,1,0,0,0
+3529076,"August 14, 2026",California,Redlands,325 King St,0,0,1,0,0
+3529053,"August 14, 2026",North Carolina,Raeford,600 block of Sunset Lake Rd,0,1,0,0,0
+3529044,"August 14, 2026",South Carolina,Columbia,1900 block of English Ave,1,0,0,0,2
+3529032,"August 14, 2026",South Carolina,Florence,3024 TV Rd,0,1,0,0,0
+3529027,"August 14, 2026",Oklahoma,Tulsa,S 129th E Ave and E 41st St,0,0,0,1,0
+3529008,"August 14, 2026",New York,Niagara Falls,19th St and Walnut Ave,0,1,0,0,0
+3529002,"August 14, 2026",North Carolina,Whiteville,400 block of Ward St,0,0,0,1,2
+3528998,"August 14, 2026",North Carolina,Durham,600 block of Middle St,0,1,0,0,1
+3528992,"August 14, 2026",North Carolina,Charlotte,Reagan Dr,0,1,0,0,0
+3528978,"August 14, 2026",Michigan,Flint,6152 N Genesee Rd,0,1,0,0,0
+3528974,"August 14, 2026",Kansas,Wichita,9450 E Harry St,0,1,0,0,0
+3528971,"August 14, 2026",Texas,Kerrville,300 block of W Schreiner St,0,1,0,0,0
+3528969,"August 14, 2026",Texas,San Antonio,Weir Ave and Cupples Rd,0,1,0,0,0
+3528965,"August 14, 2026",Mississippi,Jackson,1516 Booker St,0,1,0,0,0
+3528947,"August 14, 2026",Minnesota,Minneapolis,2700 block of Bryant Ave N,0,1,0,0,0
+3528943,"August 14, 2026",Louisiana,Baker,E Myrtle Ave,1,0,0,0,0
+3528922,"August 14, 2026",Georgia,Savannah,5600 block of Emory Dr,0,1,0,0,0
+3528909,"August 14, 2026",Georgia,Atlanta,3000 Stone Hogan Conn SW,1,0,0,0,0
+3528906,"August 14, 2026",Kentucky,Bowling Green,3000 block of Woodbridge Ln,1,0,0,0,1
+3528894,"August 14, 2026",Iowa,Muscatine,1200 block of Grandview Ave,0,1,0,0,0
+3528878,"August 14, 2026",Arkansas,Hot Springs National Park (Hot Springs),241 Autumn St,0,2,0,0,0
+3528848,"August 14, 2026",Alabama,Tuscaloosa,2525 Lanier Ave,0,1,0,0,0
+3528808,"August 14, 2026",Alabama,Graysville,8th Ave SE,1,0,0,0,1
+3528811,"August 14, 2026",Michigan,Detroit,800 block of St Aubin St,0,1,0,0,0
+3529299,"August 14, 2026",Pennsylvania,Philadelphia,N 25th St and W Elkhart St,0,1,0,0,0
+3529297,"August 14, 2026",Pennsylvania,Philadelphia,2100 block of N Gratz St,0,1,0,0,0
+3529282,"August 14, 2026",Pennsylvania,Harrisburg,N 4th St and Woodbine St,0,3,0,0,0
+3529236,"August 14, 2026",California,Sherman Oaks,15100 block of Ostego St,0,1,0,0,0
+3529234,"August 14, 2026",California,Los Angeles,255 E Manchester Ave,0,1,0,0,0
+3529219,"August 15, 2026",Massachusetts,Holyoke,107 Newton St,1,0,0,0,0
+3529208,"August 15, 2026",New York,Buffalo,Woodlawn Ave,0,1,0,0,0
+3529203,"August 15, 2026",Ohio,Cincinnati,Werk Rd and Visitation Dr,0,0,0,1,0
+3528815,"August 15, 2026",Virginia,Petersburg,3300 block of Boisseau St,0,5,0,0,1
+3529134,"August 15, 2026",California,Selma,Cypress St and Logan St,1,0,0,0,0
+3529088,"August 15, 2026",Kentucky,Lexington,215 Midland Ave,1,4,0,0,0
+3529126,"August 15, 2026",California,Parlier,601 3rd St,0,0,0,1,0
+3529106,"August 15, 2026",Tennessee,Nashville,2000 block of 25th Ave N,0,2,0,1,1
+3529084,"August 15, 2026",Tennessee,Memphis,3419 Elvis Presley Blvd,0,1,0,0,0
+3529051,"August 15, 2026",Massachusetts,Holyoke,107 Newton St,1,0,0,0,0
+3529012,"August 15, 2026",District of Columbia,Washington,3300 block of 14th Pl SE,0,3,0,0,0
+3529016,"August 15, 2026",Arizona,Goodyear,18000 block of W Sells Dr,1,1,0,0,0
+3529010,"August 15, 2026",Nebraska,Omaha,N 36th St and Ames Ave,0,1,0,0,0
+3528996,"August 15, 2026",North Carolina,Wilson,4945 Raleigh Rd Pkwy W,1,0,0,0,0
+3528931,"August 15, 2026",Texas,Killeen,2900 block of John Porter Dr,1,0,0,0,0
+3528976,"August 15, 2026",Michigan,Flint,2002 S Dort Hwy,0,1,0,0,0
+3528962,"August 15, 2026",Virginia,Richmond,800 block of Semmes Ave,1,1,0,0,0
+3528945,"August 15, 2026",Minnesota,Minneapolis,1400 block of W Lake St,0,1,0,0,0
+3528938,"August 15, 2026",Virginia,Lynchburg,1300 block of Main St,0,1,0,0,0
+3528929,"August 15, 2026",Virginia,Virginia Beach,800 block of Woolard Crescent,0,1,0,0,0
+3528872,"August 15, 2026",Texas,Houston,9300 block of Fairland Dr,1,3,0,0,0
+3528846,"August 15, 2026",Colorado,Denver,3300 block of W Alameda Ave,0,1,0,0,0
+3528842,"August 15, 2026",Colorado,Denver,2100 block of S Sheridan Blvd,0,3,0,0,0
+3528828,"August 15, 2026",Illinois,Chicago,3800 block of W Hirsch St,0,1,0,0,0
+3528786,"August 15, 2026",Virginia,Portsmouth,Twin Pines Rd and Towne Point Rd,0,2,0,0,0
+3529323,"August 15, 2026",Ohio,Cleveland,1500 block of Ansel Rd,0,1,0,0,0
+3529306,"August 15, 2026",Ohio,Westerville,6911 Cleveland Ave,0,0,1,0,0
+3529303,"August 15, 2026",Pennsylvania,Sharon,174 W Budd St,0,1,0,0,1
+3529301,"August 15, 2026",Pennsylvania,Williamsport,1955 Lycoming Creek Rd,0,1,0,0,0
+3529290,"August 15, 2026",Pennsylvania,Philadelphia,2800 block of Mercer St,1,0,1,0,0
+3529287,"August 15, 2026",Pennsylvania,Philadelphia,400 block of W Paul St,0,2,0,0,0
+3529269,"August 15, 2026",California,Los Angeles,3200 block of Mines Ave,0,1,0,0,0
+3529267,"August 15, 2026",Indiana,Logansport,1700 block of High St,0,1,0,0,0
+3529262,"August 15, 2026",Indiana,South Bend,904 E Ireland Rd,0,1,0,0,0
+3529251,"August 15, 2026",New York,Central Islip,221 Hawthorne Ave,0,1,0,0,0
+3529244,"August 15, 2026",California,Los Angeles,2000 block of N Highland Ave,0,1,0,0,0
+3529120,"August 15, 2026",Kentucky,Louisville,1300 block of Scholar St,0,2,0,0,0
