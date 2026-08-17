@@ -17973,3 +17973,94 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3529251,"August 15, 2026",New York,Central Islip,221 Hawthorne Ave,0,1,0,0,0
 3529244,"August 15, 2026",California,Los Angeles,2000 block of N Highland Ave,0,1,0,0,0
 3529120,"August 15, 2026",Kentucky,Louisville,1300 block of Scholar St,0,2,0,0,0
+3529534,"July 27, 2026",Texas,Commerce,900 block of Plum St,0,0,0,1,2
+3529703,"August 11, 2026",Indiana,Gary,400 W 15th Ave,1,0,0,0,0
+3529837,"August 12, 2026",Alaska,Anchorage,4th Ave and E St,1,0,0,0,0
+3529846,"August 14, 2026",California,Los Angeles,10790 Wilshire Blvd,2,0,0,0,0
+3529717,"August 14, 2026",South Dakota,Wagner,N/A,1,0,0,0,0
+3529605,"August 14, 2026",Florida,Lakeland,613 Choctaw Ave,0,2,0,0,0
+3529370,"August 14, 2026",Illinois,Chicago,6200 block of W 53rd St,0,1,0,0,0
+3529525,"August 14, 2026",Missouri,Cedar Hill,N/A,0,1,0,0,1
+3529482,"August 14, 2026",Mississippi,Starkville,Westside Dr and N Long St,0,2,0,0,1
+3529856,"August 14, 2026",California,Santa Monica,1133 7th St,1,0,0,0,0
+3529802,"August 15, 2026",California,Hesperia,Escondido Ave and Main St,0,0,0,1,1
+3529756,"August 15, 2026",California,Alameda,2250 S Shore Center,0,1,0,0,1
+3529670,"August 15, 2026",Wisconsin,Milwaukee,N 42nd St and W Lloyd St,0,2,0,0,0
+3529714,"August 15, 2026",Kentucky,Smiths Grove,1300 block of Rocky Hill Rd,0,1,0,0,0
+3529331,"August 15, 2026",Missouri,Kansas City,Park Ave and E 34th St,0,4,0,0,0
+3529674,"August 15, 2026",Minnesota,Minneapolis,18th Ave S and E 24th St,0,2,0,0,0
+3529668,"August 15, 2026",Michigan,Detroit,N/A,0,1,0,0,0
+3529596,"August 15, 2026",Georgia,Augusta,4300 block of Saxon Dr,0,1,0,0,0
+3529636,"August 15, 2026",Georgia,Forest Park,400 block of Sylvia Dr,0,1,0,0,0
+3529634,"August 15, 2026",Georgia,Atlanta,2423 Martin Luther King Jr Dr NW,0,1,0,0,0
+3529554,"August 15, 2026",Texas,Houston,13306 Cullen Blvd,1,3,0,0,0
+3529610,"August 15, 2026",Texas,Houston,Grant Rd,0,0,1,0,0
+3529608,"August 15, 2026",Florida,Tallahassee,1400 block of Blountstown Hwy,0,1,0,0,0
+3529593,"August 15, 2026",Florida,Jacksonville,1300 block of Barnett St,0,1,0,0,0
+3529575,"August 15, 2026",South Carolina,Ladson,3785 Ladson Rd,1,0,0,0,0
+3529520,"August 15, 2026",Ohio,Cincinnati,130 block of Rion Ln,0,4,0,0,0
+3529492,"August 15, 2026",Maryland,Baltimore,400 block of W Lafayette Ave,1,0,0,0,0
+3529509,"August 15, 2026",North Carolina,Goldsboro,607 W Oak St,2,0,0,0,1
+3529506,"August 15, 2026",Maryland,Bel Air,300 block of Franklin St,0,0,1,0,0
+3529471,"August 15, 2026",Texas,Fort Worth,6900 block of Misty Glen Ct,0,1,1,0,0
+3529496,"August 15, 2026",Kansas,Wichita,E Indianapolis St and S St Francis Ave,0,1,0,0,0
+3529494,"August 15, 2026",Kansas,Wichita,S Glenn Ave and W 27th St,0,1,0,0,0
+3529489,"August 15, 2026",Texas,Brownsboro,11000 block of Ingram St,0,0,1,0,0
+3529487,"August 15, 2026",Kansas,Topeka,2500 block of SE Illinois Ave,0,1,0,0,0
+3529463,"August 15, 2026",Virginia,Richmond,2200 block of 23rd St,1,0,0,0,0
+3529448,"August 15, 2026",Louisiana,Lake Charles,2300 block of Creole St,0,0,0,1,0
+3529450,"August 15, 2026",Louisiana,Thibodaux,900 block of Church St,1,0,0,0,0
+3529441,"August 15, 2026",Arizona,Mesa,542 S Ext Rd,1,0,0,0,0
+3529428,"August 15, 2026",Virginia,Charlottesville,2100 block of Ivy Rd,0,1,0,0,0
+3529411,"August 15, 2026",Arizona,Flagstaff,211 W Aspen Ave,1,0,0,0,0
+3529399,"August 15, 2026",Washington,Brush Prairie,10910 NE 172nd Ave,1,0,0,0,1
+3529379,"August 15, 2026",Alabama,Montgomery,1900 block of Maxwell Blvd E,0,1,0,0,0
+3529368,"August 15, 2026",Illinois,Chicago,8000 block of S Ingleside Ave,0,1,0,0,0
+3529366,"August 15, 2026",Illinois,Chicago,3200 block of E 106th St,0,1,0,0,0
+3529346,"August 15, 2026",New Mexico,Loving,200 block of N 6th St,1,0,0,0,0
+3529344,"August 15, 2026",Arizona,Casa Grande,W Orchid Pl,0,0,1,0,0
+3529341,"August 15, 2026",Arizona,Casa Grande,1801 N Pinal Ave,1,0,0,0,0
+3529336,"August 15, 2026",Illinois,Chicago,8500 block of S Sangamon St,0,4,0,0,0
+3529666,"August 16, 2026",Wisconsin,Milwaukee,N 107th St and W Fond du Lac Ave,0,1,0,0,0
+3529810,"August 16, 2026",Pennsylvania,Pittsburgh,Hawkins Ave,0,1,0,0,0
+3529804,"August 16, 2026",Pennsylvania,Pittsburgh,2000 block of Arlington Ave,0,1,0,0,0
+3529797,"August 16, 2026",Tennessee,Memphis,3100 block of Madewell Dr,0,2,0,0,0
+3529325,"August 16, 2026",Connecticut,Hartford,735 Wethersfield Ave,1,4,0,0,0
+3529461,"August 16, 2026",Virginia,Richmond,50 block of Craighill Rd,1,0,0,0,1
+3529784,"August 16, 2026",California,Los Banos,2000 block of Edward St,1,0,0,0,1
+3529782,"August 16, 2026",Maryland,Capitol Heights (Seat Pleasant),63rd St,0,1,0,0,0
+3529775,"August 16, 2026",Connecticut,Waterbury,300 block of N Main St,0,1,0,0,0
+3529766,"August 16, 2026",California,Oakland,4700 block of E 12th St,0,1,0,0,0
+3529764,"August 16, 2026",New York,Bronx,1997 Jerome Ave,0,1,0,0,0
+3529705,"August 16, 2026",New York,New York (Manhattan),126 Ludlow St,0,0,1,0,0
+3529744,"August 16, 2026",Michigan,Kalamazoo,1400 block of Fox Ridge Dr,0,1,0,0,0
+3529737,"August 16, 2026",New York,Brooklyn,391 Howard Ave,1,1,0,0,0
+3529712,"August 16, 2026",New York,Troy,Hutton St and 13th St,0,1,0,0,0
+3529710,"August 16, 2026",New York,Buffalo,300 block of Woodlawn Ave,1,0,0,0,0
+3529699,"August 16, 2026",Nebraska,Omaha,N 28th Ave and Titus Ave,1,0,0,0,0
+3529701,"August 16, 2026",Nebraska,Omaha,Howard St and S 12th St,0,1,0,0,0
+3529696,"August 16, 2026",Indiana,Indianapolis,6200 block of W 38th St,0,2,0,0,0
+3529689,"August 16, 2026",Indiana,Indianapolis,S Meridian St and E South St,0,2,0,0,1
+3529687,"August 16, 2026",Indiana,Indianapolis,500 block of W 29th St,0,1,0,0,0
+3529684,"August 16, 2026",Missouri,Saint Louis,Olive St and N Tucker Blvd,0,1,0,0,1
+3529682,"August 16, 2026",Minnesota,Minneapolis,3300 block of 38th Ave S,0,1,0,0,0
+3529664,"August 16, 2026",Michigan,Detroit,2700 block of E Jefferson Ave,0,1,0,0,0
+3529662,"August 16, 2026",Texas,San Antonio,4500 block of N Loop 1604 W,0,1,0,0,0
+3529656,"August 16, 2026",Texas,Mission,1600 block of Oblate Ave,0,0,1,0,0
+3529645,"August 16, 2026",Georgia,Brunswick,1500 block of Grant St,1,0,0,0,1
+3529617,"August 16, 2026",Georgia,Sparta,Beulah Hwy,0,5,0,0,0
+3529599,"August 16, 2026",Florida,Hollywood,2700 block of Arthur St,0,2,0,0,1
+3529591,"August 16, 2026",Illinois,Chicago,7900 block of S Lafayette Ave,0,1,0,0,0
+3529577,"August 16, 2026",Ohio,Columbus,1400 block of Belvoir Blvd,0,2,0,0,0
+3529318,"August 16, 2026",Ohio,Sandusky,1200 block of E Parish St,0,2,0,0,0
+3529567,"August 16, 2026",Ohio,Lorain,725 Washington Ave,2,0,0,0,1
+3529503,"August 16, 2026",Texas,Dallas,3100 block of S Westmoreland Rd,0,1,0,0,1
+3529501,"August 16, 2026",Maryland,Baltimore,3400 block of Wilkens Ave,0,1,0,0,0
+3529453,"August 16, 2026",Louisiana,New Orleans,Laharpe St and N Claiborne Ave,0,3,0,0,0
+3529421,"August 16, 2026",Virginia,Hampton,100 block of Newmarket Square,1,1,0,0,0
+3529359,"August 16, 2026",Illinois,Chicago,1300 block of W 13th St,1,0,0,0,0
+3529364,"August 16, 2026",Illinois,Chicago,4200 block of W Cermak Rd,1,0,0,0,0
+3529409,"August 16, 2026",Pennsylvania,Pittsburgh,Grant Ave,0,1,0,0,0
+3529361,"August 16, 2026",Illinois,Chicago,1400 block of W 65th St,1,1,0,0,0
+3529357,"August 16, 2026",Illinois,Chicago,3801 W Harrison St,1,0,0,0,0
+3529354,"August 16, 2026",Illinois,Chicago,100 block of W 124th St,0,1,0,0,0
