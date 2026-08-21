@@ -18298,3 +18298,69 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3531766,"August 19, 2026",Pennsylvania,Pittsburgh,Chauncey Dr,1,0,0,0,0
 3531744,"August 19, 2026",Michigan,Benton Harbor,100 block of Oden St,1,0,0,0,0
 3531737,"August 19, 2026",Michigan,Detroit,Orangelawn St and Forrer St,0,1,0,0,0
+3531909,"August 8, 2026",Ohio,Cleveland,E 103rd S,0,1,0,0,0
+3532019,"August 9, 2026",Maryland,Frederick,100 block of Pennsylvania Ave,0,2,0,0,1
+3531904,"August 9, 2026",Ohio,Cleveland,E 108th St and Sandusky Ave,0,4,0,0,0
+3531895,"August 11, 2026",Ohio,Cleveland,Holyoke Ave,0,1,0,0,0
+3531891,"August 13, 2026",Arkansas,Hot Springs National Park (Lake Hamilton),Lake South Terrace,0,1,0,0,1
+3531927,"August 15, 2026",Georgia,Atlanta (Sandy Springs),8599 Roswell Rd,0,1,0,1,1
+3531923,"August 15, 2026",Arkansas,Texarkana,600 Price Ln,0,1,0,0,1
+3532290,"August 16, 2026",Georgia,Albany,400 block of Holloway Ave,0,1,0,0,1
+3532138,"August 16, 2026",California,San Bernardino,SR-210 and Del Rosa Ave,1,1,0,0,2
+3532149,"August 17, 2026",Arizona,Clarkdale,N/A,0,0,0,1,0
+3531948,"August 17, 2026",Maryland,Belcamp,Caldwell Ct N,0,1,0,0,0
+3532305,"August 18, 2026",South Carolina,Marion,200 block of Martin Luther King Dr,0,1,0,0,3
+3532273,"August 18, 2026",Ohio,Canton,900 block of 6th St SW,0,2,0,0,0
+3532161,"August 18, 2026",Arizona,Phoenix,2725 W Peoria Ave,0,0,1,0,0
+3532168,"August 18, 2026",North Carolina,Angier,N/A,1,0,0,0,0
+3532166,"August 18, 2026",Virginia,Norfolk,7600 block of Gloucester Ave,0,1,0,0,0
+3531849,"August 18, 2026",Massachusetts,Worcester,Wildwood Ave,1,0,0,0,0
+3531824,"August 18, 2026",Massachusetts,Boston,Westview St,0,1,0,0,0
+3532356,"August 18, 2026",Florida,Winter Garden,778 Bethune Ave,1,0,0,0,0
+3532310,"August 19, 2026",Ohio,Toledo,Wenz Rd and Angola Rd,1,0,0,0,1
+3532280,"August 19, 2026",Ohio,Cincinnati,6400 block of Vine St,0,1,0,0,1
+3532159,"August 19, 2026",Florida,Winter Garden,Bethune Ave,1,0,0,0,0
+3532147,"August 19, 2026",Pennsylvania,Philadelphia,2900 block of D St,0,1,0,0,0
+3532122,"August 19, 2026",Wisconsin,Milwaukee,1100 block of W Atkinson Ave,0,1,0,0,0
+3532113,"August 19, 2026",California,Lancaster,1004 E Ave K,0,1,0,0,0
+3532098,"August 19, 2026",California,Wilmington,900 block of Vreeland Ave,0,2,0,0,0
+3532090,"August 19, 2026",Virginia,South Boston,N Main St and College St,1,0,0,0,0
+3532070,"August 19, 2026",Virginia,Norfolk,100 block of W Liberty St,1,0,0,0,0
+3532053,"August 19, 2026",Michigan,Wyoming,78 50th St,1,0,0,0,0
+3532012,"August 19, 2026",Louisiana,New Orleans (Elmwood),1200 S Clearview Pkwy,0,1,0,0,1
+3532010,"August 19, 2026",Minnesota,Saint Paul,1100 block of Supornick Ln,0,1,0,0,0
+3531972,"August 19, 2026",Georgia,Columbus,3170 Victory Dr,0,1,0,0,1
+3531964,"August 19, 2026",Georgia,Augusta,3500 block of Rushing Rd,1,0,0,0,1
+3531931,"August 19, 2026",Rhode Island,Woonsocket,Rathbun St and E School St,0,1,0,0,0
+3531921,"August 19, 2026",California,Los Angeles,E 103rd St and S Central Ave,0,1,0,0,0
+3531839,"August 19, 2026",New Jersey,Trenton,New Rose St and Martin Luther King Blvd,0,1,0,0,0
+3531812,"August 19, 2026",Illinois,Chicago,55th St and State St,0,1,0,0,0
+3532411,"August 19, 2026",Pennsylvania,Johnstown,Highland Ave and Dupont St,0,1,0,0,0
+3532399,"August 19, 2026",Pennsylvania,Pittsburgh,7200 block of Frankstown Ave,0,2,0,0,0
+3532323,"August 19, 2026",Florida,Deerfield Beach,200 block of SW 1st Terrace,0,0,1,0,0
+3532152,"August 20, 2026",South Carolina,Edgemoor,Mays Dr,1,1,1,0,0
+3532293,"August 20, 2026",Georgia,Atlanta,1388 Joseph E Boone Blvd NW,0,1,0,0,0
+3532285,"August 20, 2026",Georgia,Albany,N Jefferson St and Liberty Expy SE,0,1,0,0,1
+3532277,"August 20, 2026",Ohio,Canton,1937 Maple Avenue NE,0,1,0,0,0
+3532262,"August 20, 2026",Ohio,Cleveland,7400 block of Carson Ave,1,0,0,0,0
+3532267,"August 20, 2026",Ohio,Cleveland,918 Spring Rd,1,0,0,0,2
+3532219,"August 20, 2026",District of Columbia,Washington,5300 Sheriff Rd NE,0,1,0,0,1
+3532156,"August 20, 2026",Tennessee,Beechgrove,500 block of Maple Dr,0,0,0,1,0
+3532136,"August 20, 2026",New York,Brooklyn,268 E 98th St,0,1,0,0,0
+3532134,"August 20, 2026",Michigan,Detroit,W Warren Ave and Fielding St,0,1,0,0,0
+3532131,"August 20, 2026",Virginia,Richmond,6200 block of Tweeter Branch Ln,1,0,0,0,0
+3532124,"August 20, 2026",New York,Bronx,2060 White Plains Rd,0,1,0,0,0
+3532109,"August 20, 2026",New York,Bronx,549 Commonwealth Ave,0,3,0,0,0
+3532076,"August 20, 2026",Mississippi,Holly Springs,655 Salem Ave,0,1,0,0,0
+3532023,"August 20, 2026",Texas,Dallas,10500 block of Muskogee Dr,1,0,0,0,0
+3532017,"August 20, 2026",Iowa,Cedar Rapids,1800 block of Western Dr SW,1,0,0,0,0
+3531917,"August 20, 2026",Missouri,Saint Louis (Clayton),S Brentwood Blvd and Bonhomme Ave,0,1,0,0,2
+3531913,"August 20, 2026",Maryland,Baltimore,3500 block of 7th St,0,1,0,0,0
+3531883,"August 20, 2026",Arkansas,Hot Springs National Park (Hot Springs),241 Autumn St,1,0,0,0,0
+3531852,"August 20, 2026",Maryland,Capitol Heights (Fairmount Heights),5300 block of Sheriff Rd NE,0,1,0,0,1
+3531837,"August 20, 2026",Connecticut,New Haven,100 block of Derby ave,1,0,0,0,0
+3531830,"August 20, 2026",Oklahoma,Oklahoma City,N Council Rd and NW 104th St,0,1,0,0,1
+3532396,"August 20, 2026",Montana,Shelby,200 block of W Cascade Ave,0,1,0,0,1
+3532385,"August 20, 2026",Ohio,Cleveland,W 86th St,1,0,1,0,0
+3532383,"August 20, 2026",Ohio,Cleveland,16600 block of Biltmore Ave,0,1,0,0,0
+3532319,"August 20, 2026",North Carolina,Charlotte,2100 block of Yager Creek Dr,1,0,0,0,0
