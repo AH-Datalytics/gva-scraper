@@ -19810,3 +19810,106 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3542728,"September 7, 2026",Tennessee,Memphis,6800 block of Keystone Dr,0,2,0,0,0
 3542724,"September 7, 2026",Tennessee,Memphis,2650 Southern Ave,0,1,0,0,0
 3542713,"September 7, 2026",Tennessee,Memphis,100 block of S Court Ave,0,1,0,0,0
+3543187,"August 15, 2026",Michigan,Saginaw,1800 block of Webber St,0,0,0,1,0
+3543312,"August 16, 2026",New York,Rochester,610 N Plymouth Ave,1,0,0,0,1
+3543320,"August 22, 2026",Indiana,Franklin,N/A,0,1,0,0,0
+3543478,"August 31, 2026",Tennessee,New Tazewell,Clouds Rd,0,0,1,0,0
+3542891,"September 2, 2026",Georgia,Athens,Fourth St,0,1,0,0,1
+3543122,"September 3, 2026",Minnesota,Monticello,9127 MN-25,1,0,0,0,1
+3543475,"September 3, 2026",Tennessee,Kodak,4432 Turner Way,0,1,0,0,1
+3543395,"September 3, 2026",Pennsylvania,Philadelphia,4800 block of Lancaster Ave,0,1,0,0,0
+3543393,"September 3, 2026",Pennsylvania,Philadelphia,4900 block of Aspen St,0,1,0,0,0
+3543425,"September 4, 2026",Washington,Bremerton,Chester Ave and Lincoln Ave,0,3,0,0,0
+3543380,"September 4, 2026",Washington,Everett,1300 block of 8th Ave W,0,1,0,0,1
+3543359,"September 5, 2026",Ohio,Cleveland,E 125th St and Cornado Ave,1,0,0,0,0
+3543356,"September 5, 2026",Mississippi,Hattiesburg,200 block of N 25th Ave,0,1,0,0,1
+3543333,"September 5, 2026",Alabama,Mobile,600 block of Westwood Ave,0,1,0,0,0
+3543315,"September 5, 2026",Arkansas,Forrest City,928 Robinson St,0,1,0,0,1
+3543250,"September 5, 2026",Mississippi,Edwards,East St and Jackson St,1,0,0,0,0
+3543073,"September 5, 2026",Texas,College Station,106 College Main St,0,1,0,0,1
+3543020,"September 5, 2026",Colorado,Aurora,E Fifth Ave and Fulton St,0,1,0,0,0
+3542933,"September 5, 2026",Texas,Beaumont,4637 Rolfe Christopher Dr,0,1,0,0,0
+3542886,"September 5, 2026",Arizona,Tucson,6465 S Craycroft Rd,1,0,0,0,1
+3542825,"September 5, 2026",Oregon,Beaverton,SW 141st Ave and SW Allen Blvd,0,1,0,0,0
+3543414,"September 5, 2026",Idaho,Mountain Home,Friesians Ln,0,1,0,0,0
+3543370,"September 5, 2026",West Virginia,Fort Ashby,8500 block of Frankfort Hwy,1,0,0,0,0
+3543281,"September 6, 2026",Louisiana,Baton Rouge,7400 block of Plank Rd,1,0,0,0,0
+3543242,"September 6, 2026",Georgia,Alpharetta,31016 Gardner Dr,0,0,0,1,0
+3543220,"September 6, 2026",Mississippi,Jackson,802 N State St,0,2,0,0,0
+3543195,"September 6, 2026",South Carolina,Cottageville,400 block of Rhode Dr,0,1,0,0,3
+3543174,"September 6, 2026",South Carolina,Saint Stephen,3856 Byrnes Dr,1,0,0,0,1
+3543155,"September 6, 2026",Delaware,Wilmington,50 block of S Cleveland Ave,1,0,0,0,1
+3542964,"September 6, 2026",Texas,Dallas,5600 block of N Interstate 35 E Service Rd,1,0,0,0,0
+3542806,"September 6, 2026",Washington,Blaine (Birch Bay),7800 block of Birch Bay Dr,0,1,0,0,1
+3543481,"September 6, 2026",Illinois,Joliet,Western Ave,0,1,0,0,1
+3543386,"September 6, 2026",Pennsylvania,Philadelphia,200 block of S 52nd St,0,1,0,0,0
+3543378,"September 6, 2026",Pennsylvania,Philadelphia,3400 block of N Broad St,0,1,0,0,0
+3543331,"September 7, 2026",Indiana,Muncie,3300 S Juniper Ln,1,0,0,0,0
+3543325,"September 7, 2026",Alabama,Mobile,8300 block of Calgary Dr,1,0,0,0,0
+3543294,"September 7, 2026",Arkansas,Sheridan,3000 block of US-270,0,2,0,0,1
+3542861,"September 7, 2026",Georgia,Lagrange,1235 Hogansville Rd,2,1,0,0,1
+3543209,"September 7, 2026",South Carolina,Ladson,Ladson Rd,0,3,0,0,0
+3542819,"September 7, 2026",Delaware,Dover,200 block of S Governors Blvd,0,1,0,0,0
+3543107,"September 7, 2026",New York,Brooklyn,Bristol St and Livonia Ave,1,0,0,0,0
+3543103,"September 7, 2026",New York,Bronx,University Ave and Merriam Ave,0,3,0,0,0
+3542817,"September 7, 2026",California,Los Angeles,W Martin Luther King Jr Blvd and S Broadway,0,1,0,0,1
+3543086,"September 7, 2026",California,Stockton,Burkett Ave and E Main St,0,1,0,0,0
+3543071,"September 7, 2026",Florida,Gladeview,NW 69th Terrace and NW 21st Ave,0,1,0,0,0
+3543065,"September 7, 2026",North Carolina,Mount Holly,635 Noles Dr,1,0,0,0,1
+3543061,"September 7, 2026",North Carolina,Mount Holly,Grandhaven Dr,1,0,0,0,1
+3543053,"September 7, 2026",North Carolina,Burlington,728 N Church St,1,0,0,0,1
+3543047,"September 7, 2026",North Carolina,Charlotte,3400 block of Marvin Rd,1,0,0,0,0
+3543044,"September 7, 2026",Colorado,Colorado Springs,5600 block of Cedar Creek View,0,0,1,0,0
+3543032,"September 7, 2026",Texas,Lubbock,8900 block of US-87,0,0,1,0,0
+3543022,"September 7, 2026",Colorado,Aurora,17800 block of E Girard Dr,0,1,0,0,1
+3543010,"September 7, 2026",Illinois,Chicago,600 block of W 74th St,2,0,0,0,1
+3542999,"September 7, 2026",North Carolina,Leland,109 Village Rd NE,0,1,0,0,0
+3542979,"September 7, 2026",California,Sacramento,300 block of Bercut Dr,0,1,0,0,0
+3542975,"September 7, 2026",Texas,El Paso,4900 block of Vista Grande Cir,1,0,0,0,0
+3542961,"September 7, 2026",Texas,Dallas,2500 block of Cherry Valley Blvd,1,0,0,1,1
+3542954,"September 7, 2026",Texas,Fort Worth (River Oaks),900 block of Yale St,0,0,1,0,0
+3542875,"September 7, 2026",Georgia,Valdosta,1150 Old Statenville Rd,0,1,0,0,0
+3542857,"September 7, 2026",Nebraska,Omaha,2420 Lake St,0,1,0,0,0
+3542843,"September 7, 2026",Virginia,Newport News,10459 Jefferson Ave,1,0,0,0,0
+3542829,"September 7, 2026",District of Columbia,Washington,700 block of 2nd St NE,0,1,0,0,0
+3543442,"September 7, 2026",Tennessee,Nashville,900 block of 39th Ave N,0,1,0,0,0
+3543417,"September 7, 2026",Ohio,Toledo,2200 block of Kent St,0,1,0,0,0
+3543409,"September 7, 2026",Ohio,Toledo,Dexter St,0,3,0,0,0
+3543383,"September 7, 2026",Ohio,Dayton,1921 South Gettysburg Ave,0,1,0,0,1
+3543389,"September 7, 2026",Ohio,Dayton,50 block of Willowwood Dr,0,1,0,0,0
+3543374,"September 7, 2026",Pennsylvania,Philadelphia,4600 block of Edmund St,0,1,0,0,0
+3543361,"September 8, 2026",Minnesota,Minneapolis,N/A,0,1,0,0,0
+3543115,"September 8, 2026",Wisconsin,Milwaukee,N 37th St and W Wright St,0,1,1,0,0
+3543329,"September 8, 2026",New York,Buffalo,400 block of Perry St,0,1,0,0,0
+3543301,"September 8, 2026",New York,Bronx,2948 Tenbroeck Ave,0,1,0,0,0
+3543290,"September 8, 2026",Louisiana,New Orleans,14500 block of Duane Rd,0,1,0,0,0
+3543274,"September 8, 2026",Louisiana,Baton Rouge,6751 Titian Ave,0,0,1,0,0
+3543276,"September 8, 2026",Louisiana,Baton Rouge,4900 block of Washington Ave,1,0,0,0,0
+3543270,"September 8, 2026",North Carolina,Greenville,N/A,0,2,0,0,1
+3543267,"September 8, 2026",Louisiana,New Orleans,100 block of Canal St,0,1,0,0,0
+3542873,"September 8, 2026",Georgia,Albany,1100 block of Van Deman St,1,1,0,0,0
+3543213,"September 8, 2026",South Carolina,Summerville,559 Orangeburg Rd,0,1,0,0,1
+3543184,"September 8, 2026",South Carolina,Piedmont,1500 Piedmont Hwy,0,2,0,0,0
+3543178,"September 8, 2026",Maryland,Temple Hills,N/A,0,1,0,0,0
+3543160,"September 8, 2026",District of Columbia,Washington,40 block of Galveston Pl SW,0,1,0,0,0
+3543158,"September 8, 2026",South Carolina,Columbia,600 block of Crestmont Rd,0,1,0,0,0
+3543120,"September 8, 2026",New York,Brooklyn,234 Moffat St,0,1,0,0,0
+3543111,"September 8, 2026",New York,Brooklyn,Cooper St and Wilson Ave,0,1,0,0,0
+3543090,"September 8, 2026",California,Barstow,700 block of E Virginia Way,0,1,0,0,1
+3543056,"September 8, 2026",Texas,San Antonio,Bynum Ave and Briggs Ave,0,1,0,0,0
+3542983,"September 8, 2026",Illinois,Chicago,3400 block of W Wrightwood Ave,0,2,0,0,1
+3543050,"September 8, 2026",North Carolina,Charlotte,Little Rock Rd and Queen City Dr,0,1,0,0,0
+3542991,"September 8, 2026",Texas,Houston,Hickok Ln and Scott St,1,0,0,0,0
+3542871,"September 8, 2026",Georgia,Stone Mountain,1000 block of Lancashire Cir,0,1,0,0,0
+3542849,"September 8, 2026",Arizona,Phoenix,W Lower Buckeye Rd and 83rd Ave,1,0,0,0,0
+3542851,"September 8, 2026",Virginia,Richmond,2900 block of Chamberlayne Ave,0,1,0,0,0
+3542846,"September 8, 2026",Arizona,Phoenix,N 75th Ave and W Indian School Rd,1,1,0,0,0
+3542821,"September 8, 2026",California,Rancho Cordova,US-50 and Hazel Ave,0,0,1,0,0
+3543494,"September 8, 2026",Tennessee,Memphis,2900 block of Cordell St,0,0,0,1,0
+3543473,"September 8, 2026",Tennessee,Nashville,2403 Brick Church Pike,0,1,0,0,0
+3543471,"September 8, 2026",Washington,Spokane (Spokane Valley),14221 E 16th Ave,0,0,1,0,0
+3543419,"September 8, 2026",Pennsylvania,Philadelphia,5900 block of Warrington Ave,0,1,0,0,0
+3543405,"September 8, 2026",Washington,Seattle,924 N 143rd St,0,1,0,0,0
+3543403,"September 8, 2026",Ohio,Toledo,E Broadway St and Starr Ave,0,1,0,0,0
+3543399,"September 8, 2026",Ohio,Dayton (Trotwood),4183 Salem Ave,0,1,0,0,0
+3543262,"September 8, 2026",Illinois,Chicago,N Leavitt St and W Warren Blvd,1,0,0,0,0
