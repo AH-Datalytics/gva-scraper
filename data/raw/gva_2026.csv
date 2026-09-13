@@ -20114,3 +20114,69 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3545333,"September 11, 2026",District of Columbia,Washington,1900 block of 18th St SE,1,0,0,0,0
 3545331,"September 11, 2026",Tennessee,Nashville,Decatur St,0,1,0,0,0
 3545307,"September 11, 2026",Ohio,Cleveland,2300 block of E 46th St,0,1,0,0,0
+3545505,"August 8, 2026",South Carolina,Blackville,Campbell St,1,0,0,0,1
+3545467,"September 8, 2026",Florida,Saint Petersburg,5th Ave N,0,0,0,1,1
+3545446,"September 9, 2026",Florida,Lake City,4826 US-441 S,1,0,0,0,0
+3544517,"September 9, 2026",Indiana,Fort Wayne,800 block of Buchanan St,2,0,0,0,0
+3545739,"September 9, 2026",Pennsylvania,Philadelphia,6000 block of Elmwood Ave,0,1,0,0,0
+3545737,"September 9, 2026",Pennsylvania,Philadelphia,2900 block of N Broad St,0,1,0,0,0
+3545650,"September 10, 2026",New York,Brooklyn,Kingston Ave and Throop Ave,0,2,0,0,0
+3545574,"September 10, 2026",California,Turlock,600 block of Florence St,1,0,0,0,0
+3545532,"September 10, 2026",Mississippi,Brookhaven,Lucas St,1,0,0,0,0
+3545524,"September 10, 2026",North Carolina,Wilson,500 block of Manchester St,1,0,0,0,1
+3545517,"September 10, 2026",North Carolina,Charlotte,Reliance St,0,1,0,0,0
+3545508,"September 10, 2026",South Carolina,Walterboro,10000 block of Jeffries Hwy,0,1,0,0,0
+3545477,"September 10, 2026",Georgia,Stone Mountain,1420 S Hairston Rd,0,1,0,0,1
+3545465,"September 10, 2026",Florida,Orlando (Lockhart),3800 block of Shady Grove Cir,0,1,0,0,0
+3545454,"September 10, 2026",Florida,Hallandale (Hallandale Beach),500 block of NW 5th St,0,1,0,0,0
+3545385,"September 10, 2026",Indiana,Fort Wayne,4600 block of S Park Dr,0,1,0,0,0
+3545682,"September 11, 2026",Ohio,Toledo,2400 block of Lawrence Ave,1,0,0,0,1
+3545608,"September 11, 2026",New York,Brooklyn,Glenmore Ave and Mother Gaston Blvd,2,0,0,0,0
+3545626,"September 11, 2026",Kentucky,Louisville,1000 block of Esquire Alley,0,4,0,0,0
+3545617,"September 11, 2026",Tennessee,Memphis,4700 block of Neely Rd,0,1,0,0,0
+3545613,"September 11, 2026",New York,Syracuse,100 block of Fage Ave,0,1,0,0,0
+3545602,"September 11, 2026",New York,Bronx,E 158th St and Concourse Village West,0,1,0,0,0
+3545585,"September 11, 2026",California,San Diego,2000 Ilex Ave,0,2,0,0,0
+3545564,"September 11, 2026",Illinois,Chicago,S Kilpatrick Ave and W Gladys Ave,0,1,0,0,0
+3545550,"September 11, 2026",Michigan,Pinconning,2200 block of W Erickson Rd,0,1,0,0,0
+3545536,"September 11, 2026",Michigan,Benton Harbor,1216 Blossom Ln,1,0,0,0,0
+3545534,"September 11, 2026",North Carolina,Red Springs,Old Lowery Rd,0,1,0,0,0
+3545522,"September 11, 2026",North Carolina,Charlotte,5800 block of Old Providence Rd,0,1,0,0,0
+3545496,"September 11, 2026",Louisiana,Shreveport,100 block of E 69th St,0,1,0,0,0
+3545494,"September 11, 2026",Nevada,Las Vegas,Mt Hood St and Owens Ave,0,1,0,0,0
+3545489,"September 11, 2026",Georgia,Rome,200 block of S Broad St SW,0,0,1,0,0
+3545482,"September 11, 2026",Virginia,Norfolk,1000 block of W 39th St,0,1,0,0,0
+3545475,"September 11, 2026",Louisiana,Baton Rouge,900 block of Ellerslie Dr,1,0,0,0,0
+3545452,"September 11, 2026",Florida,Jacksonville,3100 block of 20th St W,0,1,0,0,0
+3545450,"September 11, 2026",Arkansas,Fayetteville,1200 block of N Heritage Ave,0,1,0,0,0
+3545448,"September 11, 2026",Arizona,Tempe (Guadalupe),E Calle Iglesia and S Avenida del Yaqui,1,0,0,0,0
+3545442,"September 11, 2026",Alabama,Mobile,1600 block of Cedar Downs Dr,0,1,0,0,0
+3545434,"September 11, 2026",Alabama,Huntsville,Lakewood Dr NW,0,1,0,0,1
+3545437,"September 11, 2026",New Jersey,Paterson,2th Ave and E 16th St,1,0,0,0,0
+3545393,"September 11, 2026",Texas,San Antonio,1100 block of Hemisfair Plaza Way,0,1,0,0,1
+3545380,"September 11, 2026",Indiana,Columbus,3200 block of Country Brk St N,1,0,0,0,0
+3545378,"September 11, 2026",Pennsylvania,Pittsburgh,Watson St and Jumonville St,0,1,0,0,0
+3545375,"September 11, 2026",Pennsylvania,Philadelphia,2800 Fox St,1,0,0,0,0
+3545735,"September 11, 2026",Ohio,Cleveland,E 79th St and Cedar Ave,0,1,0,0,0
+3545718,"September 12, 2026",Connecticut,Bridgeport,Benham Ave and Norman St,0,1,0,0,0
+3545599,"September 12, 2026",Ohio,Cincinnati,3300 block of Bowling Green Ct,0,1,0,0,1
+3545635,"September 12, 2026",Missouri,Saint Louis,5100 block of Wells Ave,1,0,0,0,0
+3545633,"September 12, 2026",New York,Syracuse,115 S Alvord St,1,0,0,0,0
+3545621,"September 12, 2026",Kentucky,Louisville,217 E Main St,1,1,0,0,0
+3545606,"September 12, 2026",Tennessee,Columbia,302 Skyview Dr,0,0,0,1,0
+3545557,"September 12, 2026",Florida,Miami,NW 17th St and NW 3rd Ave,2,1,0,0,0
+3545541,"September 12, 2026",Minnesota,Minneapolis,330 1st Ave N,0,2,0,0,0
+3545548,"September 12, 2026",Michigan,Detroit,Harper Ave and Cadieux Rd,0,1,0,0,0
+3545480,"September 12, 2026",Ohio,Dayton,1900 block of Riverside Dr,1,0,0,0,0
+3545538,"September 12, 2026",Minnesota,Preston,18157 Game Rd,0,1,0,0,1
+3545527,"September 12, 2026",Mississippi,Vicksburg,Halls Ferry Rd,0,1,0,0,0
+3545502,"September 12, 2026",Texas,El Paso,900 Rim Rd,2,0,0,0,0
+3545498,"September 12, 2026",Louisiana,Shreveport,Hearne Ave,0,2,0,0,0
+3545491,"September 12, 2026",Louisiana,Shreveport,6540 Mansfield Rd,2,0,0,0,0
+3545458,"September 12, 2026",Texas,Dallas,5900 block of Highland Village Dr,0,6,0,0,0
+3545752,"September 12, 2026",Indiana,Indianapolis,3000 block of N German Church Rd,0,2,0,0,0
+3545750,"September 12, 2026",Indiana,Indianapolis,E 30th St and Grassy Creek Dr,0,1,0,0,0
+3545748,"September 12, 2026",Indiana,Indianapolis,3000 block of N Arsenal Ave,0,1,0,0,0
+3545744,"September 12, 2026",Pennsylvania,Easton,100 block of Spring St,1,0,0,0,0
+3545732,"September 12, 2026",Ohio,Euclid,Shirley Ave,0,1,0,0,0
+3545727,"September 12, 2026",Ohio,Euclid,N/A,0,4,0,0,0
