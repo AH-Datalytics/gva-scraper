@@ -21836,3 +21836,103 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3558224,"October 3, 2026",Texas,Corpus Christi,3800 block of Marion St,1,0,0,0,0
 3558190,"October 3, 2026",Missouri,Marshfield,E Washington St,1,0,0,0,0
 3557799,"October 3, 2026",Texas,Commerce,N/A,0,3,0,0,0
+3558743,"August 22, 2026",New Mexico,Albuquerque,Manzano St NE,0,1,0,0,1
+3559039,"September 25, 2026",Ohio,Newark,500 block of Ballard Ave,0,1,0,0,1
+3559140,"September 27, 2026",Texas,Fort Worth,6300 block of Claire Dr,1,0,0,0,1
+3558984,"September 28, 2026",Pennsylvania,Philadelphia,900 block of W Pike St,0,1,0,0,0
+3558982,"September 28, 2026",Pennsylvania,Philadelphia,500 block of S 54th St,0,1,0,0,0
+3558975,"September 30, 2026",Pennsylvania,Philadelphia,4600 block of Castor Ave,0,1,0,0,0
+3559130,"October 1, 2026",New Jersey,Newark,South 11th St,0,3,0,0,0
+3559024,"October 3, 2026",North Carolina,Durham,1600 block of Carpenter Fletcher Rd,0,1,0,0,0
+3559014,"October 3, 2026",Pennsylvania,Philadelphia,N 18th St and W Norris St,0,1,0,0,0
+3559003,"October 3, 2026",Pennsylvania,Wilmerding,600 block of Middle Ave,0,1,0,0,0
+3558855,"October 3, 2026",Michigan,Battle Creek (Springfield),4200 block of W Dickman Rd,1,0,0,0,1
+3558996,"October 3, 2026",North Carolina,Durham,5108 Wake Forest Hwy,1,0,0,0,0
+3558965,"October 3, 2026",Indiana,Indianapolis,300 block of S Gray St,0,2,0,0,0
+3558930,"October 3, 2026",Oregon,Portland,SW 3rd Ave and W Burnside St,0,2,0,0,4
+3558587,"October 3, 2026",District of Columbia,Washington,3700 block of New Hampshire Ave NW,1,1,0,0,0
+3558941,"October 3, 2026",North Carolina,Fayetteville,1900 block of Bain Dr,1,0,0,0,0
+3558937,"October 3, 2026",West Virginia,Bluefield,1152 Bland St,0,1,0,0,0
+3558873,"October 3, 2026",Texas,Beaumont,800 block of Center St,0,2,0,0,0
+3558847,"October 3, 2026",California,Fresno,4133 N Warren Ave,1,0,0,0,0
+3558811,"October 3, 2026",Minnesota,Minneapolis,2301 University Ave,1,0,0,0,0
+3558822,"October 3, 2026",California,West Sacramento,Village Pkwy and Locks Dr,0,2,0,0,2
+3558806,"October 3, 2026",California,Stockton,1400 block of Pinchot Ave,0,1,0,0,0
+3558803,"October 3, 2026",Wisconsin,Milwaukee,4100 block of W Douglas Ave,0,1,0,0,0
+3558799,"October 3, 2026",Missouri,Cuba,N/A,0,1,0,0,2
+3558788,"October 3, 2026",Michigan,Detroit,15700 block of Sorrento Ave,0,1,0,0,0
+3558781,"October 3, 2026",Michigan,Saint Johns,Lowe Rd,0,1,0,0,0
+3558779,"October 3, 2026",Michigan,Kalamazoo,Ranney St and S Park St,0,1,0,0,0
+3558777,"October 3, 2026",Mississippi,Coldwater,N/A,0,1,0,0,0
+3558771,"October 3, 2026",Mississippi,Tchula,17 Old Hwy 49,1,0,0,0,0
+3558768,"October 3, 2026",Nevada,Henderson,2000 block of Club Crest Way,0,1,1,0,0
+3558731,"October 3, 2026",Tennessee,Memphis,2950 Kirby Pkwy,1,1,0,0,0
+3558734,"October 3, 2026",Louisiana,Shreveport,Youree Dr and E Dalzell St,0,0,0,1,2
+3558725,"October 3, 2026",Tennessee,Memphis,3800 block of Marion Ave,0,1,0,0,1
+3558722,"October 3, 2026",Virginia,Richmond,1002 Azalea Ave E,0,1,0,0,0
+3558716,"October 3, 2026",Louisiana,Baton Rouge,7776 Scenic Hwy,0,2,0,0,0
+3558700,"October 3, 2026",Arizona,Phoenix,N 27th Ave and W Indian School Rd,0,1,0,0,0
+3558625,"October 3, 2026",Georgia,Atlanta,1700 block of Stanton Rd SW,1,0,0,0,0
+3558664,"October 3, 2026",Georgia,Ashburn,900 block of S Main St,0,0,0,1,0
+3558685,"October 3, 2026",Georgia,Atlanta (Brookhaven),1432 N Cliff Valley Way NE,0,1,0,0,0
+3558678,"October 3, 2026",Georgia,Mcdonough,100 block of John Wesley Way,1,0,0,0,0
+3558572,"October 3, 2026",Alabama,Winfield,600 block of Tahoe Rd,1,0,0,0,1
+3558659,"October 3, 2026",Florida,Tampa,4100 block of E Fowler Ave,1,0,0,0,0
+3558653,"October 3, 2026",Alabama,Montgomery,200 block of E Woodland Dr,0,1,0,0,0
+3558647,"October 3, 2026",Florida,Spring Hill,Hunters Lake Rd and Lori Dr,0,0,0,1,0
+3558622,"October 3, 2026",Alabama,Spanish Fort,10460 Eastern Shore Blvd,0,1,0,0,0
+3558637,"October 3, 2026",Florida,Orlando,Lakeville Rd,0,0,0,1,0
+3558619,"October 3, 2026",Florida,Jacksonville,10415 Monaco Dr,0,2,0,0,0
+3558593,"October 3, 2026",Alabama,Enterprise,921 Rucker Blvd,0,1,1,0,0
+3558257,"October 3, 2026",Illinois,Chicago,9100 block of S Green St,0,1,0,0,0
+3558264,"October 3, 2026",Colorado,Aurora,18106 E Ohio Ave,0,2,0,0,0
+3559143,"October 3, 2026",Connecticut,Hartford,43 Franklin Ave,0,1,0,0,0
+3559127,"October 3, 2026",New Jersey,Newark,Lyons Ave and Aldine St,0,1,0,0,0
+3558569,"October 3, 2026",Texas,San Antonio,200 block of Scheh St,0,1,0,0,0
+3559028,"October 4, 2026",Pennsylvania,Philadelphia,1000 block of Spring Garden St,0,1,0,0,0
+3559005,"October 4, 2026",Pennsylvania,Philadelphia,2600 block of Ridge Dr,0,2,0,0,0
+3558987,"October 4, 2026",Texas,Houston,5900 block of Pinemont Dr,0,1,0,1,1
+3559016,"October 4, 2026",Ohio,Columbus,6125 Zumstein Dr,1,0,0,1,1
+3559007,"October 4, 2026",North Carolina,Durham,4416 Durham Chapel Hill Blvd,1,1,0,0,0
+3558972,"October 4, 2026",Ohio,Cleveland,2600 block of W 25th St,1,1,0,0,0
+3558979,"October 4, 2026",North Carolina,Charlotte,200 block of W Woodlawn Rd,1,1,0,0,0
+3558968,"October 4, 2026",North Carolina,Burlington,1300 block of Elm St,1,2,0,0,0
+3558963,"October 4, 2026",Ohio,Cincinnati (Springdale),340 Glensprings Dr,0,1,0,0,0
+3558955,"October 4, 2026",California,Palmdale,1002 E Ave R,1,0,0,0,0
+3558951,"October 4, 2026",District of Columbia,Washington,2100 block of 2nd St NW,0,1,0,0,0
+3558841,"October 4, 2026",California,San Francisco,45 Reuel Ct,1,0,0,0,0
+3558837,"October 4, 2026",New York,Rochester (Gates),Spencerport Rd,0,0,1,0,0
+3558919,"October 4, 2026",Oklahoma,Oklahoma City,N Council Rd and Melrose Ln,0,1,0,0,2
+3558270,"October 4, 2026",Georgia,Vienna,900 block of Pine St,2,35,0,0,0
+3558860,"October 4, 2026",South Dakota,Sioux Falls,N/A,0,1,0,0,0
+3558844,"October 4, 2026",Wisconsin,Racine,4300 Graceland Blvd,1,1,0,0,0
+3558831,"October 4, 2026",Utah,Heber City (Heber),N/A,0,1,0,0,0
+3558817,"October 4, 2026",New York,Albany,Hudson Ave and Partridge St,1,3,0,0,0
+3558813,"October 4, 2026",California,Sacramento,4313-4319 Marconi Ave,0,0,1,0,0
+3558792,"October 4, 2026",Ohio,Cincinnati,Helen St and Highland Ave,0,2,0,0,0
+3558786,"October 4, 2026",Michigan,Detroit,Gratiot Ave and Russell St,0,1,0,0,0
+3558775,"October 4, 2026",Louisiana,Alexandria,Brooks Blvd,0,1,0,0,0
+3558766,"October 4, 2026",Mississippi,Yazoo County (county),N/A,1,0,0,0,0
+3558666,"October 4, 2026",Arizona,Phoenix,3527 W Bethany Home Rd,0,2,0,0,0
+3558649,"October 4, 2026",Alabama,Selma,405 Highland Ave,3,0,0,0,0
+3558643,"October 4, 2026",Maryland,Baltimore,3300 block of Walbrook Ave,0,1,0,0,0
+3558608,"October 4, 2026",Virginia,Alexandria,100 block of Ellsworth Ave,0,1,0,0,2
+3558603,"October 4, 2026",Illinois,Chicago,6100 block of S Kedzie Ave,0,1,0,0,0
+3558596,"October 4, 2026",Illinois,Chicago,N/A,0,1,0,0,0
+3558590,"October 4, 2026",Illinois,Chicago,2700 block of E 80th St,0,2,0,0,0
+3558583,"October 4, 2026",Illinois,Chicago,7600 block of S Halsted St,0,1,0,0,0
+3558252,"October 4, 2026",Illinois,Chicago,2600 block of W 24th St,0,1,0,1,1
+3558575,"October 4, 2026",Illinois,Chicago,8900 block of S Parnell Ave,0,1,0,0,0
+3558526,"October 4, 2026",Iowa,Des Moines,4th St and Court Ave,0,1,0,0,0
+3558486,"October 4, 2026",Texas,Dallas,400 block of S Barry Ave,0,6,0,0,0
+3559134,"October 4, 2026",Wisconsin,Milwaukee,2417 N Bartlett Ave,0,1,0,0,0
+3559120,"October 4, 2026",Ohio,Youngstown,E Lucius Ave,1,0,0,0,0
+3559118,"October 4, 2026",Indiana,Bloomington,314 E Kirkwood Ave,0,1,0,0,0
+3559114,"October 4, 2026",Ohio,Youngstown,Cooper St,0,1,0,0,0
+3559107,"October 4, 2026",Washington,Tacoma,800 block of Pacific Ave,2,1,0,0,0
+3559085,"October 4, 2026",Ohio,Dayton,500 block of Anna St,0,1,0,0,0
+3559080,"October 4, 2026",Ohio,Dayton,1300 block of W Riverview Ave,0,1,0,0,1
+3559063,"October 4, 2026",Ohio,Columbus,800 block of Wedgewood Dr,0,1,0,0,0
+3559026,"October 4, 2026",Texas,Arlington,5101 W Sublett Rd,0,1,0,0,0
+3559056,"October 4, 2026",Ohio,Columbus,900 block of Barnett Rd,1,1,0,0,0
+3559031,"October 4, 2026",Texas,Dallas,600 block of Edgedale Dr,1,0,0,0,0
