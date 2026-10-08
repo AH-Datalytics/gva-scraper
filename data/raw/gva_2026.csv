@@ -22105,3 +22105,65 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3560381,"October 6, 2026",Tennessee,Memphis,2927 Filmore Ave,1,0,0,0,0
 3560383,"October 6, 2026",Tennessee,Memphis,100 block of Wesley Forest Dr,0,2,0,0,0
 3560360,"October 6, 2026",Massachusetts,Cambridge,Rindge Ave,0,1,0,0,0
+3560619,"September 20, 2026",Missouri,Saint Louis,8290 St Charles Rock Rd,0,1,0,0,1
+3560895,"September 28, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3560512,"September 30, 2026",Mississippi,Tunica,Sears Ave,0,1,0,0,3
+3560854,"October 3, 2026",California,Watsonville,Larkin Valley Rd and Windsong Way,1,0,0,0,1
+3561048,"October 3, 2026",Ohio,Cleveland,3100 block of W 71st St,0,1,0,0,0
+3560868,"October 5, 2026",California,Temecula,28000 block of Colorado Ave,1,0,0,0,1
+3560824,"October 5, 2026",California,Palermo,Lincoln Blvd,0,1,0,0,0
+3560600,"October 5, 2026",North Carolina,Greenville,Paige Dr,0,0,1,0,0
+3560524,"October 5, 2026",Texas,Fort Worth,2800 block of Old Mansfield Rd,0,1,0,0,0
+3560838,"October 6, 2026",New York,Gouverneur (Fowler),1454 Pond Rd,0,1,0,0,1
+3560808,"October 6, 2026",Oklahoma,Ardmore,O St NW and 11th Ave NW,0,1,0,0,1
+3560767,"October 6, 2026",Michigan,Muskegon (Muskegon Heights),2200 block of 5th St,0,2,0,0,0
+3560753,"October 6, 2026",Michigan,Leelanau Township,N Purkiss Rd,0,1,0,0,1
+3560712,"October 6, 2026",Wisconsin,Milwaukee,6000 block of W Bradley Rd,0,1,0,0,0
+3560653,"October 6, 2026",South Carolina,Florence,2060 W Evans St,0,1,0,0,1
+3560640,"October 6, 2026",South Carolina,Sumter,830 Race Track Rd,2,0,0,0,0
+3560622,"October 6, 2026",Virginia,Fancy Gap,Fancy Gap Hwy,1,0,0,0,1
+3560576,"October 6, 2026",North Carolina,Winston Salem (Winston-salem),University Pkwy and 27th St,0,2,0,0,0
+3560539,"October 6, 2026",Georgia,Augusta,201 E Telfair St,0,1,0,0,0
+3560534,"October 6, 2026",Georgia,Atlanta,2705 Head Rd SW,1,0,1,0,0
+3560532,"October 6, 2026",Georgia,Cochran,Johnson St,0,1,0,0,0
+3560505,"October 6, 2026",Texas,Harker Heights,1501 E Knights Way,1,0,0,0,0
+3560490,"October 6, 2026",Arizona,Phoenix,304  W Southern Ave,0,1,0,0,0
+3560487,"October 6, 2026",Florida,Sebring,Melady Ave,1,0,0,0,1
+3560475,"October 6, 2026",Arizona,Phoenix,S Montezuma St and W Southern Ave,0,1,0,0,0
+3561032,"October 6, 2026",Illinois,Peoria,2000 block of S Friedan St,0,1,0,0,0
+3560986,"October 6, 2026",Wisconsin,Madison,E Dayton St and N 4th St,0,1,0,0,2
+3560983,"October 6, 2026",Illinois,Danville,2300 block of N Vermilion St,0,1,0,0,0
+3560980,"October 6, 2026",Pennsylvania,Philadelphia,1800 block of Fuller St,0,1,0,0,1
+3560950,"October 6, 2026",Tennessee,Newbern,1100 block of Patty Dr,0,1,0,0,1
+3560932,"October 7, 2026",Tennessee,Knoxville,2200 block of Juniper Dr,1,0,0,0,1
+3560928,"October 7, 2026",Missouri,Florissant,975 N Hwy 67,0,3,0,0,0
+3560659,"October 7, 2026",Michigan,Detroit,8000 block of Artesian St,0,1,0,0,0
+3560675,"October 7, 2026",Michigan,Detroit,20800 block of Joann Ave,0,1,0,0,0
+3560905,"October 7, 2026",New York,Buffalo,100 block of Deerfield Ave,0,1,0,0,0
+3560897,"October 7, 2026",Virginia,Culpeper,16000 block of Rogers Rd,0,2,0,0,0
+3560887,"October 7, 2026",District of Columbia,Washington,3800 block of Pennsylvania Ave SE,0,1,0,0,0
+3560882,"October 7, 2026",California,Los Angeles,5500 block of S Western Ave,0,1,0,0,0
+3560877,"October 7, 2026",Indiana,Indianapolis (Lawrence),I-465,0,1,0,0,0
+3560744,"October 7, 2026",New York,New York (Manhattan),40 W 115th St,0,2,0,0,0
+3560826,"October 7, 2026",Michigan,Sterling Heights,15 Mile Rd and Mound Rd,1,0,0,0,0
+3560746,"October 7, 2026",Minnesota,Minneapolis,2400 block of Cole Ave SE,0,1,0,0,0
+3560717,"October 7, 2026",New York,Brooklyn,4 Lewis Ave,0,1,0,0,0
+3560706,"October 7, 2026",Michigan,Detroit,15200 block of Turner St,0,1,0,0,0
+3560695,"October 7, 2026",Alabama,Birmingham,600 block of Ave T,0,0,0,1,0
+3560683,"October 7, 2026",Michigan,Detroit,Maxwell St and Mack Ave,0,1,0,0,0
+3560643,"October 7, 2026",South Carolina,Anderson,Cedar Ridge,0,1,0,0,0
+3560610,"October 7, 2026",Virginia,Norfolk,6501 Chesapeake Blvd,0,2,0,0,0
+3560607,"October 7, 2026",Virginia,Virginia Beach,1900 block of King Henry Ct,0,1,0,0,0
+3560603,"October 7, 2026",North Carolina,Wilmington,200 block of S Kerr Ave,0,1,0,0,0
+3560567,"October 7, 2026",North Carolina,Charlotte,6900 block of Statesville Rd,1,0,0,0,0
+3560553,"October 7, 2026",Kansas,Topeka,5700 block of SW 10th St,0,1,0,0,0
+3560480,"October 7, 2026",Florida,Fort Lauderdale,1700 block of NW 13th Ct,0,1,0,0,0
+3560458,"October 7, 2026",Texas,Lewisville,100 block of Eastwood Pl,0,1,0,0,1
+3560465,"October 7, 2026",Louisiana,Baton Rouge,4850 Beechwood Dr,1,0,0,0,0
+3560937,"October 7, 2026",Illinois,Chicago,11603 S Michigan Ave,0,3,0,0,0
+3561043,"October 7, 2026",Ohio,Toledo,1100 block of Campbell St,1,0,0,0,0
+3561037,"October 7, 2026",Ohio,Columbus,Fiesta Ct,0,1,0,0,0
+3561002,"October 7, 2026",Ohio,Elyria,38 E Bridge St,0,0,0,1,0
+3560993,"October 7, 2026",Minnesota,Minneapolis,E Lake St and Stevens Ave,1,0,0,0,0
+3560969,"October 7, 2026",Tennessee,Memphis,3000 block of Winbrook Dr,0,2,0,0,0
+3560962,"October 7, 2026",Tennessee,Memphis,1900 block of Colfax Ave,0,1,0,0,0
