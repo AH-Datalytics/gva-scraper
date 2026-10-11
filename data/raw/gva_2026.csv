@@ -22310,3 +22310,69 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3562107,"October 9, 2026",Tennessee,Memphis,2700 block of Getwell Rd,0,1,0,0,0
 3562105,"October 9, 2026",Ohio,Columbus,500 block of Lilley Ave,0,1,0,0,0
 3562102,"October 9, 2026",Tennessee,Memphis,4200 block of Ridgestone Dr,0,2,0,0,0
+3562330,"October 4, 2026",Virginia,Sterling,46000 block of Community Plaza,0,2,0,0,1
+3562583,"October 7, 2026",California,Inglewood,4300 block of W Century Blvd,1,0,0,0,0
+3562549,"October 7, 2026",Missouri,Kansas City,E Armour Blvd and Walnut St,1,0,0,0,1
+3562612,"October 8, 2026",California,El Centro,600 block of W Olive Ave,0,1,0,0,0
+3562598,"October 8, 2026",California,Lancaster,44020 10th St W,0,1,0,0,1
+3562461,"October 8, 2026",Iowa,Waterloo,W 3rd St and Baltimore St,1,0,0,0,1
+3562324,"October 8, 2026",Massachusetts,Westport,N/A,0,1,0,0,0
+3562719,"October 9, 2026",Ohio,Columbus,3200 block of Kings Realm Ave,0,1,0,0,0
+3562716,"October 9, 2026",Mississippi,Ridgeland,6675 Old Canton Rd,0,1,0,0,0
+3562714,"October 9, 2026",Kentucky,Louisville,3000 block of Meade Ave,0,0,1,0,0
+3562698,"October 9, 2026",Kentucky,Louisville,600 block of S 38th St,0,1,0,1,1
+3562660,"October 9, 2026",Louisiana,New Orleans,Martin Luther King Jr Blvd and S Claiborne Ave,0,1,0,0,0
+3562650,"October 9, 2026",Arizona,Vail,S Houghton Rd and E Sahuarita Rd,1,0,0,0,1
+3562638,"October 9, 2026",Arizona,Phoenix,N 31st Ave and W Pierce St,0,1,0,0,0
+3562627,"October 9, 2026",California,Long Beach,2400 block of Atlantic Ave,0,1,0,0,0
+3562622,"October 9, 2026",Texas,Houston,9889 Bellaire Blvd,0,1,0,1,0
+3562607,"October 9, 2026",North Carolina,Lenoir,Grandin Rd,1,0,0,0,0
+3562601,"October 9, 2026",California,Los Angeles,East 4th St and S Fresno St,0,3,0,0,0
+3562561,"October 9, 2026",Missouri,Saint Louis,2700 block of Bacon St,1,0,0,1,0
+3562421,"October 9, 2026",Georgia,Douglas,1800 block of Robin Ln,4,0,1,0,0
+3562552,"October 9, 2026",Michigan,Detroit,11395 E McNichols Rd,0,1,0,0,0
+3562535,"October 9, 2026",South Dakota,Sioux Falls,2900 block of S Keyrell Dr,0,1,0,1,1
+3562518,"October 9, 2026",Kansas,Topeka,1401 SW Wanamaker Rd,0,1,0,0,1
+3562492,"October 9, 2026",North Carolina,Durham,N Roxboro St  and Edwards St,0,2,0,0,0
+3562490,"October 9, 2026",North Carolina,Greensboro,E Washington St,0,1,0,0,0
+3562428,"October 9, 2026",South Carolina,Burton,Milledge Village Rd,0,1,0,0,0
+3562372,"October 9, 2026",Florida,Miami,511 NW 11th St,0,1,0,0,0
+3562343,"October 9, 2026",Colorado,Aurora,22000 block of E Ottawa Dr,1,0,0,0,1
+3562359,"October 9, 2026",Florida,Jacksonville,Broward Rd and Interstate Center Dr,1,0,0,0,0
+3562356,"October 9, 2026",Colorado,Greeley,400 block of 71st Ave,1,0,0,0,0
+3562341,"October 9, 2026",Michigan,Redford (Redford Twp),Beech Daly Rd and Schoolcraft Rd,0,0,0,1,0
+3562336,"October 9, 2026",Maryland,Baltimore,2700 block of Liberty Heights Ave,0,1,0,0,0
+3562313,"October 9, 2026",Alabama,Huntsville,300 block of Capshaw Rd,0,1,0,0,0
+3562311,"October 9, 2026",Illinois,Chicago,6400 block of S Green St,0,1,0,0,0
+3562299,"October 9, 2026",Illinois,Chicago,6500 block of S Laflin St,0,2,0,0,0
+3562744,"October 9, 2026",Pennsylvania,Philadelphia,2500 block of N Colorado St,0,2,0,0,0
+3562686,"October 9, 2026",Kentucky,Radcliff,108 Honeysuckle Ct,1,0,0,0,0
+3562735,"October 9, 2026",Connecticut,Cleveland,7300 block of Irma Ave,0,1,0,0,0
+3562706,"October 10, 2026",Mississippi,Lucedale,MS-612 and Southern Oaks,0,0,1,0,0
+3562703,"October 10, 2026",Kentucky,Louisville,12900 block of Lower River Rd,1,0,0,0,0
+3562695,"October 10, 2026",District of Columbia,Washington,300 Evarts St NE,0,1,0,0,0
+3562671,"October 10, 2026",Delaware,Wilmington,100 block of S Franklin St,0,1,0,0,0
+3562662,"October 10, 2026",Kentucky,Covington,613 W 4th St,1,0,0,0,1
+3562653,"October 10, 2026",Texas,San Antonio,6220 Binz-Engleman Rd,1,1,0,0,0
+3562633,"October 10, 2026",Arizona,Mesa,1401 E Main St,0,0,0,1,1
+3562631,"October 10, 2026",Texas,Dallas,2100 block of Royal Ln,1,0,0,0,0
+3562629,"October 10, 2026",Texas,San Antonio,200 block of College St,1,0,0,0,0
+3562605,"October 10, 2026",California,Los Angeles,E 112th St and Grape St,1,0,0,0,0
+3562593,"October 10, 2026",South Carolina,Olanta,Woodsbay Rd,1,1,0,0,0
+3562585,"October 10, 2026",California,Compton,1600 block of E McMillan St,1,0,0,0,0
+3562547,"October 10, 2026",Michigan,Detroit,Forrer St and Eaton Ave,0,1,0,0,0
+3562540,"October 10, 2026",Washington,Seattle,211 W Highland Dr,0,2,0,0,1
+3562530,"October 10, 2026",North Carolina,Charlotte,Remount Rd and W Boulevard,0,1,0,0,0
+3562503,"October 10, 2026",Wisconsin,Milwaukee,N 94th St and W Thurston Ave,0,1,0,0,0
+3562497,"October 10, 2026",Wisconsin,Milwaukee,N 77th St and W Carmen Ave,1,0,0,0,0
+3562474,"October 10, 2026",Pennsylvania,Philadelphia,100 block of N 52nd St,1,1,0,0,1
+3562376,"October 10, 2026",Florida,Fort Lauderdale (Sunrise),W Sunrise Blvd and Satin Leaf Way,0,1,0,0,0
+3562363,"October 10, 2026",Maryland,Dundalk,7625 German Hill Rd,0,1,0,0,0
+3562319,"October 10, 2026",Massachusetts,Stoughton,50 block of Monk St,0,0,1,0,0
+3562317,"October 10, 2026",Alabama,Mobile,5600 block of Morlee Dr S,0,1,0,0,0
+3562306,"October 10, 2026",Illinois,Chicago,3600 block of W 5th Ave,1,0,0,0,0
+3562758,"October 10, 2026",Indiana,Valparaiso,50 block of N Campbell St,1,0,0,0,2
+3562749,"October 10, 2026",Pennsylvania,Lancaster,400 block of Aaron Ln,1,0,0,1,1
+3562742,"October 10, 2026",Pennsylvania,Philadelphia,6300 block of Lawndale St,0,1,0,0,0
+3562740,"October 10, 2026",Pennsylvania,Pittsburgh,7200 block of Frankstown Ave,1,0,0,0,0
+3562737,"October 10, 2026",California,Salinas,600 block of Williams Rd,0,1,0,0,0
