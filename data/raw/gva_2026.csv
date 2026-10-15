@@ -22621,3 +22621,93 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3564363,"October 13, 2026",Indiana,Evansville,1500 block of E Illinois St,0,1,1,0,0
 3564571,"October 13, 2026",Nebraska,Bellevue,S 24th St and Whitted Dr,0,1,0,0,1
 3564568,"October 13, 2026",Michigan,Detroit,Hayes St and Seymour St,0,1,0,0,0
+3564935,"October 1, 2026",South Carolina,Walterboro,1541 Cottageville Hwy,0,2,0,0,1
+3564720,"October 4, 2026",New Mexico,Shiprock,N/A,1,0,0,0,1
+3564988,"October 6, 2026",Virginia,Virginia Beach,500 block of Chownings Dr,0,1,0,0,2
+3564986,"October 9, 2026",New Jersey,Bridgeton,Sunset Ave and Stewart Ave,1,0,0,0,0
+3564909,"October 9, 2026",District of Columbia,Washington,1900 block of Frederick Douglass Ct SE,1,0,0,0,0
+3564679,"October 9, 2026",Texas,Sugar Land,Greenway Dr and Mason Rd,1,0,0,0,0
+3565144,"October 9, 2026",Illinois,East Saint Louis,1200 block of McCasland Ave,1,0,0,0,1
+3564899,"October 10, 2026",North Carolina,Franklinton,200 block of Carver St,2,0,0,0,0
+3564802,"October 10, 2026",New Jersey,Union,2438 US-22 E,0,1,0,0,0
+3565004,"October 11, 2026",Virginia,Roanoke,3600 block of Ferncliff Ave NW,0,1,0,0,0
+3564978,"October 11, 2026",Massachusetts,Worcester,350 Southbridge St,1,1,0,0,0
+3564752,"October 11, 2026",California,Los Angeles,10000 Vermont Ave,0,1,0,0,0
+3564696,"October 11, 2026",Florida,Lake Worth,Plains Dr,0,1,0,0,1
+3564918,"October 12, 2026",North Carolina,West Jefferson,307 Vista Dr,1,0,0,0,1
+3564845,"October 12, 2026",Florida,Jacksonville,123 Sanders St,1,0,0,0,0
+3564764,"October 12, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3564762,"October 12, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3564686,"October 12, 2026",Florida,Labelle,431 Bryan Ave,1,0,0,0,1
+3564677,"October 12, 2026",Louisiana,Raceland,100 block of Brocato Ln,0,1,0,0,0
+3564670,"October 12, 2026",Texas,Dallas,9700 block of Whitehurst Dr,0,0,1,0,0
+3565101,"October 13, 2026",Ohio,Twinsburg,8000 block of Ray Ct,0,1,0,0,0
+3565103,"October 13, 2026",Pennsylvania,Coatesville,N 8th Ave and E Chestnut St,0,1,0,0,1
+3565097,"October 13, 2026",Pennsylvania,East Waterford,Laughlin Ln,0,0,0,1,1
+3565095,"October 13, 2026",Ohio,Cleveland,3500 block of East 120th St,0,0,1,0,0
+3565091,"October 13, 2026",Pennsylvania,Pittsburgh,2200 block of Wilner Dr,0,1,0,0,0
+3565081,"October 13, 2026",Washington,Vancouver,3500 E 4th Plain Blvd,0,1,0,0,0
+3565068,"October 13, 2026",Washington,Vancouver,2600 NE Neals Ln,1,0,1,0,0
+3564992,"October 13, 2026",South Carolina,Judson,12 Elmwood Ave,1,0,1,0,0
+3564848,"October 13, 2026",Ohio,Dayton (Trotwood),5000 block of Salem Bend Dr,1,0,0,0,0
+3565054,"October 13, 2026",Wisconsin,Milwaukee,9900 block of W Fond du Lac Ave,0,2,0,0,0
+3565047,"October 13, 2026",New York,Buffalo,100 block of Landon St,0,1,0,0,0
+3564997,"October 13, 2026",North Carolina,Fairmont,Stephens St,0,1,0,0,0
+3564949,"October 13, 2026",Minnesota,Minneapolis,2500 block of Grand Ave S,0,1,0,0,0
+3564644,"October 13, 2026",Alabama,Salem,Lee Rd 379,1,1,0,0,0
+3564893,"October 13, 2026",District of Columbia,Washington,3100 block of Buena Vista Terr SE,0,2,0,0,0
+3564880,"October 13, 2026",Georgia,Atlanta,2685 Donald Lee Hollowell Pkwy NW,0,1,0,0,1
+3564874,"October 13, 2026",Georgia,Decatur,3403 Memorial Dr,0,1,0,0,0
+3564870,"October 13, 2026",Georgia,Hogansville,200 block of Bass Cross Rd,1,0,0,0,1
+3564864,"October 13, 2026",Georgia,Marietta,2751 Hammondton Rd,0,1,0,0,0
+3564860,"October 13, 2026",California,San Francisco,300 block of Brighton Ave,0,1,0,0,0
+3564840,"October 13, 2026",Illinois,Champaign,1500 block of Hedge Rd,0,1,0,0,0
+3564832,"October 13, 2026",Illinois,Chicago,E 79th St and S Essex Ave,0,1,0,0,0
+3564797,"October 13, 2026",Florida,Safety Harbor,840 Main St,0,1,0,0,1
+3564811,"October 13, 2026",Florida,Jacksonville,1300 block of Cassat Ave,0,2,0,0,0
+3564807,"October 13, 2026",Florida,Titusville,1100 block of Cheney Hwy,0,0,0,1,1
+3564804,"October 13, 2026",Florida,Boynton Beach,Jog Rd and Grand Isle Dr,0,0,1,0,0
+3564756,"October 13, 2026",Nevada,Owyhee,N/A,0,0,1,0,0
+3564733,"October 13, 2026",California,Victorville,Lacy St and 7th St,0,0,0,1,1
+3564684,"October 13, 2026",Louisiana,Lake Charles,1200 block of Meadow Dr,1,0,0,0,0
+3564681,"October 13, 2026",Louisiana,Church Point,S Broadway St,1,0,0,0,0
+3564673,"October 13, 2026",Louisiana,Alexandria,Eddie Williams Ave and Broadway Ave,0,1,0,0,0
+3564659,"October 13, 2026",Texas,Plano,900 block of Middle Cove Dr,1,0,0,0,0
+3565153,"October 13, 2026",West Virginia,Duck (Strange Creek),Keeners Ridge Rd,0,1,0,0,1
+3565142,"October 13, 2026",Tennessee,Crossville,Fawn Loop,0,1,0,0,0
+3565115,"October 14, 2026",Ohio,Cleveland,5100 block of Outhwaite Ave,0,1,0,0,0
+3565093,"October 14, 2026",Michigan,Detroit,Piquette Ave and Brush St,0,1,0,0,0
+3565089,"October 14, 2026",Michigan,Detroit,2500 block of Glynn Ct,0,1,0,0,0
+3565017,"October 14, 2026",Michigan,Flint,2747 Sloan St,0,1,0,0,0
+3565064,"October 14, 2026",Indiana,Indianapolis,6555 Discovery Dr S,1,0,1,0,0
+3565057,"October 14, 2026",Ohio,Columbus,S Burgess Ave,0,1,0,0,0
+3564912,"October 14, 2026",District of Columbia,Washington,M St SE and 4th St SE,0,1,0,0,0
+3565006,"October 14, 2026",Virginia,Chesterfield,10800 block of Woodpecker Rd,0,0,1,0,0
+3565041,"October 14, 2026",New York,Brooklyn,8817 Bay Pkw,0,1,0,0,0
+3565034,"October 14, 2026",New York,Rochester,200 block Webster Ave,0,1,0,0,0
+3565021,"October 14, 2026",Texas,Dallas,465 S R L Thornton Fwy Service Rd,0,0,1,0,0
+3565024,"October 14, 2026",Texas,San Antonio,7600 block of Overview Pl,1,0,0,1,0
+3565011,"October 14, 2026",Virginia,Richmond,1400 block of N 31st St,1,0,0,0,1
+3564663,"October 14, 2026",Texas,Mesquite,2800 block of Clearwater Dr,2,1,0,0,0
+3565008,"October 14, 2026",Michigan,Jackson,200 block of W Ganson St,0,0,0,1,0
+3564963,"October 14, 2026",South Carolina,Goose Creek,105 Freehold Cir,0,1,1,0,0
+3564750,"October 14, 2026",Connecticut,New London,153 Garfield Ave,1,0,0,0,0
+3564957,"October 14, 2026",Connecticut,Hartford,Farmington Ave and S Marshall St,0,1,0,0,0
+3564955,"October 14, 2026",Virginia,Hampton,1st block of E Queens Way,0,1,0,0,0
+3564896,"October 14, 2026",Georgia,Savannah,1100 block of W 51st St,0,2,0,0,0
+3564883,"October 14, 2026",Georgia,Augusta,3400 block of Wrightsboro Rd,1,1,0,0,1
+3564836,"October 14, 2026",Ohio,Norwalk,Austin Shadle Dr,1,0,0,0,0
+3564827,"October 14, 2026",Illinois,Chicago,1600 block of E 82nd St,0,1,0,0,0
+3564819,"October 14, 2026",Florida,Miami (Medley),9390 NW 109th St,1,0,0,0,0
+3564809,"October 14, 2026",Florida,Jacksonville,W 30th St and Moncrief Rd,0,1,0,0,0
+3564795,"October 14, 2026",Maryland,Baltimore,4200 block of Old Frederick Rd,1,0,0,0,0
+3564675,"October 14, 2026",Louisiana,Alexandria,2200 block of Vance Ave,0,1,0,0,0
+3564654,"October 14, 2026",Texas,Angleton,1200 block of Clover St,0,1,0,0,1
+3565031,"October 14, 2026",Illinois,Chicago,W 73rd St and S Yale Ave,0,1,0,0,0
+3565167,"October 14, 2026",Illinois,Chicago,E 74th St and S Cottage Grove Ave,0,1,0,0,0
+3565162,"October 14, 2026",Illinois,Chicago,N Monitor Ave and W Schubert Ave,1,0,0,0,0
+3565135,"October 14, 2026",Missouri,Saint Louis (Overland),I-170 and Midland Blvd,1,0,0,0,0
+3565139,"October 14, 2026",Tennessee,Chattanooga,4827 Jersey Pike,0,1,0,0,0
+3565127,"October 14, 2026",Tennessee,Nashville,3000 block of Harlin Dr,0,1,0,0,0
+3565125,"October 14, 2026",Tennessee,Antioch,800 block of Hickory Hollow Terrace,0,1,0,0,0
+3565122,"October 14, 2026",Tennessee,Memphis,1200 block of Englewood St,0,2,0,0,0
