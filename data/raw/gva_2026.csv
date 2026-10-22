@@ -23143,3 +23143,85 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3568669,"October 20, 2026",Indiana,Indianapolis,10 N Senate Ave,0,1,0,0,0
 3568671,"October 20, 2026",Indiana,Indianapolis,2901 E 38th St,1,0,0,0,0
 3568655,"October 20, 2026",Connecticut,New Haven,Canner St and St Ronan St,0,1,0,0,0
+3568737,"August 27, 2026",Georgia,Waynesboro,Magnolia Acres,0,1,0,0,1
+3569071,"September 6, 2026",Connecticut,Stamford,Mission St and West St,0,1,0,0,1
+3569188,"September 10, 2026",Idaho,Jerome,E Mountain View Dr and N Kennedy St,0,0,0,1,0
+3569093,"October 8, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3569002,"October 13, 2026",Texas,Douglass,15000 block of W State Hwy 21,0,1,0,0,1
+3568854,"October 13, 2026",Georgia,Milledgeville,100 block of Locust Courts SE,0,2,0,0,1
+3569102,"October 15, 2026",Virginia,Petersburg,1000 block of S Crater Rd,0,1,0,0,0
+3568764,"October 15, 2026",Louisiana,New Orleans,2700 block of Jonquil St,0,1,0,0,0
+3569098,"October 16, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3568712,"October 17, 2026",Florida,Orlando,7950 Shoals Dr,1,0,0,0,0
+3568729,"October 17, 2026",Georgia,Covington,N/A,0,1,0,0,1
+3569224,"October 17, 2026",Ohio,Cleveland,Elm Ave,0,5,0,0,0
+3569105,"October 18, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3568741,"October 18, 2026",Georgia,Savannah,2200 block of DeLesseps Ave,0,1,0,0,1
+3568709,"October 18, 2026",Florida,Macclenny,I-10,0,2,0,0,0
+3568706,"October 18, 2026",Arkansas,Pine Bluff,McConnell Cir,0,1,0,0,1
+3569170,"October 19, 2026",Indiana,Gary,400 block of Richard Gordon Hatcher Blvd,1,0,0,0,0
+3569084,"October 19, 2026",Michigan,Carleton,300 block of Ready Rd,0,0,1,0,0
+3568880,"October 19, 2026",California,Camarillo,10 block of Tahquitz Ct,2,0,0,0,0
+3568787,"October 19, 2026",South Carolina,Anderson,4500 SC-81,0,1,0,0,1
+3568785,"October 19, 2026",North Carolina,Charlotte,5100 block of Old Dowd Rd,0,1,0,0,0
+3568782,"October 19, 2026",North Carolina,Kings Mountain,320 Waco Rd,0,1,0,0,0
+3568777,"October 19, 2026",North Carolina,Roanoke Rapids,3262 NC-48,0,1,0,0,0
+3568771,"October 19, 2026",North Carolina,Durham,900 block of Fiske St,0,3,0,0,0
+3568767,"October 19, 2026",North Carolina,Liberty,6874 Kimesville Rd,0,2,1,0,0
+3568754,"October 19, 2026",North Carolina,Goldsboro,3201 Central Heights Rd,1,0,0,0,0
+3568748,"October 19, 2026",North Carolina,Gastonia,1900 block of Hillgate Ave,1,0,0,0,0
+3568717,"October 19, 2026",Georgia,Uvalda,100 block of McNatt Falls Rd,2,1,0,0,1
+3568714,"October 19, 2026",Georgia,Macon,800 block of Pio Nono Ave,1,0,0,1,0
+3569133,"October 20, 2026",Wyoming,Casper,2600 block of CY Ave,0,0,1,0,0
+3569199,"October 20, 2026",Ohio,Akron,436 E South St,1,1,0,0,0
+3569179,"October 20, 2026",Nevada,Henderson,2000 block of Tiger Links Dr,1,0,1,0,0
+3569176,"October 20, 2026",New York,Bronx,E 147th St and Willis Ave,0,1,0,0,0
+3569163,"October 20, 2026",Washington,Seattle (Des Moines),22300 block of Marine View Dr S,1,0,0,0,0
+3568913,"October 20, 2026",Minnesota,Minneapolis,900 block of W Broadway,0,3,0,0,0
+3568887,"October 20, 2026",Virginia,Richmond,1899 Bath St,0,1,0,0,0
+3568959,"October 20, 2026",California,Winton,Shaffer Rd and Eucalyptus Ave,0,1,0,0,1
+3569040,"October 20, 2026",Nebraska,Omaha,1910 N 144th St,0,2,0,0,1
+3569024,"October 20, 2026",Pennsylvania,Philadelphia,5700 block of Kemble Ave,0,1,0,0,0
+3569011,"October 20, 2026",Pennsylvania,Philadelphia,500 block of N Allison St,1,0,0,0,0
+3569009,"October 20, 2026",Missouri,Saint Louis,Thekla Ave and Gilmore Ave,0,1,0,0,0
+3568994,"October 20, 2026",South Carolina,Columbia,1100 block of Clemson Frontage Rd,0,1,0,0,1
+3568991,"October 20, 2026",Texas,Lampasas,700 block of Antelope Ln,2,0,0,0,0
+3568760,"October 20, 2026",Texas,Canton,4300 block of TX-198,1,1,1,0,0
+3568952,"October 20, 2026",Michigan,Battle Creek,Capital Ave NE and Fremont St,0,1,0,0,1
+3568950,"October 20, 2026",South Carolina,Columbia,507 Piney Grove Rd,1,0,0,0,0
+3568906,"October 20, 2026",Minnesota,Burnsville,McAndrews Rd W and Co Rd 5,0,1,0,0,0
+3568900,"October 20, 2026",North Carolina,Burlington,Denise Dr,0,1,0,0,0
+3568896,"October 20, 2026",Nevada,Las Vegas,S Casino Center Blvd and Garces Ave,0,1,0,0,0
+3568878,"October 20, 2026",California,Littlerock,116th St E and E Ave T 14,1,0,0,0,0
+3568875,"October 20, 2026",California,Los Angeles,Imperial Hwy and S Olive St,0,1,0,0,0
+3568836,"October 20, 2026",Florida,Jacksonville,King Arthur Rd,1,0,0,0,0
+3568834,"October 20, 2026",Florida,Jacksonville,Texas St and Cahoon Rd,0,1,0,0,0
+3568820,"October 20, 2026",Illinois,Springfield,3100 block of Chatham Rd,0,1,0,0,0
+3568818,"October 20, 2026",Louisiana,Shreveport,Goree Ln,0,1,0,0,0
+3568804,"October 20, 2026",Texas,Hutto,Carl Stern Dr,0,1,0,0,0
+3568758,"October 20, 2026",North Carolina,Candor,100 block of Wiley Dr,0,0,0,1,0
+3569283,"October 20, 2026",Tennessee,Nashville,158 Charles E Davis Blvd,1,0,0,0,0
+3569219,"October 20, 2026",Oregon,Happy Valley,13000 block of SE Highpointe St,3,0,1,0,0
+3569196,"October 21, 2026",Ohio,Cincinnati (Lincoln Heights),900 block of Matthews Dr,0,1,0,0,0
+3569192,"October 21, 2026",Ohio,Cincinnati,3500 block of Vine St,0,1,0,0,2
+3569184,"October 21, 2026",Ohio,Columbus,100 block of N Garfield Ave,0,1,0,0,0
+3569159,"October 21, 2026",Washington,Pasco,Kathemein Ct and W Argent Rd,0,0,1,0,0
+3569161,"October 21, 2026",Ohio,Girard,Kingwood Ln,1,0,0,0,0
+3569148,"October 21, 2026",Ohio,Gnadenhutten,223 N Cherry St,3,0,0,0,0
+3569100,"October 21, 2026",Minnesota,Moose Lake,4424 I-35,1,0,0,0,0
+3569049,"October 21, 2026",Pennsylvania,Upper Darby (Upper Darby Township),7300 block of W Chester Pike,0,1,0,0,1
+3569044,"October 21, 2026",California,Oakland,2000 block of International Blvd,1,0,0,0,0
+3569016,"October 21, 2026",Pennsylvania,Philadelphia,3300 block of Trasker St,0,1,0,0,0
+3568997,"October 21, 2026",Texas,Texarkana,1201 Stuckey St,0,1,0,0,0
+3568973,"October 21, 2026",California,Mojave,2350 CA-58,1,0,0,0,0
+3568965,"October 21, 2026",Texas,San Antonio,3854 Nogalitos St,0,1,0,0,0
+3568961,"October 21, 2026",Pennsylvania,Philadelphia,2800 block of N 20th St,0,3,0,0,0
+3568915,"October 21, 2026",Texas,San Antonio,3854 Nogalitos St,0,1,0,0,1
+3568921,"October 21, 2026",Texas,Humble,9470 FM 1960,0,0,1,0,0
+3569292,"October 21, 2026",Tennessee,Memphis,1100 block of Ryder Ave,0,1,0,0,0
+3569267,"October 21, 2026",Kentucky,Louisville,4200 block of Norbrook Dr,0,1,0,0,0
+3569258,"October 21, 2026",Indiana,Indianapolis,N/A,0,1,0,0,0
+3569254,"October 21, 2026",Indiana,Indianapolis,4500 block of Wycombe Ln,0,1,0,0,0
+3569248,"October 21, 2026",Indiana,Indianapolis,1100 block of Burdsal Pkwy,0,1,0,0,0
+3569241,"October 21, 2026",Kentucky,Paris,2nd St and Main St,0,0,0,1,0
+3569239,"October 21, 2026",Kentucky,Henderson,300 block of S Alves St,0,1,0,0,0
