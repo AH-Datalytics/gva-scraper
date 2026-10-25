@@ -23353,3 +23353,59 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3570216,"October 23, 2026",Maryland,Baltimore,2600 block of Harford Rd,0,1,0,0,0
 3570191,"October 23, 2026",Virginia,Hampton,1500 block of Briarfield Rd,0,1,0,0,0
 3570180,"October 23, 2026",Virginia,Salem,1600 block of Lynchburg Tpke,0,1,0,0,1
+3570420,"August 27, 2026",South Carolina,Columbia,SC-277,0,1,0,0,1
+3570334,"October 12, 2026",Colorado,Aurora,E 1st Ave and Havana St,0,1,0,0,1
+3570451,"October 22, 2026",California,Oroville,Yadina Ln,0,1,0,0,0
+3570342,"October 22, 2026",Florida,Pensacola,7500 block of Frank Reeder Rd,1,0,1,0,0
+3570619,"October 23, 2026",Kentucky,Newport,200 block of E 7th St,1,0,0,0,1
+3570572,"October 23, 2026",Georgia,Atlanta,1596 Foote St NE,0,1,0,0,0
+3570600,"October 23, 2026",Tennessee,Clarksville,Hickory Trace Rd,0,1,0,0,0
+3570562,"October 23, 2026",Maryland,Hagerstown,Randolph Ave,0,0,1,0,0
+3570545,"October 23, 2026",Tennessee,Memphis,2774 S Mendenhall Rd,2,0,0,0,0
+3570469,"October 23, 2026",California,Cathedral City,38300 block of Chuperosa Ln,0,1,0,0,0
+3570462,"October 23, 2026",North Carolina,Spindale,239 W Main St,0,0,1,0,0
+3570417,"October 23, 2026",South Carolina,Anderson,Dixie Dr,0,2,0,0,0
+3570409,"October 23, 2026",California,Redding,2300 block of Washington Ave,1,0,0,0,1
+3570394,"October 23, 2026",Texas,Silsbee,S 4th St and E Ave K,0,0,1,0,0
+3570383,"October 23, 2026",Mississippi,Newton,140 S Frontage Rd,0,1,0,0,0
+3570361,"October 23, 2026",Louisiana,Cameron,LA-27 and Wakefield Rd,0,0,0,1,0
+3570372,"October 23, 2026",Louisiana,Shreveport,Caldwell St,1,0,0,0,0
+3570350,"October 23, 2026",Iowa,Council Bluffs,901 N 35th St,0,1,0,0,0
+3570345,"October 23, 2026",Iowa,Davenport,1500 block of Wisconsin Ave,1,0,0,0,1
+3570328,"October 23, 2026",Colorado,Denver,E 33rd Ave and Marion St,0,0,1,0,0
+3570319,"October 23, 2026",Massachusetts,Boston,12 Beauford Ln,1,0,0,0,0
+3570316,"October 23, 2026",Illinois,Chicago,W Cermak Rd and S Harding Ave,0,1,0,0,0
+3570294,"October 23, 2026",Nevada,Henderson,1100 Center St,2,0,0,0,1
+3570308,"October 23, 2026",Michigan,Saginaw,Cooper Ave and Mershon St,1,1,0,0,0
+3570306,"October 23, 2026",Illinois,Chicago,1400 block of S Karlov Ave,0,1,0,0,0
+3570300,"October 23, 2026",Wisconsin,Milwaukee,N/A,0,1,0,0,0
+3570674,"October 23, 2026",Ohio,Cleveland,4100 block of E 116th St,0,2,0,0,0
+3570669,"October 23, 2026",Ohio,Cleveland,5618 Woodland Ave,0,1,0,0,3
+3570661,"October 23, 2026",Florida,Cape Coral,SW 8th St and Santa Barbara Blvd,0,1,0,0,0
+3570648,"October 24, 2026",Ohio,Marysville,300 block of Sycamore St,0,1,0,0,0
+3570645,"October 24, 2026",Pennsylvania,Philadelphia,11058 Rennard St,0,1,0,0,0
+3570642,"October 24, 2026",Pennsylvania,York,600 block of Company St,0,1,0,0,0
+3570640,"October 24, 2026",Florida,Miami,200 block of NW 63rd St,0,1,0,0,0
+3570633,"October 24, 2026",Kentucky,Louisville,2600 block of Greenwood Ave,1,0,0,0,1
+3570628,"October 24, 2026",Florida,Palm Harbor,37100 US-19,1,0,0,0,0
+3570623,"October 24, 2026",Ohio,Cincinnati,835 Poplar St,0,1,0,0,1
+3570612,"October 24, 2026",Tennessee,Knoxville,2103 E Magnolia Ave,1,0,0,0,0
+3570580,"October 24, 2026",Washington,Seattle,Stone Ave N and N 107th St,0,1,0,0,0
+3570551,"October 24, 2026",Illinois,Chicago,3000 block W Flournoy St,0,3,0,0,0
+3570532,"October 24, 2026",Virginia,Richmond,1900 block of Cool Ln,1,0,0,0,0
+3570502,"October 24, 2026",Tennessee,Memphis,3187 Winchester Rd,0,5,0,0,1
+3570518,"October 24, 2026",North Carolina,Charlotte,16000 block of Simril Ct,1,0,0,0,0
+3570477,"October 24, 2026",North Carolina,Charlotte,700 block of High Meadow Ln,1,0,0,0,0
+3570475,"October 24, 2026",North Carolina,Pfafftown,3666 Clinedale Rd,1,0,0,0,0
+3570472,"October 24, 2026",North Carolina,Arden,20 Pine Needle Ln,2,0,0,0,0
+3570441,"October 24, 2026",California,Mojave,3300 block of Martin Ave,0,1,0,0,0
+3570402,"October 24, 2026",Wisconsin,Milwaukee,N 53rd St and W Center St,1,0,0,0,0
+3570311,"October 24, 2026",Michigan,Detroit,Midland St and Mansfield St,0,1,0,0,0
+3570400,"October 24, 2026",Texas,San Antonio,200 block of Brady Blvd,0,0,0,1,0
+3570396,"October 24, 2026",Arizona,Tempe,Rural Rd and Southern Ave,0,3,0,0,0
+3570389,"October 24, 2026",Texas,Houston,3100 block of Baer St,1,1,0,0,0
+3570359,"October 24, 2026",Kansas,Topeka,1400 block of SW Sixth Ave,1,0,0,0,0
+3570323,"October 24, 2026",Alabama,Harvest,5850 AL-53,0,0,0,1,0
+3570659,"October 24, 2026",California,Los Angeles,N Fickett St and Folsom St,0,1,0,0,0
+3570654,"October 24, 2026",Ohio,Columbus,100 block of S Grant Ave,0,1,0,0,0
+3570652,"October 24, 2026",California,Lancaster,N/A,0,1,0,0,0
