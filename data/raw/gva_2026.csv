@@ -24274,3 +24274,83 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3576807,"November 3, 2026",Illinois,Dolton,14433 Lincoln Ave,1,0,0,0,0
 3576780,"November 3, 2026",Colorado,Colorado Springs,3900 block of E Bijou St,0,2,0,0,0
 3576783,"November 3, 2026",California,Los Angeles,6500 block of S Western Ave,0,1,0,0,0
+3577105,"October 7, 2026",Mississippi,Batesville,200th block of Noble St,0,5,0,0,1
+3577320,"October 8, 2026",Utah,Clearfield,N/A,0,0,0,1,1
+3576918,"October 24, 2026",Wisconsin,Kenosha,4924 Sheridan Rd,0,1,0,0,1
+3577466,"October 28, 2026",Wisconsin,Kenosha,3700 block of 60th Pl,0,1,0,0,1
+3577292,"October 29, 2026",California,Madera,17770 Golden State Blvd,0,1,0,0,0
+3577017,"October 29, 2026",Arkansas,Parkin,100 block of W Front St,1,0,0,0,0
+3577239,"October 30, 2026",Missouri,West Plains,1500 block of Stewart St,0,0,1,0,0
+3577222,"October 30, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3577045,"October 31, 2026",Louisiana,New Orleans,2200 block of Canal St,0,0,0,1,1
+3577043,"October 31, 2026",Louisiana,New Orleans,15000 block of Curran Blvd,0,1,0,0,0
+3576988,"October 31, 2026",Florida,Fort Lauderdale (Davie),N/A,0,1,0,0,0
+3577216,"November 1, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3577174,"November 1, 2026",California,Compton,500 block of W Cedar St,1,0,0,0,0
+3577097,"November 1, 2026",Georgia,Albany,800 block of Cameo Ln,1,0,0,0,4
+3576981,"November 1, 2026",Florida,Miami,1400 block of NW 59th St,1,0,0,0,0
+3577502,"November 1, 2026",Minnesota,Saint Paul,2700 block of 2nd St N,0,0,1,0,0
+3577489,"November 1, 2026",Illinois,Springfield,1135 N 9th St,0,1,0,0,1
+3577477,"November 2, 2026",Wisconsin,Madison,900 block of Rise Ln,0,1,0,0,1
+3577473,"November 2, 2026",Ohio,Cleveland,17300 block of Invermere Ave,1,0,0,0,0
+3577326,"November 2, 2026",New York,Troy,Glen Ave and 7th Ave,0,2,0,0,0
+3577231,"November 2, 2026",Virginia,Roanoke,1600 block of Essex Ave NW,0,1,0,0,0
+3577271,"November 2, 2026",North Carolina,Raeford,100 block of Davis Bridge Rd,0,1,0,0,0
+3577218,"November 2, 2026",Virginia,Norfolk,400 block of Nicholson St,0,1,0,0,0
+3577065,"November 2, 2026",Florida,Miami,11020 SW 196th St,0,1,0,0,0
+3577032,"November 2, 2026",North Carolina,Gastonia,1027 Old Church Rd,1,0,0,0,1
+3576975,"November 2, 2026",Florida,Jacksonville,Lane Ave S and Park St,1,2,0,0,0
+3576949,"November 2, 2026",South Carolina,Greer,411 The Parkway,0,1,0,0,0
+3577457,"November 3, 2026",Virginia,Petersburg,2100 block of Ft Rice St,0,1,0,0,1
+3577442,"November 3, 2026",West Virginia,Oak Hill,400 3rd St,1,0,0,0,0
+3577405,"November 3, 2026",California,Shasta Lake,3000 block of Los Gatos Ave,0,1,0,1,1
+3577371,"November 3, 2026",California,Dana Point,Breakers Isle and Niguel Shores Dr,1,0,0,0,1
+3577369,"November 3, 2026",Oklahoma,Oklahoma City,S Morgan Rd and SW 29th St,0,1,0,0,0
+3577150,"November 3, 2026",Texas,Bryan,N Harvey Mitchell Pkwy and Texas 6 Frontage Rd,1,0,0,0,0
+3576940,"November 3, 2026",Washington,Spangle,18700 block of S. Smythe Rd,3,2,1,0,0
+3577305,"November 3, 2026",New York,Bronx,3950 Blackstone Ave,1,0,1,0,0
+3577318,"November 3, 2026",Missouri,Unionville,1600 block of Washington St,1,0,0,0,0
+3577285,"November 3, 2026",Utah,Salt Lake City,768 N Redwood Rd,1,0,0,0,1
+3577070,"November 3, 2026",Texas,Houston,11973 Proctor St,1,0,0,0,1
+3577265,"November 3, 2026",North Carolina,Durham,Holloway St and Alma St,0,1,0,0,0
+3577226,"November 3, 2026",Texas,Dallas,1900 block of Market Center Blvd,1,0,0,0,0
+3577179,"November 3, 2026",California,Gardena,14720 S Main St,1,0,0,0,0
+3577053,"November 3, 2026",Texas,Fort Worth,35 E Lancaster Ave,0,1,0,0,0
+3577159,"November 3, 2026",Georgia,Savannah,500 block of Pennsylvania Ave,0,1,0,0,1
+3577157,"November 3, 2026",Georgia,Savannah,200 block of Sugar Mill Dr,1,0,0,0,0
+3577153,"November 3, 2026",Georgia,Atlanta,Murphy Ave and Osborne St,0,1,0,0,0
+3577087,"November 3, 2026",Delaware,Wilmington,2300 block of Jessup St,1,2,0,0,0
+3577103,"November 3, 2026",Georgia,Stockbridge,120 Hwy 138 W,0,0,1,0,0
+3577077,"November 3, 2026",Florida,Brooksville,E Liberty St and S Alabama Ave,0,1,0,0,1
+3577067,"November 3, 2026",Florida,Oviedo,Laurel Oaks Ct,0,1,0,0,1
+3577051,"November 3, 2026",Louisiana,Shreveport,4025 Golf Links Dr,0,1,0,0,0
+3577049,"November 3, 2026",District of Columbia,Washington,700 block of Atlantic St SE,0,1,0,0,0
+3577022,"November 3, 2026",Arkansas,Conway,1325 US-64,0,1,0,0,0
+3576983,"November 3, 2026",Ohio,Cincinnati,E Pete Rose Way and Broadway St,0,1,0,0,1
+3576996,"November 3, 2026",Georgia,Atlanta,400 block of Glenn St SW,0,1,0,0,0
+3576991,"November 3, 2026",Florida,Orlando,4600 block of America St,0,3,0,0,0
+3576979,"November 3, 2026",Florida,Miami,2410 NW 119th St,0,1,0,0,0
+3576968,"November 3, 2026",Florida,Pensacola,9508 Sidney Rd,0,0,1,0,0
+3576961,"November 3, 2026",Illinois,Chicago,3400 block of W Diversey Ave,1,0,0,0,0
+3577475,"November 4, 2026",Michigan,Detroit,1100 block of Virginia Park,0,1,0,0,0
+3577454,"November 4, 2026",Michigan,Detroit,Cherrylawn St and Chippewa Ave,0,1,0,0,0
+3577452,"November 4, 2026",Maryland,Temple Hills (Marlow Heights),4600 block of Dallas Pl,0,1,0,0,0
+3576985,"November 4, 2026",Illinois,Chicago,9700 block of S Ave L,1,0,0,0,0
+3577426,"November 4, 2026",Kentucky,Corbin,1409 KY-90,0,1,0,0,1
+3577420,"November 4, 2026",Minnesota,Cottage Grove,9653 Keats Ave S,1,0,1,0,0
+3577094,"November 4, 2026",Ohio,Columbus,800 block of Gibbard Ave,1,1,0,0,1
+3577400,"November 4, 2026",California,Orland,120 Roosevelt Ave,1,0,0,0,0
+3577262,"November 4, 2026",North Carolina,Rocky Mount,1100 block of Long Ave,0,1,0,0,0
+3577260,"November 4, 2026",Texas,Spring,21500 block of Lozar Dr,0,1,0,0,0
+3577237,"November 4, 2026",Kansas,Wichita,1800 block of S George Washington Ct,1,0,0,0,0
+3577073,"November 4, 2026",Florida,Orlando,SR-408,0,0,0,1,0
+3577061,"November 4, 2026",Florida,Jacksonville,14600 block of Serenoa Dr,0,1,0,0,0
+3577047,"November 4, 2026",Maryland,Rockville,200 block of N Washington St,1,0,0,0,0
+3577038,"November 4, 2026",Arizona,Scottsdale,N 87th St and E Cactus Rd,1,0,0,0,1
+3576966,"November 4, 2026",Alabama,Birmingham,4300 block of 12th Ct N,1,0,0,0,0
+3577606,"November 4, 2026",Tennessee,Memphis,3800 block of Edenburg Dr,0,1,0,0,0
+3577599,"November 4, 2026",Pennsylvania,Philadelphia,4700 block of Benner St,0,1,0,0,0
+3577566,"November 4, 2026",Kentucky,Louisville,N/A,0,1,0,0,0
+3577540,"November 4, 2026",Michigan,Flint,400 block of N Dort Hwy,0,2,0,0,0
+3577523,"November 4, 2026",Michigan,Warren,Berkshire Ave,0,1,0,1,0
+3577267,"November 4, 2026",Florida,Brandon,1020 S Kings Ave,1,0,1,0,0
