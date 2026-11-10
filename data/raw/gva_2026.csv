@@ -24639,3 +24639,89 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3579441,"November 8, 2026",Arizona,Phoenix,83rd Ave and W Campbell Ave,1,0,0,0,0
 3579372,"November 8, 2026",Pennsylvania,Lancaster,Sunningdale Ct S,1,0,0,0,0
 3579353,"November 8, 2026",Illinois,Chicago,12600 block of S Carondolet Ave,1,0,0,0,0
+3580266,"October 14, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3580264,"October 14, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3580278,"October 19, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3580255,"October 22, 2026",Alabama,Daleville,511 County Rd 109,1,0,0,0,0
+3580257,"November 1, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3580298,"November 5, 2026",Michigan,Battle Creek,Jordan St and Somerset Ave,0,1,0,0,0
+3580210,"November 6, 2026",Missouri,Carrollton,Monroe St,0,1,0,0,0
+3579942,"November 6, 2026",Texas,Houston,9500 block of Stella Link Rd,0,1,0,0,0
+3579906,"November 6, 2026",Louisiana,Ruston,600 block of E Maryland Ave,0,2,0,0,0
+3580336,"November 7, 2026",Colorado,Denver,2300 block of Cleveland Plc,0,1,0,0,1
+3580332,"November 7, 2026",Ohio,Youngstown,Cooper St and E Indianola Ave,0,1,0,0,0
+3580323,"November 7, 2026",South Dakota,Pine Ridge,N/A,1,0,0,0,0
+3580292,"November 7, 2026",Illinois,Macomb,300 block of W Adams St,0,1,0,0,1
+3580142,"November 7, 2026",Missouri,Fenton,20 block of Georgia Spur,0,1,0,0,1
+3580038,"November 7, 2026",Maryland,Baltimore,2600 block of Washington Blvd,0,1,0,0,1
+3579936,"November 7, 2026",Texas,Houston,13250 Westheimer Rd,1,0,0,0,0
+3579917,"November 7, 2026",Pennsylvania,Harrisburg,10 block of N Progress Ave,0,1,0,0,1
+3579841,"November 7, 2026",Arizona,Flagstaff,5803 US-89,0,0,1,0,0
+3580407,"November 7, 2026",Arkansas,Maumelle,2 Village Way,1,0,0,0,1
+3580160,"November 8, 2026",Alabama,Huntsville,5401 Millenium Dr,1,0,1,0,0
+3580179,"November 8, 2026",Alabama,Tuscaloosa,4329 Culver Rd,1,0,0,0,1
+3580300,"November 8, 2026",Ohio,Cleveland (Cleveland Heights),1700 block of Andrews Rd,1,0,0,0,2
+3580238,"November 8, 2026",California,Redlands,E San Bernardino Ave and Orange St,0,1,0,0,0
+3580186,"November 8, 2026",Missouri,Kansas City (Raytown),8500 block of E 86th Terrace,0,1,0,0,1
+3580175,"November 8, 2026",Alabama,Montgomery,Stuart St and Edgar D Nixon Ave,1,0,0,0,0
+3580163,"November 8, 2026",New York,New York (Manhattan),Lexington Ave and E 112th St,0,1,0,0,0
+3579808,"November 8, 2026",Indiana,Indianapolis,200 block of S Sheridan Ave,0,1,0,0,0
+3580124,"November 8, 2026",New York,Rochester,Berme Rd,0,0,0,1,0
+3580074,"November 8, 2026",Missouri,Saint Louis,8900 block of Newby St,1,0,0,0,0
+3580119,"November 8, 2026",Virginia,Hampton,2100 block of Cunningham Dr,1,0,0,0,0
+3580016,"November 8, 2026",Missouri,Saint Louis,200 block of Washington Ave,1,0,0,0,1
+3580102,"November 8, 2026",Virginia,Roanoke,1400 block of Staunton Ave NW,0,3,0,0,1
+3580086,"November 8, 2026",Louisiana,Baton Rouge,St Croix Ave,1,0,0,0,2
+3580083,"November 8, 2026",New Jersey,Paterson,Hamilton Ave and Carroll St,0,1,0,0,0
+3580062,"November 8, 2026",Louisiana,Loranger,N St Charles Ave and Park Ln,0,1,0,0,0
+3580055,"November 8, 2026",New Hampshire,Seabrook,134 Lafayette Rd,0,1,0,0,0
+3580052,"November 8, 2026",Texas,Grapeland,168 Wg Downs Rd,0,0,1,0,0
+3580025,"November 8, 2026",Oklahoma,Ardmore,400 block of Park St SE,1,0,0,0,0
+3579995,"November 8, 2026",Texas,Houston,8615 Winkler Dr,1,0,0,0,1
+3579971,"November 8, 2026",California,Sacramento,7401 Power Inn Rd,0,2,0,0,0
+3579959,"November 8, 2026",California,Stockton,San Antonio Dr and San Carlos Way,0,1,0,0,0
+3579953,"November 8, 2026",Connecticut,Bridgeport,N/A,0,1,0,0,0
+3579945,"November 8, 2026",Texas,Houston,Huntington Glen Dr,0,1,0,0,0
+3579913,"November 8, 2026",California,Riverside,University Ave and Douglass Ave,0,0,1,0,0
+3579909,"November 8, 2026",Pennsylvania,Philadelphia,2000 block of E Cambria St,0,1,0,0,0
+3579863,"November 8, 2026",North Carolina,Charlotte,700 block of Lightspun Ln,0,1,0,0,0
+3579849,"November 8, 2026",Texas,Mckinney,1700 block of Wilmeth Rd,0,1,1,0,0
+3579847,"November 8, 2026",North Carolina,Charlotte,5000 block of Ragsdale Dr,1,0,0,0,0
+3579825,"November 8, 2026",District of Columbia,Washington,800 block of 51st St SE,1,0,0,0,0
+3579839,"November 8, 2026",Georgia,Atlanta,296 Northside Dr SW,0,1,0,0,0
+3579836,"November 8, 2026",Georgia,Atlanta,1160 Greenwood Ave SE,0,1,0,0,0
+3579833,"November 8, 2026",Georgia,Savannah,Cedar St and E 33rd St,2,0,0,0,0
+3579829,"November 8, 2026",Florida,Jacksonville,1000 block of Reiman St,0,1,0,0,0
+3579827,"November 8, 2026",Florida,Gainesville,NW 3rd Ave and NW 11th St,0,1,0,0,0
+3580418,"November 8, 2026",Tennessee,Chattanooga,6700 block of Heritage Business Ct,0,1,0,0,0
+3580405,"November 8, 2026",Tennessee,Memphis,5959 Winchester Rd,1,0,0,0,0
+3580383,"November 8, 2026",Mississippi,Vicksburg,2115 Clay St,0,0,0,1,0
+3580357,"November 8, 2026",Missouri,Saint Louis,N/A,1,0,0,0,2
+3580349,"November 9, 2026",Missouri,Saint Louis,3000 block of James Cool Papa Bell Ave,0,0,0,1,0
+3580345,"November 9, 2026",Minnesota,Minneapolis,N Oliver Ave and Oak Park Ave N,0,1,0,0,0
+3580343,"November 9, 2026",Colorado,Denver,2100 Block of Arapahoe St,0,1,0,0,0
+3580341,"November 9, 2026",Minnesota,Minneapolis,5th Ave S and S 10th St,0,1,0,0,0
+3580334,"November 9, 2026",Michigan,Detroit,N/A,0,1,0,0,0
+3580315,"November 9, 2026",Illinois,Chicago,W Fulton St and N Lamon Ave,0,1,0,0,0
+3579844,"November 9, 2026",Illinois,Chicago,5400 block of S Hermitage Ave,0,0,1,0,0
+3580295,"November 9, 2026",Oklahoma,Tulsa,Admiral Rd and Garnett Rd,0,1,0,0,1
+3580289,"November 9, 2026",Oklahoma,Oklahoma City (Warr Acres),NW 58th Terrace and Mueller Ave,0,0,0,1,0
+3580275,"November 9, 2026",Kansas,Wichita,E 17th St N and N Poplar St,0,1,0,0,0
+3580170,"November 9, 2026",Wisconsin,Milwaukee,2200 block of W Melvina St,0,2,0,0,0
+3580212,"November 9, 2026",Illinois,Decatur,1300 block of E William St,0,1,0,0,0
+3580205,"November 9, 2026",New York,Rochester,1300 Titus Ave,1,0,0,0,0
+3580184,"November 9, 2026",Alabama,Sylacauga,Spring Valley Rd,1,0,0,0,0
+3580167,"November 9, 2026",Alabama,Bessemer,2805 Dartmouth Ave,0,2,0,0,0
+3580165,"November 9, 2026",Indiana,Indianapolis,W 40th St and Cornelius Ave,1,0,0,0,0
+3580112,"November 9, 2026",Michigan,Westland,S Wayne Rd and Palmer Rd,1,0,1,0,0
+3580080,"November 9, 2026",Missouri,Saint Louis,5300 block of Lotus Ave,0,0,1,0,0
+3579962,"November 9, 2026",Connecticut,Bridgeport,N/A,0,1,0,0,0
+3579911,"November 9, 2026",Pennsylvania,Philadelphia,3000 block of W Susquehanna Ave,0,1,0,0,0
+3579894,"November 9, 2026",South Carolina,Orangeburg,Kings Rd,0,1,0,0,0
+3579875,"November 9, 2026",Louisiana,New Orleans,5600 block of Read Blvd,0,2,0,0,0
+3579872,"November 9, 2026",Arizona,Phoenix,W Buckeye Rd and S Central Ave,0,1,0,0,0
+3579868,"November 9, 2026",Arizona,Phoenix,Camelback Rd and 7th Ave,0,1,0,0,0
+3579822,"November 9, 2026",Illinois,Chicago,3900 block of S King Dr,0,2,0,0,0
+3580414,"November 9, 2026",Tennessee,Murfreesboro,4500 block of Veterans Pkwy,0,1,0,0,0
+3580401,"November 9, 2026",Tennessee,Memphis,1341 Winchester Rd,1,0,0,0,0
+3580392,"November 9, 2026",Tennessee,Memphis,264 Scott St,0,1,0,0,0
