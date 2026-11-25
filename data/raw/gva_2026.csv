@@ -25663,3 +25663,87 @@ incident_id,date,state,city_or_county,address,victims_killed,victims_injured,sus
 3587420,"November 23, 2026",Ohio,Columbus,1800 block of E Hudson St,1,1,0,0,0
 3587408,"November 23, 2026",West Virginia,Charleston,I-77 and I-64,0,1,0,0,1
 3587397,"November 23, 2026",West Virginia,Charleston,900 block of Crescent Rd,0,1,0,0,0
+3587878,"November 10, 2026",California,Los Angeles,N/A,1,0,0,0,0
+3587632,"November 18, 2026",New Mexico,Clovis,N/A,0,1,0,0,1
+3587854,"November 19, 2026",Colorado,Commerce City,16345 E 104th Ave,1,0,0,0,0
+3587688,"November 20, 2026",Alabama,Dothan (Rehobeth),Johnny Murphy Rd,1,0,0,0,0
+3587657,"November 20, 2026",Texas,Houston,10950 Tanner Park Ct,1,0,0,0,0
+3587605,"November 20, 2026",Mississippi,Waynesboro,500 block of Mississippi Dr,0,1,0,0,1
+3587569,"November 20, 2026",Texas,Del Valle,7121 Elroy Rd,0,1,0,0,1
+3587871,"November 21, 2026",South Carolina,Eutawville,Tunita St,1,1,0,0,1
+3587549,"November 21, 2026",Arizona,Bullhead City,AZ-68 and Landon Dr,0,0,0,1,0
+3587858,"November 22, 2026",California,Santa Clarita,N/A,1,0,0,0,0
+3587772,"November 22, 2026",Texas,Garland,3200 block of W Walnut St,1,0,0,0,0
+3587756,"November 22, 2026",North Carolina,Wallace,5500 block of S North Carolina 50 Hwy,0,1,0,0,1
+3587745,"November 22, 2026",New Mexico,Taos,N/A,1,0,0,0,1
+3587603,"November 22, 2026",Mississippi,Jackson,Taylor St,1,0,0,0,0
+3587519,"November 22, 2026",Tennessee,Memphis,Tarrywood Dr,0,1,0,1,0
+3587515,"November 22, 2026",Oklahoma,Tulsa,1337 E 61st St,0,1,0,0,1
+3588127,"November 22, 2026",Ohio,Cleveland (East Cleveland),14800 block of Euclid Ave,0,1,0,0,0
+3588112,"November 22, 2026",Ohio,Euclid,1400 block of E 222nd St,1,0,0,0,0
+3587974,"November 23, 2026",North Dakota,New Town,N/A,0,0,1,0,0
+3587832,"November 23, 2026",Maryland,Laurel,8800 block of Hunting Ln,1,0,0,0,1
+3587840,"November 23, 2026",Missouri,Falcon,N/A,1,0,0,0,0
+3587730,"November 23, 2026",Maryland,Baltimore,3800 block of W Garrison Ave,0,1,0,0,0
+3587801,"November 23, 2026",Missouri,Saint Louis,900 block of Jefferson Ave,0,2,0,0,0
+3587789,"November 23, 2026",Washington,Seattle,NW Leary Wy and 15th Ave NW,0,1,0,0,1
+3587781,"November 23, 2026",California,Fresno,3302 W Shields Ave,1,0,0,0,0
+3587583,"November 23, 2026",New Mexico,Alamogordo,N Florida Ave and Tierra Bella Dr,0,0,1,0,0
+3587727,"November 23, 2026",North Carolina,Greenville,400 Manhattan Ave,1,0,0,0,1
+3587721,"November 23, 2026",California,Sacramento,F St and 9th St,0,1,0,0,0
+3587719,"November 23, 2026",North Carolina,Greensboro,4300 block of Big Tree Way,0,1,0,0,0
+3587671,"November 23, 2026",New Mexico,Carlsbad,1200 block of Normandy St,1,0,0,0,1
+3587631,"November 23, 2026",Illinois,Chicago,3300 block of W Evergreen Ave,1,0,0,0,0
+3587628,"November 23, 2026",Georgia,Sandersville,327 Hall St,0,1,0,0,1
+3587625,"November 23, 2026",Georgia,Atlanta,I-75 and University Ave SW,0,1,0,0,0
+3587621,"November 23, 2026",Georgia,Atlanta,1217 Joseph E Boone Blvd NW,0,1,0,0,0
+3587596,"November 23, 2026",Texas,Arlington,2200 block Templeton Dr,0,1,0,0,1
+3587611,"November 23, 2026",Texas,Nevada,5300 block of S State Hwy 78,0,1,0,0,1
+3587544,"November 23, 2026",Texas,Austin,2906 E Martin Luther King Jr Blvd,0,1,0,0,3
+3587577,"November 23, 2026",Louisiana,Baton Rouge,3348 Drusilla Ln,0,1,0,0,0
+3587575,"November 23, 2026",Florida,Tallahassee,4000 block of Joseph St,1,0,0,0,0
+3587572,"November 23, 2026",Florida,Shady Grove,Shady Grove Rd,1,0,0,0,1
+3587565,"November 23, 2026",Florida,Micanopy,12130 S US 441,1,0,0,0,0
+3587558,"November 23, 2026",Arizona,Phoenix,Central Ave and Broadway Rd,0,2,0,0,0
+3587529,"November 23, 2026",Maryland,Baltimore,800 block of Appleton St,0,2,0,0,0
+3588133,"November 23, 2026",West Virginia,Kearneysville,Lisa Ln,3,0,0,0,0
+3588129,"November 23, 2026",Ohio,Cleveland (East Cleveland),14800 block of Euclid Ave,0,1,0,0,0
+3588050,"November 23, 2026",Ohio,Zanesville,1825 Adams Ln,1,0,0,0,1
+3588047,"November 23, 2026",Ohio,Toledo,Eastern Ave and Broadway St,0,1,0,0,0
+3588038,"November 24, 2026",Michigan,Detroit,I-96 and MLK Jr Blvd,0,1,0,0,0
+3588032,"November 24, 2026",Minnesota,Minnetonka,14600 Minnetonka Blvd,0,1,0,0,0
+3587996,"November 24, 2026",Wisconsin,Milwaukee,7800 block of W Fond Du Lac Ave,0,3,0,0,0
+3588004,"November 24, 2026",Wisconsin,Milwaukee,E Michigan St and N Broadway,0,1,0,0,0
+3587993,"November 24, 2026",North Dakota,Minot,5116 16th Ave SE,1,0,0,0,1
+3587968,"November 24, 2026",Missouri,Kansas City (Raytown),E 84 St and Lane Ave,1,0,1,0,0
+3587952,"November 24, 2026",Illinois,Chicago,W Adams St and S Cicero Ave,0,1,0,0,0
+3587931,"November 24, 2026",Oklahoma,Oklahoma City,SW 29th St and S Blackwelder Ave,0,1,0,0,0
+3587921,"November 24, 2026",Oklahoma,Tulsa,N 66th E Ave and E Oklahoma St,0,0,1,0,1
+3587902,"November 24, 2026",California,Norwalk,14700 block of Pioneer Blvd,0,1,0,0,0
+3587900,"November 24, 2026",California,Los Angeles,3650 Verdugo Rd,0,1,0,0,0
+3587891,"November 24, 2026",New York,Bronx,960 E 163rd St,0,1,0,0,0
+3587885,"November 24, 2026",Virginia,Mechanicsville,9200 block of Cremins Ct,0,1,0,0,1
+3587842,"November 24, 2026",California,Barstow,200 block of Plaimor Ave,0,1,0,0,0
+3587834,"November 24, 2026",Missouri,Springfield,N Friendship Ln,0,0,1,0,0
+3587815,"November 24, 2026",Missouri,Saint Louis,10300 block of Yardwood Ct,0,3,0,0,4
+3587777,"November 24, 2026",North Carolina,Fuquay Varina,5000 block of Fleming Rd,0,1,0,0,0
+3587705,"November 24, 2026",Utah,South Jordan,10700 S and Topview Rd,0,0,1,0,0
+3587699,"November 24, 2026",Texas,Del Rio,300 block of Foster St,0,0,1,0,0
+3587678,"November 24, 2026",Alabama,Birmingham (Center Point),113 16th Terrace NE,0,1,1,0,0
+3587664,"November 24, 2026",Washington,Puyallup,8th Ave NW,0,0,0,1,0
+3587666,"November 24, 2026",North Carolina,Asheville,161 S Charlotte St,1,0,1,0,0
+3587646,"November 24, 2026",Texas,Houston,10950 Tanner Park Ct,0,1,0,0,0
+3587536,"November 24, 2026",Texas,Houston,5600 block of Antoine Dr,0,1,0,0,0
+3587641,"November 24, 2026",Texas,Houston,Beulah St and Burkett St,2,2,0,0,0
+3587623,"November 24, 2026",Texas,Chico,306 N TX-101,0,0,1,0,0
+3587532,"November 24, 2026",Texas,Dallas,1805 S Zang Blvd,0,3,0,0,0
+3587585,"November 24, 2026",Texas,Nederland,1616 FM 365,0,0,1,0,0
+3588131,"November 24, 2026",Ohio,De Graff,112 White Oak St,1,0,0,0,0
+3588125,"November 24, 2026",Tennessee,Castalian Springs,Rankin Rd,1,0,0,0,0
+3588110,"November 24, 2026",Pennsylvania,New Kensington (Arnold),McCandless St and Woodmont Ave,0,1,0,0,0
+3587917,"November 24, 2026",Illinois,Chicago,2600 W 35th St,1,0,0,0,0
+3588068,"November 24, 2026",Illinois,Chicago,S Kedzie Ave and W Flournoy St,0,1,0,0,0
+3588063,"November 24, 2026",Illinois,Chicago,W 44th St and S Wood St,0,1,0,0,0
+3588058,"November 24, 2026",Illinois,Peoria,N Broadway St and W Thrush Ave,1,0,0,0,0
+3588045,"November 24, 2026",Indiana,Fort Wayne,6309 Lima Rd,0,1,0,0,0
+3588041,"November 24, 2026",Illinois,Chicago,E 87th St and S Cottage Grove Ave,0,1,0,0,0
